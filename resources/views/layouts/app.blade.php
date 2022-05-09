@@ -193,7 +193,7 @@ table th.sort-up:after {
                     <div class="top-bar-left">
                        
                         <ul class="dropdown menu" data-dropdown-menu>
-                            <li class="menu-text textwhite"><a href="{{url('/')}}">Gijsen Advies</a></li>
+                            <li class="menu-text textwhite"><a href="{{url('/')}}">Zandvoort</a></li>
                             @if (Auth::check())     
                             <li>
                                 <a href="{{url('/')}}">Klanten</a>
@@ -213,10 +213,6 @@ table th.sort-up:after {
                            <li>
                                 <a href="{{url('/lists/blusbrand')}}">Lijsten</a>
                                 <ul class="menu vertical">
-                                      <li><a href="{{ url('/lists/blusbrand')}}">Blus - Merken</a></li>
-                                      <li><a href="{{ url('/lists/blusstof')}}">Blus - Blusstof</a></li>
-                                      <li><a href="{{ url('/lists/blustype')}}">Blus - Types</a></li>
-                                       <li><a href="{{ url('/lists/nood/Type/toestel')}}">Keer. Toestellen</a></li>  
                                       <li><a href="{{ url('/lists/nood/Brand/armatuur')}}">N - Armatuur merk</a></li>
                                       <li><a href="{{ url('/lists/nood/Brand/continu')}}">N - Continu merk</a></li>
                                       <li><a href="{{ url('/lists/nood/Brand/nood')}}">N - Nood merk</a></li>
