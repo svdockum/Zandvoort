@@ -1,0 +1,34 @@
+﻿;;;Onderhoudsrapport;;;;;;
+;;;;;;;;;
+;;;BCO Brandpreventie;;;;;;
+;;;Galliershof 22;;;;;;
+;;;5349 BV Oss;;;;;;
+;;;;;;;;;
+Klant: Kemkens;;;Naam monteur: Marty Gutte;;;;;;
+Locatie: Heikantsebaan 38 en 40;;;Datum: Oktober, 2015;;;;;;
+Adres: Veldhoven;;;;;;;;;
+;;;;;;;;;
+Locatiegegevens;;;;Beveiliging;;Resultaat;;Montagegevens;
+Nr.;Etage;Ruimte;Toestel;Huidige beveiliging;Vereiste beveiliging;Plaats beveiliging;Drukvast;Diameter;Soort fitting (CAP/KNEL/SCHROEF)
+1;bg;buiten bij 38;buitenkraan;;;voorkant;;;
+2;bg;buiten bij 38;buitenkraan;;;achterkant;JA;;
+3;bg;keuken 38;vaatwasser;EA;;;JA;1/2;schroef
+4;1e;wasruimte 38;wm;EA;;;JA;1/2;schroef
+5;1e;cv ruimte 38;circulatieleiding;EA;;;JA;1/2;schroef
+6;1e;cv ruimte 38;inlaat combi;EA;;;JA;15;knel
+7;1e;cv ruimte 38;wm;EA;;;JA;22;knel
+8;1e;cv ruimte 40;vulkraan;EA;;;JA;1/2;schroef
+9;1e;cv ruimte 40;circulatieleiding;EA;;;JA;15;knel
+10;1e;cv ruimte 40;inlaat combi;EA;;;JA;22;knel
+11;bg;buiten bij 40;buitenkraan;;;achterkant;JA;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+Keerklep:;;Opmerking;;;;;;;
+1;;Geen Waterdruk;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;

@@ -1,0 +1,29 @@
+﻿Monteur : M Gutte;;
+Adres       : Stulp 6 en 8;;
+;;
+Locatie;Tappunt;Temp.
+Kamer 20;Keukenmengkraan links;43,6 C°
+;Keukenmengkraan rechts;45,6 C°
+Kamer 24;Wastafelmengkraan;37,7 C°
+;Badmengkraan;38,9 C°
+Minder valide toilet;wastafelmengkraan;34,7 C°
+;badmengkraan;38,2 C°
+;douchemengkraan;39,6 C°
+Kamer 28;Wastafelmengkraan;42,9 C°
+Mindervalide toilet;Wastafelmengkraan;40,6 C°
+;Badmengkraan;37,2 C°
+;douchemengkraan;38,1 C°
+Kamer 26;Uitstortgootsteen;39,0 C°
+Kamer 1;Wastafelmengkraan;36,2 C°
+Kamer 2;Wastafelmengkraan;37,3 C°
+Kamer 3;Wastafelmengkraan;38,2 C°
+Kamer 4;Wastafelmengkraan;38,1 C°
+Kamer 5;Wastafelmengkraan;15,2 C°
+Kamer 7;Wastafelmengkraan;38,0 C°
+Kamer 37;Wastafelmengkraan;41,6 C°
+Kamer 53;Wastafelmengkraan;41,1 C°
+Kamer 38;Wastafelmengkraan;39,9 C°
+Kamer 39;Wastafelmengkraan;38,3 C°
+Kamer 40;Wastafelmengkraan;41,7 C°
+Kamer 36;Wastafelmengkraan;36,7 C°
+Kamer 41;Wastafelmengkraan;40,7 C°

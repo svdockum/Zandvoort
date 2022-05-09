@@ -1,0 +1,21 @@
+﻿;;;Onderhoudsrapport;;;;;;
+;;;;;;;;;
+;;;BCO Brandpreventie;;;;;;
+;;;Galliershof 22;;;;;;
+;;;5349 BV Oss;;;;;;
+;;;;;;;;;
+Klant: Gemeente Oss;;;Naam monteur: Marty Gutte;;;;;;
+Locatie: Brandweer Ravenstein;;;Datum: November, 2015;;;;;;
+Adres: Schaafdries 4, Ravenstein;;;;;;;;;
+;;;;;;;;;
+Locatiegegevens;;;;Beveiliging;;Resultaat;;Montagegevens;
+Nr.;Etage;Ruimte;Toestel;Huidige beveiliging;Vereiste beveiliging;Plaats beveiliging;Drukvast;Diameter;Soort fitting (CAP/KNEL/SCHROEF)
+1;;hal;meterput;EA;;;JA;Ø28;cap
+2;;hal;meterput;EA;;;JA;Ø28;cap
+3;;keuken;koffieautomaat;EA;;In keukenkast;JA;Ø15;knel
+4;;garage;kw kraan;DA-EB;;;JA;1/2;schroef
+5;;garage;brandslanghaspel;EA;;;JA;Ø22;cap
+6;;ketelhok buiten;vulkraan;EA;;;JA;Ø15;cap
+7;;ketelhok buiten;inlaatcombinatie;EA;;;JA;Ø15;knel
+Opmerkingen:;;;;;;;;;
+;;;;;;;;;

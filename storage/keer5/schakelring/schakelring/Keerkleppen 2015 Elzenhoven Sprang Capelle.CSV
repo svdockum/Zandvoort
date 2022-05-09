@@ -1,0 +1,40 @@
+﻿;;;Onderhoudsrapport;;;;;;
+;;;;;;;;;
+;;;BCO Brandpreventie;;;;;;
+;;;Galliershof 22;;;;;;
+;;;5349 BV Oss;;;;;;
+;;;;;;;;;
+Klant: Schakelring;;;Naam monteur: Marty Gutte;;;;;;
+Locatie: Schakelring locatie Elzenhoven;;;Datum: 17-09-2015;;;;;;
+Adres: Sprang-Capelle;;;;;;;;;
+;;;;;;;;;
+Locatiegegevens;;;;Beveiliging;;Resultaat;;Montagegevens;
+Nr.;Etage;Ruimte;Toestel;Huidige beveiliging;Vereiste beveiliging;Plaats beveiliging;Drukvast;Diameter;Soort fitting (CAP/KNEL/SCHROEF)
+1;B.G.;Hoofdingang;Buitenkraan;EA;;In kruipruimte ;JA;;
+2;B.G.;Einde gang bij kamer 7e;Buitenkraan;EA;;In kruipruimte ;JA;15;Knel
+3;B.G.;Einde gang bij kamer 8e;Buitenkraan;EA;;In kruipruimte ;JA;15;Knel
+4;B.G.;Hal bij receptie;B.S.H. 5+6;EA;;In kruipruimte ;JA;;
+5;B.G.;Restaurant;Koffiezetautomaat;EA;;Achter koffiezetautomaat;JA;3/4;Schroef
+6;B.G.;Gang bij kamer 0.03;B.S.H. 4+11;EA;;In kruipruimte ;NEE;;
+7;B.G.;Gang bij ruimte 0.33;B.S.H. 3+10;EA;;In kruipruimte ;JA;;
+8;B.G.;Gang bij kamer 15-7a;B.S.H. 13+9;EA;;In kruipruimte ;JA;;
+9;B.G.;Gang bij kamer 15-8e;B.S.H. 2+8;EA;;In kruipruimte ;JA;;
+10;B.G.;Gang bij kamer 0.29;B.S.H. 1+7;EA;;In kruipruimte ;JA;;
+11;B.G.;Centrale keuken;Knijp-spoelkraan kw;EA;;Onder kraan;JA;15;Cap
+12;B.G.;Centrale keuken;Knijp-spoelkraan ww;EA;;Onder kraan;NEE;15;Cap
+13;B.G.;Centrale keuken;Koffiezetautomaat;EA;;Onder koffiezetautomaat;JA;3/4;Schroef
+14;1e verd.;Vuil linnen 1.31;Wasmachine kw;EA;;Achter wasmachine;JA;3/4;Schroef
+15;1e verd.;Vuil linnen 1.31;Wasmachine ww;EA;;Achter wasmachine;JA;3/4;Schroef
+16;1e verd.;Kapsalon;Knijp-douche kraan kw;EA;;Nabij kraan;JA;15;Knel
+17;1e verd.;Kapsalon;Knijp-douche kraan ww;EA;;Nabij kraan;JA;15;Knel
+18;2e verd.;Ketelhuis;Boiler verzorging kw;EA;;Nabij boiler;JA;35;Cap
+19;2e verd.;Ketelhuis;Boiler woningen kw;EA;;Nabij boiler;JA;35;Cap
+20;2e verd.;Ketelhuis;WW circulatie;EA;;Nabij circulatiepomp;NEE;22;Knel
+21;2e verd.;Gang T.D.;B.S.H. 12;EA;;In ketelhuis bij boiler;JA;22;Knel
+22;2e verd.;Ketelhuis;CV Vulkraan;EA;;Bij c.v. vulkraan;JA;22;Knel
+23;2e verd.;Ketelhuis;WW circulatie;;;leiding aan plafond;NEE;;
+24;1e verd.;kantine bij 105;koffie automaat;EA;;keukenkast;JA;3/4;schroef
+25;1e verd.;kantine bij 105;vaatwasser;EA;;keukenkast;JA;3/4;schroef
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;

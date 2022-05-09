@@ -1,0 +1,23 @@
+﻿;;;Onderhoudsrapport;;;;;;
+;;;;;;;;;
+;;;BCO Brandpreventie;;;;;;
+;;;Galliershof 22;;;;;;
+;;;5349 BV Oss;;;;;;
+;;;;;;;;;
+Klant: Kemkens;;;Naam monteur: J. Nederkoorn;;;;;;
+Locatie: Zwembad de Meerval;;;Datum:  Week 40, 2015;;;;;;
+Adres: Meerdreef 6, Wijchen;;;Complexnr: 900094;;;;;;
+;;;;;;;;;
+Locatiegegevens;;;;Beveiliging;;Resultaat;;Montagegevens;
+Nr.;Etage;Ruimte;Toestel;Huidige beveiliging;Vereiste beveiliging;Plaats beveiliging;Drukvast;Diameter;Soort fitting (CAP/KNEL/SCHROEF)
+1;BG;Receptie;B.S.H. 1;EA;;;JA;Niet zichtbaar;Niet zichtbaar
+2;BG;Kinderbad;B.S.H. 4;;;;JA;Niet zichtbaar;Niet zichtbaar
+3;BG;Kinderbad;B.S.H. 5;;;;JA;Niet zichtbaar;Niet zichtbaar
+4;BG;Ketelhuis bij oogdouche;Oogdouche;EA;;Naast oogdouche;JA;15;Knel
+5;BG;Ketelhuis voeding oogdouche;Tapkraan oogdouche;Ram EA;;Boven trap;JA;15;Knel
+6;BG;Ketelhuis;Voeding boiler;EA;;Naast boiler;JA;1 1/4;Schroef
+7;-1;Technische ruimte;Oogdouche;EA;;Naast oogdouche;JA;15;Knel
+8;BG;Gang kleedruimte;B.S.H. 7;;;;NEE;Niet zichtbaar;Niet zichtbaar
+9;BG;Wedstrijd bad achter;B.S.H. 8;;;;JA;Niet zichtbaar;Niet zichtbaar
+10;BG;Wedstrijd bad voor;B.S.H. 9;EA;;in kelder;JA;ø22;knel
+11;-1;tech. Ruimte;tapkraan;Ram EA;;Boven wasbak;JA;ø15;Knel

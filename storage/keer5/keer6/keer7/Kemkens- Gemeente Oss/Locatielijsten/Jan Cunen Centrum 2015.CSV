@@ -1,0 +1,27 @@
+﻿;;;Onderhoudsrapport;;;;;
+;;;;;;;;
+;;;BCO Brandpreventie;;;;;
+;;;Galliershof 22;;;;;
+;;;5349 BV Oss;;;;;
+;;;;;;;;
+Klant: Gemeente Oss;;;Naam monteur: Marty Gutte;;;;;
+Locatie: Jan Cunen Centrum;;;Datum: November, 2015;;;;;
+Adres: Molenweg 65, Oss;;;Complexnr: ;;;;;
+;;;;;;;;
+Locatiegegevens;;;;Beveiliging;Resultaat;;Montagegevens;
+Nr.;Etage;Ruimte;Toestel;Huidige beveiliging;Plaats beveiliging;Drukvast;Diameter;Soort fitting (CAP/KNEL/SCHROEF)
+1;-1;souterain meterkast;watermeter;EA;;JA;;
+2;-1;souterain meterkast;kw kraan;EA;;JA;Ø15;knel
+3;-1;souterain poetshok;boiler;EA;;JA;Ø15;knel
+4;-1;achter balie;brandslanghaspel;EA;;JA;Ø22;cap
+5;BG;hal;brandslanghaspel;EA;;JA;Ø22;cap
+6;BG;bar;koffieautomaat;EA;;JA;1/2;schroef
+7;1;hal;brandslanghaspel;EA;;JA;Ø22;cap
+8;2;keuken;boiler;EA;;JA;Ø15;knel
+9;2;keuken;watercooler;;;JA;3/4'';schroef
+10;2;keuken;vaatwasser;EA;;JA;1/2;schroef
+11;2;keuken;espresso automaat;EA;Achter prullenbak;JA;1/2;schroef
+12;2;hal;brandslanghaspel;;;JA;;
+13;2;cv ruimte;vulkraan;CA;;JA;Ø15;knel
+Keerklep:;;Opmerking:;;;;;;
+13;;Moet stopkraan voor i.v.m. testen;;;;;;

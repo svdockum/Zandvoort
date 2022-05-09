@@ -1,0 +1,192 @@
+{
+   "215SF": [
+      {
+         "Soort": "nicd",
+         "Opmaak": "STICK",
+         "volt": "2,4",
+         "amp": "1,5"
+      }
+   ],
+   "315F": [
+      {
+         "Soort": "nicd",
+         "Opmaak": "SBS",
+         "volt": "3,6",
+         "amp": "1,5"
+      }
+   ],
+   "318SF": [
+      {
+         "Soort": "nicd",
+         "Opmaak": "STICK",
+         "volt": "3,6",
+         "amp": "1,8"
+      }
+   ],
+   "340SFMH": [
+      {
+         "Soort": "nimh",
+         "Opmaak": "STICK",
+         "volt": "3,6",
+         "amp": "4"
+      }
+   ],
+   "415F": [
+      {
+         "Soort": "nicd",
+         "Opmaak": "SBS",
+         "volt": "4,8",
+         "amp": "1,5"
+      }
+   ],
+   "421F": [
+      {
+         "Soort": "nimh",
+         "Opmaak": "SBS",
+         "volt": "4,8",
+         "amp": "2,1"
+      }
+   ],
+   "480F": [
+      {
+         "Soort": "nicd",
+         "Opmaak": "SBS",
+         "volt": "4,8",
+         "amp": "0,8"
+      }
+   ],
+   "430SF": [
+      {
+         "Soort": "nimh",
+         "Opmaak": "STICK",
+         "volt": "4,8",
+         "amp": "3"
+      }
+   ],
+   "480SF": [
+      {
+         "Soort": "nicd",
+         "Opmaak": "STICK",
+         "volt": "4,8",
+         "amp": "0,8"
+      }
+   ],
+   "440F": [
+      {
+         "Soort": "nicd",
+         "Opmaak": "SBS",
+         "volt": "4,8",
+         "amp": "4,5"
+      }
+   ],
+   "418SF": [
+      {
+         "Soort": "nicd",
+         "Opmaak": "STICK",
+         "volt": "4,8",
+         "amp": "1,8"
+      }
+   ],
+   "615SF": [
+      {
+         "Soort": "nicd",
+         "Opmaak": "STICK",
+         "volt": "6",
+         "amp": "1,5"
+      }
+   ],
+   "615FT": [
+      {
+         "Soort": "nicd",
+         "Opmaak": "SBS+2",
+         "volt": "6",
+         "amp": "1,5"
+      }
+   ],
+   "4125SF": [
+      {
+         "Soort": "nimh",
+         "Opmaak": "STICK",
+         "volt": "4,8",
+         "amp": "1,3"
+      }
+   ],
+   "415SF": [
+      {
+         "Soort": "nicd",
+         "Opmaak": "STICK",
+         "volt": "4,8",
+         "amp": "1,5"
+      }
+   ],
+   "Arts energy": [
+      {
+         "Soort": "nicd",
+         "Opmaak": "STICK",
+         "volt": "4,8",
+         "amp": "1,6"
+      }
+   ],
+   "320F": [
+      {
+         "Soort": "nicd",
+         "Opmaak": "SBS",
+         "volt": "3,6",
+         "amp": "2,5"
+      }
+   ],
+   "315SF": [
+      {
+         "Soort": "nicd",
+         "Opmaak": "STICK",
+         "volt": "3,6",
+         "amp": "1,5"
+      }
+   ],
+   "7115F": [
+      {
+         "Soort": "nimh",
+         "Opmaak": "2xAA",
+         "volt": "7,2",
+         "amp": "1,3"
+      }
+   ],
+   "": [
+      {
+         "Soort": "",
+         "Opmaak": "",
+         "volt": "",
+         "amp": ""
+      },
+      {
+         "Soort": "",
+         "Opmaak": "",
+         "volt": "",
+         "amp": ""
+      },
+      {
+         "Soort": "",
+         "Opmaak": "",
+         "volt": "",
+         "amp": ""
+      },
+      {
+         "Soort": "",
+         "Opmaak": "",
+         "volt": "",
+         "amp": ""
+      },
+      {
+         "Soort": "",
+         "Opmaak": "",
+         "volt": "",
+         "amp": ""
+      },
+      {
+         "Soort": "",
+         "Opmaak": "",
+         "volt": "",
+         "amp": ""
+      }
+   ]
+}

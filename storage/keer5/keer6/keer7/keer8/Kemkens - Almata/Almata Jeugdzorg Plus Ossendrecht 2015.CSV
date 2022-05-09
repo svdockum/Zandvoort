@@ -1,0 +1,115 @@
+﻿;;;Onderhoudsrapport;;;;;;
+;;;;;;;;;
+;;;BCO Brandpreventie;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+Klant: Kemkens;;;Naam monteur: Marty Gutte;;;;;;
+Locatie: Almata Jeugdzorg Plus Ossendrecht;;;Datum: December, 2015;;;;;;
+Adres: Onze Lieve Vrouwe ter Duinenlaan 193;;;Complexnr: -;;;;;;
+;;;;;;;;;
+Locatiegegevens;;;;Beveiliging;;Resultaat;;Montagegevens;
+Nr.;Etage;Ruimte;Toestel;Huidige beveiliging;Vereiste beveiliging;Plaats beveiliging;Drukvast;Diameter;Soort fitting (CAP/KNEL/SCHROEF)
+1A;BG;Hal;Brandslanghaspel;EA;EA;;JA;;
+2A;BG;Kast 102;Mengventiel;EB;EA;;JA;;
+3A;BG;Kast 103;Mengventiel;EA;EA;;JA;Ø15;Knel
+4A;1e;Kast 104;Mengventiel;EB;EA;;JA;;
+5A;1e;Kast 105;Mengventiel;EB;EA;;JA;;
+6A;1e;Kast 106;Meng klep;EB;EA;;JA;;
+7A;1e;Kast 107;Meng klep;EB;EA;;JA;;
+8A;2e;Kast 202;Meng klep;EB;EA;;JA;;
+8B;2e;Kast 202;Toevoer KW;EA;EA;;JA;ø22;Knel
+9A;2e;Kast 203;Meng klep;EB;EA;;JA;;
+10A;2e;Kast 204;Meng klep;EB;EA;;JA;;
+11A;2e;Kast 205;Meng klep;EB;EA;;JA;;
+12A;2e;Kast 206;Meng klep;EB;EA;;JA;;
+13A;BG;Wasruimte;Wasmachine;DA-EB;DA-EB;;JA;;
+14A;BG;Keuken;Kraan;DA-EB;EA;;JA;3/4;Schroef
+15A;BG;Ketelruimte;Vulkraan;CA;CA;;JA;22;Knel
+16A;BG;Boilerruimte;Inlaatcombinatie;inlc.;inlc.;;JA;;
+17A;BG;Boilerruimte;Circulatie pomp;EA;EA;;JA;;
+18A;1e;Kast 104;Brandslanghaspel;EA;EA;;JA;;
+19A;BG;Buiten rechts;Gevelkraan;EA;EA;;JA;;
+1B;BG;Hal;Brandslanghaspel;EA;EA;;JA;;
+2B;1e;Kast bij 102;Mengventiel;EA;EA;;JA;;
+3B;1e;Kast bij 103;Mengventiel;EB;EA;;JA;;
+4B;1e;Kast bij 104;Mengventiel;EB;EA;;JA;;
+4BB;1e;Kast 104;Brandslanghaspel;;;;JA;;
+5B;1e;Kast bij 105;Mengventiel;EB;EA;;JA;;
+5BB;1e;Kast 105;Mengventiel;EB ;EA;;JA;;
+6B;1e;Kast bij 106;Mengventiel;EB;EA;;JA;;
+7B;1e;Kast bij 107;Mengventiel;EB;EA;;JA;;
+8B;2e;Kast bij 202;Mengventiel;EB;EA;;JA;;
+9B;2e;Kast bij 203;Mengventiel;EB;EA;;JA;;
+10B;2e;Kast bij 204;Mengventiel;EB;EA;;JA;;
+11B;2e;Kast bij 205;Mengventiel;EB;EA;;JA;;
+12B;2e;Kast bij 206;Mengventiel;EB;EA;;JA;;
+13B;BG;Wasruimte;Wasmachine;DA-EB;DA-EB;;JA;;
+14B;BG;Ketelruimte;Vulkraan;CA;CA;;JA;1/2;Schroef
+15B;BG;Keuken;Kraan;DA-EB;EA op oorsprong;;JA;15;Knel
+16B;BG;Boilerruimte;Inlaatcombinatie;inlc.;inlc.;;JA;;
+17B;BG;Boilerruimte;Circulatie pomp;EA;EA;;JA;;
+1C;BG;Hal;Brandslanghaspel;EA;EA;;JA;;
+2C;1e;Kast bij 102;Mengventiel;EB;EA;;JA;;
+3C;1e;Kast bij 103;Mengventiel;EB;EA;;JA;;
+4C;1e;Kast bij 104;Mengventiel;EB;EA;;JA;;
+5C;1e;Kast bij 105;Mengventiel;EB;EA;;JA;;
+6C;1e;Kast bij 106;Mengventiel;EB;EA;;JA;;
+19C;1e;Kast bij 105;Brandslanghaspel;EA;EA;;JA;;
+7C;1e;Kast bij 107;Mengventiel;EB;EA;;JA;;
+8C;2e;Kast bij 202;Mengventiel;EB;EA;;JA;;
+9C;2e;Kast bij 203;Mengventiel;EB;EA;;JA;;
+10C;2e;Kast bij 204;Mengventiel;EB;EA;;JA;;
+11C;2e;Kast bij 205;Mengventiel;EB;EA;;JA;;
+12C;2e;Kast bij 206;Mengventiel;EB;EA;;JA;;
+13C;BG;Wasruimte;Wasmachine;DA-EB;DA-EB;;JA;;
+14C;BG;Ketelruimte;Vulkraan;CA;CA;;JA;1/2;Schroef
+15C;BG;Keuken;;DA-EB;;;JA;;
+16C;BG;Boilerruimte;Inlaatcombinatie;inlc.;inlc.;;JA;;
+17C;BG;Boilerruimte;Ciruclatiepomp;EA;EA;;JA;;
+18C;BG;Buiten;Buitenkraan;EA;EA;;JA;;
+1D;BG;Hal;Brandslanghaspel;EA;EA;;JA;;
+2D;BG;Kast bij 107;Mengventiel;EB;EA;;JA;;
+3D;BG;Kast bij 106;Mengventiel;EB;EA;;JA;;
+4D;BG;Kast bij 105;Mengventiel;EB;EA;;JA;;
+5D;BG;Kast bij 105;Brandslanghaspel;EB;EA;;JA;;
+6D;BG;Kast bij 104;Mengventiel;EB;EA;;JA;;
+7D;BG;Kast bij 103;Mengventiel;EB;EA;;JA;;
+8D;BG;Kast bij 102;Mengventiel;EB;EA;;JA;;
+9D;BG;Kast bij 202;Mengventiel;EB;EA;;JA;;
+10D;BG;Kast bij 203;Mengventiel;EB;EA;;JA;;
+11D;BG;Kast bij 204;Mengventiel;EB;EA;;JA;;
+12D;BG;Kast bij 205;Mengventiel;EB;EA;;JA;;
+13D;BG;Kast bij 206;Mengventiel;EB;EA;;JA;;
+14D;BG;Wasruimte;Wasmachine;DA-EB;DA-EB;;JA;;
+15D;BG;Keuken;;DA-EB;EA;;JA;15 / 1/2;Knel
+16D;BG;Ketelruimte;Vulkraan;CA;CA;;JA;1/2;Schroef
+17D;BG;Boilerruimte;Inlaatcombinatie;inlc.;inlc.;;JA;;
+18D;BG;Boilerruimte;Ciruclatiepomp;EA;EA;;JA;;
+1E;BG;Gezamenlijke ruimte;Brandslanghaspel;EA;EA;;JA;;
+2E;BG;Kelder bij watermeter;Watermeter;EA;EA;;JA;;
+3E;1e;Washok;Wasmachine;DA-EB;DA-EB;;JA;;
+3EE;1e;Washok;Wasmachine;DA-EB;;;JA;;
+4E;1e;Hal;Brandslanghaspel;EA;EA;;JA;;
+5E;1e;Hal;Brandslanghaspel;EA;EA;;JA;;
+6E;2e;Hal;Brandslanghaspel;EA;EA;;JA;;
+7E;2e;Hal;Brandslanghaspel;EA;EA;;JA;;
+8E;2e;Wasruimte;Wasmachine;DA-EB;DA-EB;;JA;;
+9E;2e;Wasruimte;Wasmachine;DA-EB;DA-EB;;JA;;
+10E;BG;Gezamenlijke ruimte;Brandslanghaspel;EA;EA;;JA;;
+11E;-1;Buiten aan ketelhuis achterkant;Vulkraan;CA;CA;;JA;;
+12E;-1;Buiten aan ketelhuis achterkant;Circulatie pomp;EA;EA;;JA;;
+13E;-1;Buiten aan ketelhuis achterkant;Inlaatcombinatie;inlc.;inlc.;;JA;;
+14E;-1;Buiten aan ketelhuis achterkant;TSA;EA;EA;;NEE;Ø35;Knel
+15E;-1;Kelder;Toevoer tyleenslang;EA;EA;In kelder;JA;Ø22;Knel
+1F;BG;Lokaal o.n. 13;Boiler;inlc.;inlc.;Inlaatcombinatie;JA;Ø15;Knel
+2F;BG;Lokaal o.n. 13;Wasmachine;DA-EB;DA-EB;;JA;;
+3F;BG;Hal;Brandslanghaspel;EA;EA;EA;JA;Ø15;Knel
+4F;BG;Keuken;Inlaatcombinatie;inlc.;inlc.;;JA;;
+5F;BG;Keuken;Sproeidouche ww;EA;EA;;JA;;
+6F;BG;Keuken;Sproeidouche kw;EA;EA;;JA;;
+7F;BG;Keuken;Ontharder;CA;CA;;JA;;
+8F;BG;Bijkeuken;Boiler;Inlc.;Inlc.;;JA;;
+9F;BG;Miva toilet;Boiler;Inlc.;Inlc.;Inlaatcombinatie;JA;Ø15;Knel
+10F;BG;Hal;Koffieautomaat;EA;EA;;JA;3/4;Schroef
+11F;BG;Hal;Water apparaat;EA;;;JA;3/4;Schroef
+12F;BG;Keuken;Steamer;EA;;Onder Steamer;JA;3/4;Schroef

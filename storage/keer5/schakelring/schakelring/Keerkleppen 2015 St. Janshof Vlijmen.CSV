@@ -1,0 +1,38 @@
+﻿;;;Onderhoudsrapport;;;;;;
+;;;;;;;;;
+;;;BCO Brandpreventie;;;;;;
+;;;Galliershof 22;;;;;;
+;;;5349 BV Oss;;;;;;
+;;;;;;;;;
+Klant: Schakelring;;;Naam monteur: Marty Gutte;;;;;;
+Locatie: Schakelring locatie St. Janshof;;;Datum: 17-09-2015;;;;;;
+Adres: Vlijmen;;;;;;;;;
+;;;;;;;;;
+Locatiegegevens;;;;Beveiliging;;Resultaat;;Montagegevens;
+Nr.;Etage;Ruimte;Toestel;Huidige beveiliging;Vereiste beveiliging;Plaats beveiliging;Drukvast;Diameter;Soort fitting (CAP/KNEL/SCHROEF)
+1;Kelder;Ketelhuis E 0.28;Boiler voeding kw;EA;;Onder bij boiler;JA;42;CAP
+2;Kelder;Ketelhuis E 0.28;WW Circulatie boiler;EA;;Naast boiler;JA;22;CAP
+2A;Kelder;Ketelhuis E 0.28;ww TSA;EA;;Naast boiler;NEE;42;CAP
+3;B.G.;A 0.13;Buitenkraan;EA;;In kast keuken;JA;15;Knel
+4;B.G.;In ruimte A 0.06;Buitenkraan;EA;;In kast A 0.06;JA;15;Knel
+5;B.G.;poetshok bij nr18;Bedpan spoeler kw;EA;;Achter bedpanspoeler;JA;15;Knel
+6;B.G.;poetshok bij nr18;Bedpan spoeler ww;EA;;Achter bedpanspoeler;JA;15;Knel
+7;1e verd.;Spoelruimte A 1.18;Bedpan spoeler kw;EA;;Naast bedspan spoeler;JA;15;Knel
+8;1e verd.;Spoelruimte A 1.18;Bedspan spoeler ww;EA;;Naast bedspan spoeler;JA;15;Knel
+9;1a verd.;Ruimte gang E 1.01;B.S.H.;EA;;In kruipruimte;JA;;
+10;1a verd.;Gang ruimte E 1.01;B.S.H.;EA;;In plafond oude keuken;JA;22;Knel
+11;2e verd.;Spoelruimte A 2.18;Bedspan spoeler kw;EA;;Achter bedpanspoeler;JA;15;Knel
+12;2e verd.;Spoelruimte A 2.18;Bedspan spoeler ww;EA;;Achter bedpanspoeler;JA;15;Knel
+13;2e verd.;Spoelruimte A 2.18;Wasmachine;EB;;Achter wm kraan;JA;1/2;Schroef
+14;1e verd.;poetshok bij nr 18;Wasmachine;EB;;Bij wasmachine;JA;1/2;Schroef
+15;kelder;Ketelhuis E 0.28;kw toevoer;EA;;aan plafond boven vulkraan;JA;28;Knel
+16;Kelder;E-1.5;kw toevoer;EA;;aan plafond;JA;15;Knel
+17;Kelder;E-1.5;ww toevoer;EA;;aan plafond;JA;15;Knel
+18;BG;restaurant bij openhaard;BSH;EA;;In kruipruimte;JA;;
+19;BG;parkeerterrein;Buitenkraan;EA;;In kruipruimte;JA;;
+20;BG;keuken;koffie appraaat;EA;;onder kast;JA;3/4;schroef
+21;BG;keuken;spoekraan kw;EA;;onder spoelbak;JA;3/8;Schroef
+22;BG;keuken;spoelkraan ww;EA;;onder spoelbak;JA;3/8;Schroef
+23;BG;keuken;koffie appraaat;EA;;onder kast;JA;3/4;Schroef
+;;;;;;;;;
+;Alle brandslanghaspels zijn stromend aangesloten.;;;;;;;;

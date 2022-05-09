@@ -1,0 +1,45 @@
+﻿;;;Onderhoudsrapport;;;;;;
+;;;;;;;;;
+;;;BCO Brandpreventie;;;;;;
+;;;Galliershof 22;;;;;;
+;;;5349 BV Oss;;;;;;
+;;;;;;;;;
+Klant: Kemkens;;;Naam monteur: Marty Gutte;;;;;;
+Locatie: Wilgenman 1, 2 en 3;;;Datum: Oktober, 2015;;;;;;
+Adres: Veldhoven;;;;;;;;;
+;;;;;;;;;
+Locatiegegevens;;;;Beveiliging;;Resultaat;;Montagegevens;
+Nr.;Etage;Ruimte;Toestel;Huidige beveiliging;Vereiste beveiliging;Plaats beveiliging;Drukvast;Diameter;Soort fitting (CAP/KNEL/SCHROEF)
+1;bg;ingang nr 3;BSH;;;;JA;;
+2;bg;pantry;vaatwasser;EB;;;JA;1/2;schroef
+3;bg;pantry;koffieapparaat;EA;;;JA;15;knel
+4;bg;transport;BSH;;;;JA;;
+5;bg;gang bij koeling;BSH;EA;;in plafond;JA;22;knel
+6;bg;keuken;steamer kw;EA;;;JA;1/2;schroef
+7;bg;keuken;steamer ww;EA;;;JA;1/2;schroef
+8;bg;spoelkeuken;spoelkraan kw;EA;;;JA;1/2;schroef
+9;bg;spoelkeuken;spoelkraan ww;EA;;;JA;1/2;schroef
+10;bg;grote keuken;spoelkraan kw;EA;;;JA;1/2;schroef
+11;bg;grote keuken;spoelkraan ww;EA;;;JA;1/2;schroef
+12;bg;restaurant;BSH;;;;JA;;
+13;bg;hal;BSH;;;;JA;;
+14;bg;cafe;koffieapparaat;EA;;;JA;15;knel
+15;bg;restaurant;koffieapparaat;EA;;;JA;1/2;schroef
+16;bg;cv ruimte;vulkraan;CA;;;JA;3/4;schroef
+17;bg;cv ruimte;inlaat combi;EA;;;JA;28;cap
+18;bg;cv ruimte;boiler;EA;;;JA;42;pers
+19;bg;cv ruimte;circulatieleiding;EA;;;JA;42;cap
+20;bg;cv ruimte;circulatieleiding;EA;;;JA;22;knel
+21;bg;cv ruimte;watermeter;EA;;;JA;42;schroef
+22;bg;cv ruimte;kw toevoer;EA;;;JA;42;schroef
+23;bg;cv ruimte;kw toevoer;EA;;;JA;42;schroef
+24;bg;cv ruimte;kw toevoer;EA;;;JA;42;schroef
+26;bg;luchtbehandelingsruimte;ontharder;CA;;;JA;22;knel
+27;bg;restaurant;koffie apparaat;EA;;;JA;3/4;
+28;;Ketelhuis;Ketel;CA;;;JA;1/2;schroef
+;;;;;;;;;
+Keerklep:;;Opmerking;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;

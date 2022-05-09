@@ -1,0 +1,35 @@
+﻿;;;Onderhoudsrapport;;;;;;
+;;;;;;;;;
+;;;BCO Brandpreventie;;;;;;
+;;;Galliershof 22;;;;;;
+;;;5349 BV Oss;;;;;;
+;;;;;;;;;
+Klant: RIBW;;;Naam monteur: Marty Gutte;;;;;;
+Locatie: Wolfkuilseweg ;;;Datum: December, 2015;;;;;;
+Adres: Wolfkuilseweg 173;;;;;;;;;
+;;;;;;;;;
+Locatiegegevens;;;;Beveiliging;;Resultaat;;Montagegevens;
+Nr.;Etage;Ruimte;Toestel;Huidige beveiliging;Vereiste beveiliging;Plaats beveiliging;Drukvast;Diameter;Soort fitting (CAP/KNEL/SCHROEF)
+1;-1;kelder cv ruimte;circulatie leiding;;EA;;JA;Ø22;knel
+2;-1;kelder cv ruimte;vulkraan;;CA;;JA;;
+3;-1;kelder cv ruimte;inlaatcombi;;EA;;JA;;
+4;-1;kelder washok;wasmachine;;DA-EB;;JA;;
+5;-1;kelder washok;wasmachine;;DA-EB;;JA;;
+6;-1;kelder washok;wasmachine;;DA-EB;;JA;;
+7;BG;gang bij kamer 10;brandslanghaspel;;EA;in plafond;JA;Ø22;knel
+8;BG;bij kamer 13;vaatwasser;;DA-EB;;JA;1/2;schroef
+9;BG;bij kamer 6;brandslanghaspel;;EA;in plafond;JA;Ø22;knel
+10;BG;bij kamer 18;brandslanghaspel;EA;;in plafond;JA;Ø22;knel
+11;BG;in kamer 21;vaatwasser;DA-EB;;;JA;1/2;schroef
+12;BG;bij kamer 5;brandslanghaspel;EA;;in plafond;JA;Ø22;knel
+13;1;bij kamer 36;brandslanghaspel;EA;;in plafond;JA;Ø22;knel
+14;1;kamer 36;vaatwasser;DA-EB;;;JA;1/2;schroef
+15;1;in kamer 29;vaatwasser;DA-EB;;;JA;1/2;schroef
+16;1;tussen kamer 23 en 24;wasmachine;DA-EB;;;JA;1/2;schroef
+17;1;bij kamer 24;brandslanghaspel;EA;;in plafond;JA;Ø22;knel
+18;BG;buiten bij noodtrap;buitenkraan vorstkraan;;;;;;
+19;BG;buiten bij trap (gebouw);buitenkraan vorstkraan;;;;NEE;;
+20;BG;buiten bij schuurtjes;buitenkraan vorstkraan;;;;JA;;
+21;-1;kelder keuken;vaatwasser;;DA-EB;;JA;1/2;schroef
+Keerklep :;;Opmerkingen :;;;;;;;
+;18;Niet Testbaar. Komt water uit ontluchtingsgaatje van buitenkraan.;;;;;;;

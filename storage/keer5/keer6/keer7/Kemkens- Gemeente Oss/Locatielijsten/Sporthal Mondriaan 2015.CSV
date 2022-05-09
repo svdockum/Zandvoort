@@ -1,0 +1,40 @@
+﻿;;;Onderhoudsrapport;;;;;;
+;;;;;;;;;
+;;;BCO Brandpreventie;;;;;;
+;;;Galliershof 22;;;;;;
+;;;5349 BV Oss;;;;;;
+;;;;;;;;;
+Klant: Gemeente Oss;;;Naam monteur: Marty Gutte;;;;;;
+Locatie: Sporthal Mondriaan;;;Datum: November, 2015;;;;;;
+Adres: De Ruivert 3, Oss;;;Complexnr: ;;;;;;
+;;;;;;;;;
+Locatiegegevens;;;;Beveiliging;;Resultaat;;Montagegevens;
+Nr.;Etage;Ruimte;Toestel;Huidige beveiliging;Vereiste beveiliging;Plaats beveiliging;Drukvast;Diameter;Soort fitting (CAP/KNEL/SCHROEF)
+1;BG;kleedruimte 12;mengventiel koud;EA;;;JA;;
+2;BG;kleedruimte 12;mengventiel warm;EA;;;JA;;
+3;BG;kleedruimte 12;kw kraan;;;;JA;3/4;schroef
+4;BG;kleedruimte 11;mengventiel koud;EA;;;JA;;
+5;BG;kleedruimte 11;mengventiel warm;EA;;;JA;;
+6;BG;kleedruimte 11;kw kraan;;;;JA;3/4;schroef
+7;BG;kleedruimte 10;mengventiel koud;EA;;;JA;;
+8;BG;kleedruimte 10;mengventiel warm;EA;;;JA;;ingebouwde keerklep
+9;BG;kleedruimte 10;kw kraan;;;;JA;;
+10;BG;kleedruimte 9;mengventiel koud;EA;;;JA;;
+11;BG;kleedruimte 9;mengventiel warm;EA;;;JA;;
+12;BG;kleedruimte 9;kw kraan;EA;;;JA;1/2;schroef
+13;BG;kleedruimte 8;mengventiel koud;EA;;;JA;;
+14;BG;kleedruimte 8;mengventiel warm;EA;;;JA;;
+15;BG;kleedruimte 8;kw kraan;EA;;;JA;1/2;schroef
+16;BG;kleedruimte 7;mengventiel koud;EA;;;JA;;
+17;BG;kleedruimte 7;mengventiel warm;EA;;;JA;;
+18;BG;kleedruimte 7;kw kraan;;;;JA;1/2;schroef
+19;BG;cv ruimte;vulkraan;CA;;;JA;Ø15;knel
+20;BG;cv ruimte;circulatieleiding;EA;;;JA;Ø22;
+21;BG;cv ruimte;ww leiding;EA;;;JA;DN;60
+22;BG;cv ruimte;aanvoer koudwater;EA;;;JA;DN;60
+23;BG;gymzaal;BSH;EA;;;JA;Ø22;knel
+24;BG;gymzaal;BSH;EA;;;JA;Ø22;knel
+Mondriaan Bar;;;;;;;;;
+1;BG;Rokers ruimte;BSH;EA;EA;Bij Plafond;JA;;
+2;BG;Magazijn;Bierspoelleiding;EA;EA;Aan Kraan;JA;3/4;schroef
+3;BG;Bar;Koffie apparaat;EA;EA;Aan Kraan;JA;3/4;schroef

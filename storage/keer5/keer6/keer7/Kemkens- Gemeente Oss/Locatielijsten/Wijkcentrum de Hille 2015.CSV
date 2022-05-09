@@ -1,0 +1,26 @@
+﻿;;;Onderhoudsrapport;;;;;;
+;;;;;;;;;
+;;;BCO Brandpreventie;;;;;;
+;;;Galliershof 22;;;;;;
+;;;5349 BV Oss;;;;;;
+;;;;;;;;;
+Klant: Gemeente Oss;;;Naam monteur: Marty Gutte;;;;;;
+Locatie: Wijkcentrum de Hille;;;Datum: November, 2015;;;;;;
+Adres: Looveltlaan 25, Oss;;;Complexnr: ;;;;;;
+;;;;;;;;;
+Locatiegegevens;;;;Beveiliging;;Resultaat;;Montagegevens;
+Nr.;Etage;Ruimte;Toestel;Huidige beveiliging;Vereiste beveiliging;Plaats beveiliging;Drukvast;Diameter;Soort fitting (CAP/KNEL/SCHROEF)
+1;BG;hal;watermeter;EA;;;JA;;
+2;BG;schoonmaakhok in gang;kw kraan;DA-EB;;;JA;1/2;schroef
+3;BG;zaal ingang;BSH;EA;;;JA;Ø22;knel
+4;BG;bar;ijsmachine;EA;;;JA;1/2;schroef
+5;BG;bar;koffieautomaat;EA;;in koeling keuken;JA;3/4;schroef
+6;BG;keuken;kw in koeling;EA;;;JA;1/2;schroef
+7;BG;keuken;kw kraan;DA-EB;;;JA;1/2;schroef
+8;BG;keuken;VW;CA;;;JA;1/2;schroef
+9;BG;zaal;BSH;EA;;;JA;Ø22;knel
+10;BG;magazijn;boiler;EA;;;JA;Ø15;inlaatcombinatie
+11;BG;keuken wijkpunt;boiler;EA;;;JA;;
+12;BG;zaaltje wijkpunt;BSH;;;;JA;;
+13;BG;cv ruimte;vulkraan;CA;;;JA;1/2;schroef
+14;BG;Keukenwijkpunt naast gang;Boiler;EA;;;JA;ø15;Knel

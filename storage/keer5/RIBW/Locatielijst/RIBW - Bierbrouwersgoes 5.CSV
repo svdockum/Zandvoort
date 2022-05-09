@@ -1,0 +1,20 @@
+﻿;;;Onderhoudsrapport;;;;;;
+;;;;;;;;;
+;;;BCO Brandpreventie;;;;;;
+;;;Galliershof 22;;;;;;
+;;;5349 BV Oss;;;;;;
+;;;;;;;;;
+Klant: RIBW;;;Naam monteur: Marty Gutte;;;;;;
+Locatie: Bierbrouwersgoes 5;;;Datum: December, 2015;;;;;;
+Adres: Bierbrouwersgoes 5, Gennep;;;;;;;;;
+;;;;;;;;;
+Locatiegegevens;;;;Beveiliging;;Resultaat;;Montagegevens;
+Nr.;Etage;Ruimte;Toestel;Huidige beveiliging;Vereiste beveiliging;Plaats beveiliging;Drukvast;Diameter;Soort fitting (CAP/KNEL/SCHROEF)
+1;BG;meterkast;watermeter;EA;;;JA;;
+2;BG;keuken;vaatwasser;DA-EB;;;JA;1/2;schroef
+3;BG;tuin;buitenkraan;;;;JA;;
+4;2e verd.;washok;wasmachine;EB;;;JA;1/2;schroef
+5;2e verd.;washok;kw kraan;EB;;;JA;1/2;schroef
+6;2e verd.;washok;kw kraan;EB;;;JA;1/2;schroef
+7;2e verd.;washok;inlaatcombinatie;EA;;;JA;Ø15;knel
+8;2e verd.;washok;circulatieleiding;EA;;;JA;Ø15;cap

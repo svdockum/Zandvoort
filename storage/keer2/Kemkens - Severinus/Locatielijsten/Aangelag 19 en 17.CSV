@@ -1,0 +1,43 @@
+﻿;;;Onderhoudsrapport;;;;;;
+;;;;;;;;;
+;;;BCO Brandpreventie;;;;;;
+;;;Galliershof 22;;;;;;
+;;;5349 BV Oss;;;;;;
+;;;;;;;;;
+Klant: Kemkens;;;Naam monteur: Marty Gutte;;;;;;
+Locatie: Aangelag 19 en 17;;;Datum: Oktober, 2015;;;;;;
+Adres: Veldhoven;;;;;;;;;
+;;;;;;;;;
+Locatiegegevens;;;;Beveiliging;;Resultaat;;Montagegevens;
+Nr.;Etage;Ruimte;Toestel;Huidige beveiliging;Vereiste beveiliging;Plaats beveiliging;Drukvast;Diameter;Soort fitting (CAP/KNEL/SCHROEF)
+Aangelag 19;;;;;;;;;
+1;bg;cv ruimte;vulkraan;CA;;;JA;1/2;schroef
+2;bg;cv ruimte;inlaat combi;EA;;;JA;22;knel
+3;bg;cv ruimte;circulatieleiding;EA;;;JA;15;knel
+4;bg;wasruimte;wm;EA;;;JA;1/2;schroef
+5;bg;buiten;buitenkraan;;;;JA;;
+6;bg;keuken;vaatwasser;EA;;;JA;1/2;schroef
+Aangelag 17;;;;;;;;;
+7;bg;keuken 1;vaatwasser;EA;;;JA;1/2;schroef
+8;bg;keuken 2;vaatwasser;EA;;;JA;1/2;schroef
+9;bg;buiten;buitenkraan;EA;;meterkast n17;JA;;
+10;bg;wasruimte;wm;EA;;In gang;JA;1/2;schroef
+11;1e;cv ruimte;vulkraan;EA;;;JA;1/2;schroef
+12;1e;cv ruimte;inlaat combi;EA;;;JA;15;knel
+13;bg;aangelag 19 meterkast;kw toevoer;EA;;meterkast;JA;28;knel
+14;bg;aangelag 17 meterkast;kw toevoer;EA;;meterkast;JA;22;knel
+;;;;;;;;;
+;;;;;;;;;
+Keerklep:;;Opmerking;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;

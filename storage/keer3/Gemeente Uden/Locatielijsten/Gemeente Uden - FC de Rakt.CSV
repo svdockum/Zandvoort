@@ -1,0 +1,31 @@
+﻿;;;Onderhoudsrapport;;;;;;
+;;;;;;;;;
+;;;BCO Brandpreventie;;;;;;
+;;;Galliershof 22;;;;;;
+;;;5349 BV Oss;;;;;;
+;;;;;;;;;
+Klant: Gemeente Uden;;;Naam monteur: ;;;;;;
+Locatie: FC de Rakt;;;Datum: Oktober, 2015;;;;;;
+Adres: Aalstweg 7, Uden;;;;;;;;;
+;;;;;;;;;
+Locatiegegevens;;;;Beveiliging;;Resultaat;;Montagegevens;
+Nr.;Etage;Ruimte;Toestel;Huidige beveiliging;Vereiste beveiliging;Plaats beveiliging;Drukvast;Diameter;Soort fitting (CAP/KNEL/SCHROEF)
+1;B.G.;Kleedlokaal 5;Mengventiel kw;EA;;Onder ketel;JA;Ø22;Knel
+2;B.G.;Kleedlokaal 5;Mengventiel ww;EA;;Onder ketel;JA;Ø22;Knel
+3;B.G.;Kleedlokaal 5;Wasbak kw;RAM EA;;Onder ketel;JA;Ø15;Knel
+4;B.G.;Kleedlokaal 6;Mengventiel kw;EA;;Onder ketel;JA;Ø22;Knel
+5;B.G.;Kleedlokaal 6;Mengventiel ww;EA;;Onder ketel;JA;Ø22;Knel
+6;B.G.;Kleedlokaal 6;Wasbak kw;RAM EA;;Onder ketel;JA;Ø15;Knel
+7;B.G.;Technische ruimte;Mengventiel kw;EA;;Naast boiler;JA;Ø22;Knel
+8;B.G.;Technische ruimte;Mengventiel ww;EA;;Naast boiler;JA;Ø22;Knel
+9;B.G.;Technische ruimte;Circulatie ww;EA;;Naast boiler;JA;Ø22;Knel
+10;B.G.;Technische ruimte;Vulkraan;EA;;Naast boiler;JA;3/4;Schroef
+11;B.G.;Gang kleedlokalen;B.S.H.;EA;;In kast brandslanghaspel;JA;Ø22;Knel
+12;B.G.;Kantine;B.S.H.;EA;;In kast brandslanghaspel;JA;Ø22;Knel
+13;B.G.;Keuken;Spoelkraan kw;RAM EA;;Onder blad;JA;Ø15;Knel
+14;B.G.;Keuken;Spoelkraan ww;RAM EA;;Onder blad;JA;Ø15;Knel
+15;B.G.;Keuken;Vaatwasser;CA;;Onder blad;JA;Ø15;Knel
+;;;;;;;;;
+;;;;;;;;;
+Keerklep:;;Opmerking:;;;;;;;
+;;;;;;;;;

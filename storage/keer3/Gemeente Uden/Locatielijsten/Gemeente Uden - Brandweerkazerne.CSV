@@ -1,0 +1,22 @@
+﻿;;;Onderhoudsrapport;;;;;;
+;;;;;;;;;
+;;;BCO Brandpreventie;;;;;;
+;;;Galliershof 22;;;;;;
+;;;5349 BV Oss;;;;;;
+;;;;;;;;;
+Klant: Gemeente Uden;;;Naam monteur: J. Nederkoorn;;;;;;
+Locatie: Brandweerkazerne;;;Datum: Oktober, 2015;;;;;;
+;;;;;;;;;
+Adres: Leeuwerikstraat 4 Uden;;;;;;;;;
+Locatiegegevens;;;;Beveiliging;;Resultaat;;Montagegevens;
+Nr.;Etage;Ruimte;Toestel;Huidige beveiliging;Vereiste beveiliging;Plaats beveiliging;Drukvast;Diameter;Soort fitting (CAP/KNEL/SCHROEF)
+1;BG;Hal;Watermeter;EA;;In waterput;JA;1 1/4;Schroef
+2;BG;Gang naast toilet;B.S.H.;EA;;Onder brandslanghaspel;JA;Ø22;Knel
+3;BG;Kantine keuken;Boiler;Inlaat combi;;In keukenkast;JA;Ø15;Knel
+4;BG;Perslucht ruimte;Spoelkraan koudwater;EA;;Boven kraan;JA;Ø15;Knel
+5;BG;Perslucht ruimte;Spoelkraan warmwater;EA;;Boven kraan;JA;Ø15;Knel
+6;BG;Perslucht ruimte;Wasmachine;CA;;Tegen plafond;JA;1/2;Schroef
+7;BG;Remese;CV vulkraan;CA;;Muur werkplaats;NEE;3/4;Schroef
+8;BG;Remese;Waterontharder;BA;;Voor waterontharder;JA;Ø28 -1;Schroef
+;;;;;;;;;
+;;;;;;;;;

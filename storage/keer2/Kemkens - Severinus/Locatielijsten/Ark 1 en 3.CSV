@@ -1,0 +1,32 @@
+﻿;;;Onderhoudsrapport;;;;;;
+;;;;;;;;;
+;;;BCO Brandpreventie;;;;;;
+;;;Galliershof 22;;;;;;
+;;;5349 BV Oss;;;;;;
+;;;;;;;;;
+Klant: Kemkens;;;Naam monteur: Marty Gutte;;;;;;
+Locatie: Ark 1 en 3;;;Datum: Oktober, 2015;;;;;;
+Adres: Veldhoven;;;;;;;;;
+;;;;;;;;;
+Locatiegegevens;;;;Beveiliging;;Resultaat;;Montagegevens;
+Nr.;Etage;Ruimte;Toestel;Huidige beveiliging;Vereiste beveiliging;Plaats beveiliging;Drukvast;Diameter;Soort fitting (CAP/KNEL/SCHROEF)
+1;;cv ruimte;buitenkraan;;;cv ruimte;JA;15;knel
+2;;cv ruimte;vulkraan;CA;;;JA;3/4;schroef
+3;;cv ruimte;circulatieleiding;EA;;;JA;;
+4;;cv ruimte;inlaat-combi;EA;;;JA;;
+5;;buiten voor 3;buitenkraan;;;;NEE;;
+6;;keuken;vaatwasser;EA;;;JA;1/2;schroef
+7;;wasruimte;wm;EA;;;JA;1/2;schroef
+8;;buiten achter 1;buitenkraan;;;;JA;;
+9;;buiten achter 3;buitenkraan;;;;JA;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+Keerklep:;;Opmerking;;;;;;;
+;;;;;;;;;
+;;;;;;;;;

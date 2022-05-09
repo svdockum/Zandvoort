@@ -1,0 +1,36 @@
+﻿;;;Onderhoudsrapport;;;;;;
+;;;;;;;;;
+;;;BCO Brandpreventie;;;;;;
+;;;Galliershof 22;;;;;;
+;;;5349 BV Oss;;;;;;
+;;;;;;;;;
+Klant: Gemeente Oss;;;Naam monteur: Marty Gutte;;;;;;
+Locatie: Sportzaal Ussenstelt;;;Datum: November, 2015;;;;;;
+Adres: Looveltlaan 54, Oss;;;Complexnr: ;;;;;;
+;;;;;;;;;
+Locatiegegevens;;;;Beveiliging;;Resultaat;;Montagegevens;
+Nr.;Etage;Ruimte;Toestel;Huidige beveiliging;Vereiste beveiliging;Plaats beveiliging;Drukvast;Diameter;Soort fitting (CAP/KNEL/SCHROEF)
+1;BG;kleedruimte rechts 1;douche ww;EA;;;JA;Ø22;knel
+2;BG;kleedruimte rechts 1;douche kw;EA;;;JA;Ø22;knel
+3;BG;kleedruimte rechts 1;kw kraan;;;;JA;3/4;schroef
+4;BG;kleedruimte rechts 2;douche ww;EA;;;JA;Ø22;knel
+5;BG;kleedruimte rechts 2;douche kw;EA;;;JA;Ø22;knel
+6;BG;kleedruimte rechts 2;kw kraan;;;;JA;3/4;schroef
+7;BG;hal;BSH;EA;;;JA;Ø22;knel
+8;BG;kantine;boiler;;;;JA;Ø15;inlaatcombinatie
+9;BG;kantine;VW;;;;JA;1/2;schroef
+10;BG;kantine;kw kraan;EA;;;JA;1/2;schroef
+11;BG;MIVA toilet en douche;douche ww;EA;;;JA;Ø15;knel
+12;BG;MIVA toilet en douche;douche kw;EA;;;JA;Ø15;knel
+13;BG;kleedruimte 3;douche ww;EA;;;JA;Ø22;knel
+14;BG;kleedruimte 3;douche kw;EA;;;JA;Ø22;knel
+15;BG;kleedruimte 3;kw kraan;;;;JA;3/4;schroef
+16;BG;kleedruimte 4;douche ww;EA;;;JA;Ø22;knel
+17;BG;kleedruimte 4;douche kw;EA;;;JA;Ø22;knel
+18;BG;kleedruimte 4;kw kraan;;;;JA;1/2;schroef
+19;BG;gymzaal;BSH;EA;;;JA;Ø28;knel
+20;BG;gymzaal;BSH;EA;;;JA;Ø28;knel
+21;BG;cv ruimte;vulkraan;CA;;(Moet een stop- of aftafkraan voor);x;Ø15;knel
+22;BG;cv ruimte;toevoer kw boiler;EA;;;JA;Ø28;knel
+23;BG;cv ruimte;circulatieleiding;EA;;;JA;Ø15;knel
+24;BG;hal;watermeter;EA;;;JA;;

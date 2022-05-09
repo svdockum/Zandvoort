@@ -1,0 +1,48 @@
+﻿;;;Onderhoudsrapport;;;;;;
+;;;;;;;;;
+;;;BCO Brandpreventie;;;;;;
+;;;Galliershof 22;;;;;;
+;;;5349 BV Oss;;;;;;
+;;;;;;;;;
+Klant: Schakelring;;;Naam monteur: Marty Gutte ;;;;;;
+Locatie: Schakelring locatie De Eekhof;;;Datum: 16-09-2015;;;;;;
+Adres: Kaatsheuvel;;;;;;;;;
+;;;;;;;;;
+Locatiegegevens;;;;Beveiliging;;Resultaat;;Montagegevens;
+Nr.;Etage;Ruimte;Toestel;Huidige beveiliging;Vereiste beveiliging;Plaats beveiliging;Drukvast;Diameter;Soort fitting (CAP/KNEL/SCHROEF)
+1;B.G.;Restaurant B 0.03;TK Koffiezetautomaat;DEAB;;In kast onder koffiezetautomaat;JA;1/2;Schroef
+2;B.G.;Restaurant B 0.03;Vaatwasser;EA;;Kast naast vaatwasser achter plank;JA;3/4;Schroef
+2A;B.G.;Restaurant B 0.03;Vaatwasser;EA;;Kast naast vaatwasser achter plank;JA;3/4;Schroef
+3;B.G.;Huiskamer B 0.26;Vaatwasser + koffiezetautomaat;EA;;In kast naast koffiezetautomaat;JA;3/4;Schroef
+4;B.G.;Huiskamer B 0.25;Vaatwasser + koffiezetautomaat;EA;;In kast naast koffiezetautomaat;JA;3/4;Schroef
+5;B.G.;Gang bij ruimte B 0.16;B.S.H. 2;EA;;In kast B.S.H.;JA;22;Knel
+6;B.G.;bij restaurant;B.S.H. 1;EA;;In kast B.S.H.;JA;22;Knel
+7;B.G.;Gang bij ruimte A 0.21b;B.S.H. 3;EA;;In kast B.S.H.;JA;22;Knel
+8;B.G.;Gang bij ruimte A 0.29;B.S.H. 8;EA;;In kast B.S.H.;JA;22;Knel
+9;B.G.;Huiskamer ruimte A 0.14 koekoek;Vaatwasser + koffiezetautomaat;EA;;In kast naast koffiezetautomaat;JA;3/4;Knel
+10;B.G.;Huiskamer ruimte A 0.11 Zwaluw;Vaatwasser + koffiezetautomaat;EA;;In kast naast koffiezetautomaat;JA;3/4;Knel
+11;B.G.;Gang bij ruimte A 0.31;B.S.H. 6;EA;;In kast B.S.H.;JA;22;Knel
+12;B.G.;Hal achter koekoek en zwaluw;B.S.H.;EA;;Bij B.S.H. Kast ;JA;22;Knel
+13;B.G.;Hal achter koekoek en zwaluw;Buitenkraan vorst;EB;;Bij B.S.H. Kast ;NEE;22;Knel
+14;B.G.;Achter keuken restaurant;Buitenkraan;;;;JA;;
+15;B.G.;Binnentuin;Buitenkraan binnentuin;;;;JA;;
+16;B.G.;Gang bij ruimte;B.S.H. 7;EA;;In kast B.S.H.;JA;22;Knel
+17;1e verd.;Keuken-kantoor bij lift;Koffiezetautomaat;EA;;In keukenkast;JA;3/4;Schroef
+18;1e verd.;Gang bij ruimte B 1.12;B.S.H.;EA;;In kast B.S.H.;JA;22;Knel
+19;1e verd.;Huiskamer ruimte B 1.26 merel;Koffiezetautomaat;EA;;In kast naast koffiezetautomaat;JA;3/4;Knel
+20;1e verd.;Huiskamer ruimte B 1.26 merel;Vaatwasser;DEAB;;In kast naast vaatwasser;JA;1/2;wm kraan
+21;1e verd.;Huiskamer ruimte B 1.25 goudvink;Vaatwasser + koffiezetautomaat;EA;;In kast naast vaatwasser;JA;3/4;Schroef
+22;1e verd.;Gang bij ruimte A 1.21;B.S.H. 10;EA;;In kast B.S.H.;JA;22;Knel
+23;1e verd.;Gang bij ruimte;B.S.H. 11;EA;;In kast B.S.H.;JA;22;Knel
+24;1e verd.;Huiskamer ruimte A 1.14 lijster;Vaatwasser + koffiezetautomaat;EA;;In kast naast vaatwasser;JA;3/4;Schroef
+25;1e verd.;Huiskamer ruimte A 1.14 lijster;B.S.H. 12;EA;;In kast B.S.H.;JA;22;Knel
+26;1e verd.;Hal bij lift bij lijster;B.S.H.;EA;;Naast B.S.H.;JA;22;Knel
+27;1e verd.;Huiskamer ruimte A 1.11 koolmees;Vaatwasser + koffiezetautomaat;EA;;In kast naast vaatwasser;JA;3/4;Schroef
+28;1e verd.;Gang bij ruimte A 1.31;B.S.H. 14;EA;;In kast B.S.H.;JA;22;Knel
+29;1e verd.;Gang bij ruimte B 1.07;B.S.H. 15;EA;;In kast B.S.H.;JA;22;Knel
+30;2e verd.;Ketelhuis;Lucht bevochtiger;EA;;Nabij luchtbevochtiger;JA;15;Knel
+31;B.G.;Woonkamer ruimte A 0.14 koekoek;B.S.H. 4;EA;;In kast B.S.H.;JA;22;Knel
+32;2e verd.;ketelhuis;cv vulkraan;ca;;naast ketel;X;15;knel
+;;;;;;;;;
+;;kk 1 moet controleerbare EA zijn - 13 moet kk bij T-stuk geplaatst worden ø15 en kk van haspel moet naar T-stuk geplaatst worden.  - 32 CA kk zit verticaal, moet horizontaal, blijft doorlopen. - bij circulatieleiding zit geen kk.;;;;;;;
+;;;;;;;;;

@@ -1,0 +1,33 @@
+﻿;;;Onderhoudsrapport;;;;;;
+;;;;;;;;;
+;;;BCO Brandpreventie;;;;;;
+;;;Galliershof 22;;;;;;
+;;;5349 BV Oss;;;;;;
+;;;;;;;;;
+Klant: Kemkens;;;Naam monteur: Marty Gutte;;;;;;
+Locatie: Platanenlaan 28;;;Datum: Sept, 2015;;;;;;
+Adres: Veldhoven;;;;;;;;;
+;;;;;;;;;
+Locatiegegevens;;;;Beveiliging;;Resultaat;;Montagegevens;
+Nr.;Etage;Ruimte;Toestel;Huidige beveiliging;Vereiste beveiliging;Plaats beveiliging;Drukvast;Diameter;Soort fitting (CAP/KNEL/SCHROEF)
+1;-1;kelder ketelhok;vulkraan;CA;;aan plafond;JA;22;cap
+2;-1;kelder ketelhok;boiler;EA;;;JA;22;knel
+3;-1;kelder ketelhok;circulatieleiding;EA;;;JA;22;knel
+4;-1;kelder ketelhok;toevoer buitenkraan;EA;;;JA;15;knel
+5;BG;zwembad;BSH;;;;JA;;
+6;BG;gang bij logopedie;BSH;;;;JA;;
+7;BG;gang bij gymzaal;BSH;;;;JA;;
+8;BG;pantry gymzaal;vaatwasser;EA;;;JA;;
+9;BG;gang bij goederen;BSH;;;;JA;;
+10;BG;archief;boiler inlaatcombi;EA;;achter plank;JA;1/2;schroef
+11;BG;gang bij postkamer;BSH;;;;JA;;
+12;BG;gang bij nooduitgang;BSH;;;;JA;15;knel
+13;BG;gang bij zorgbureau;BSH;;;;JA;;
+14;BG;gang bij klopdeur;BSH;;;;JA;;
+15;BG;gang naar arts;BSH;;;;JA;;
+16;BG;pantry;vaatwasser;;;;JA;1/2;schroef
+17;-1;kelder ketelhok;oogdouche;EA;;bij gat in kelder;JA;15;knel
+18;-1;kelder ketelhok;toevoer kw;EA;;bij gat in kelder;JA;15;knel
+19;BG;pantry;koffieautomaat;EA;;in kastje;JA;;schroef
+19a;BG;Pantry;watercooler;EA;in kastje;;JA;;
+20;BG;washok bij kopieerruimte;kwk;EA;;;JA;1/2;schroef

@@ -1,0 +1,27 @@
+﻿;;;Onderhoudsrapport;;;;;;
+;;;;;;;;;
+;;;BCO Brandpreventie;;;;;;
+;;;Galliershof 22;;;;;;
+;;;5349 BV Oss;;;;;;
+;;;;;;;;;
+Klant: Gemeente Uden;;;Naam monteur: J. Nederkoorn;;;;;;
+Locatie: Sporthal Hoenderbos;Terra Victa;;Datum: Oktober, 2015;;;;;;
+Adres: Oudedijk 55, Odiliapeel;;;;;;;;;
+;;;;;;;;;
+Locatiegegevens;;;;Beveiliging;;Resultaat;;Montagegevens;
+Nr.;Etage;Ruimte;Toestel;Huidige beveiliging;Vereiste beveiliging;Plaats beveiliging;Drukvast;Diameter;Soort fitting (CAP/KNEL/SCHROEF)
+1;B.G.;Keuken horeca;Watermeter;EA;;In waterput;JA;2;Schroef
+2;B.G.;Keuken horeca;Voeding Fysio;RAM EA;;In waterput;JA;Ø22;Knel
+3;B.G.;Keuken magazijn;IJsmachine;EA;;Tegen plafond;JA;Ø15;Knel
+4;B.G.;Keuken;Vaatwasser;CA;;Onder keukenblad;JA;1/2;Schroef
+5;B.G.;Bar horeca;Koffieautomaat;EA;;Naast automaat;JA;3/4'';Schroef
+6;B.G.;Hal bij kantine;B.S.H.;;;;JA;;
+7;1e verd.;Ketelhuis;Voeding boiler;EA;;Naast boiler;NEE;Ø35;Cap
+8;1e verd.;Ketelhuis;ww boiler;EA;;In circulatieleiding;NEE;Ø22;Knel
+9;1e verd.;Ketelhuis;CV vulkraan;CA;;In leiding;NEE;Ø15;Knel
+10;B.G.;Gymzaal;B.S.H.;;;;JA;;
+11;B.G.;Gymzaal;B.S.H.;;;;JA;;
+;;;;;;;;;
+Keerklep:;;Opmerking:;;;;;;;
+9;;CA klep horizontaal plaatsen + afsluiter-aftap;;;;;;;
+;;;;;;;;;

@@ -1,0 +1,28 @@
+﻿;;;Onderhoudsrapport;;;;;;
+;;;;;;;;;
+;;;BCO Brandpreventie;;;;;;
+;;;Galliershof 22;;;;;;
+;;;5349 BV Oss;;;;;;
+;;;;;;;;;
+Klant: SVT;Kleurrijk Wonen;;Naam monteur: J Verhagen;;;;;;
+Locatie: Thedingsweert;;;Datum: Oktober, 2015;;;;;;
+Adres: Thedinsgweert 39, Kerk Avezaath;;;;;;;;;
+;;;;;;;;;
+Locatiegegevens;;;;Beveiliging;;Resultaat;;Montagegevens;
+Nr.;Etage;Ruimte;Toestel;Huidige beveiliging;Vereiste beveiliging;Plaats beveiliging;Drukvast;Diameter;Soort fitting (CAP/KNEL/SCHROEF)
+1;BG;hal bij kamer;BSH 0.1;EA;EA;onder BSH;JA;22;knel
+2;BG;hal bij kamer 39.02;BSH 0.2;EA;EA;onder BSH;JA;22;knel
+3;1e;gang bij trap links;BSH 0.3;EA;EA;onder BSH;JA;22;knel
+4;1e;gang bij trap rechts;BSH 0.4;EA;EA;onder BSH;NEE;22;knel
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;

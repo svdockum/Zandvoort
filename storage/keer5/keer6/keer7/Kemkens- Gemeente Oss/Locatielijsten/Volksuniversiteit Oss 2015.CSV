@@ -1,0 +1,17 @@
+﻿;;;Onderhoudsrapport;;;;;;
+;;;;;;;;;
+;;;BCO Brandpreventie;;;;;;
+;;;Galliershof 22;;;;;;
+;;;5349 BV Oss;;;;;;
+;;;;;;;;;
+Klant: Gemeente Oss;;;Naam monteur: Marty Gutte;;;;;;
+Locatie: Volksuniversiteit Oss;;;Datum: November, 2015;;;;;;
+Adres: Kruisstraat 94, Oss;;;Complexnr: ;;;;;;
+;;;;;;;;;
+Locatiegegevens;;;;Beveiliging;;Resultaat;;Montagegevens;
+Nr.;Etage;Ruimte;Toestel;Huidige beveiliging;Vereiste beveiliging;Plaats beveiliging;Drukvast;Diameter;Soort fitting (CAP/KNEL/SCHROEF)
+1;;cv ruimte buiten;vulkraan;CA;;;JA;1/2;knel
+2;;gang;koffiemachine;EA;EA;;JA;Ø15;knel
+3;;gang;BSH;;;;NEE;;
+4;;keuken;VW;EA;;;JA;3/4;schroef
+5;;zaal 5;watermeter;EA;;;JA;;

@@ -1,0 +1,64 @@
+{
+   "Philips TL": [
+      {
+         "Wattage (W)": 8
+      },
+      {
+         "Wattage (W)": 8
+      }
+   ],
+   "PL-C4P": [
+      {
+         "Wattage (W)": 18
+      },
+      {
+         "Wattage (W)": 26
+      }
+   ],
+   "PL-L4P": [
+      {
+         "Wattage (W)": 18
+      }
+   ],
+   "PL-T4P": [
+      {
+         "Wattage (W)": 26
+      }
+   ],
+   "GR10Q-4P": [
+      {
+         "Wattage (W)": 28
+      }
+   ],
+   "mini": [
+      {
+         "Wattage (W)": 6
+      }
+   ],
+   "PL-C2P": [
+      {
+         "Wattage (W)": 18
+      },
+      {
+         "Wattage (W)": 26
+      }
+   ],
+   "PL-S 4p": [
+      {
+         "Wattage (W)": 11
+      },
+      {
+         "Wattage (W)": 9
+      }
+   ],
+   "2G10": [
+      {
+         "Wattage (W)": 24
+      }
+   ],
+   "GX24q-3": [
+      {
+         "Wattage (W)": 32
+      }
+   ]
+}

@@ -1,0 +1,64 @@
+﻿;;;Onderhoudsrapport;;;;;;
+;;;;;;;;;
+;;;BCO Brandpreventie;;;;;;
+;;;Galliershof 22;;;;;;
+;;;5349 BV Oss;;;;;;
+;;;;;;;;;
+Klant: Gemeente Oss;;;Naam monteur: Marty Gutte;;;;;;
+Locatie: Sporthal Rusheuvel;;;Datum: November, 2015;;;;;;
+Adres: Rusheuvelstraat 5, Oss;;;;;;;;;
+;;;;;;;;;
+Locatiegegevens;;;;Beveiliging;;Resultaat;;Montagegevens;
+Nr.;Etage;Ruimte;Toestel;Huidige beveiliging;Vereiste beveiliging;Plaats beveiliging;Drukvast;Diameter;Soort fitting (CAP/KNEL/SCHROEF)
+1;BG;cv ruimte;watermeter;EA;;;JA;;
+2;BG;cv ruimte;vulkraan 3 x op 1 klep;CA;;;JA;Ø15;
+3;BG;cv ruimte;waterontharder;BA;;;JA;DN50;
+4;BG;cv ruimte;circulatieleiding;EA;;;JA;Ø22;
+5;BG;cv ruimte;ontharder ww leiding;EA;;;JA;DN50;
+6;BG;cv ruimte;ww leiding boiler;EA;;;JA;DN50;
+7;BG;gang bij cv ruimte;BHS;EA;;;JA;Ø22;
+8;BG;kleedkamer heren ingang tennishal;leiding douche;EA;;;JA;Ø15;
+9;BG;kleedkamer dames ingang tennishal;leiding douche;EA;;;JA;Ø15;
+10;BG;tennishal;BSH;EA;;;JA;Ø22;
+11;BG;tennishal;BSH;EA;;;JA;Ø22;
+12;BG;tennishal;BSH;EA;;;JA;Ø22;
+13;BG;tennishal boiler keuken;boiler close in;inlaat-combinatie;;;JA;Ø15;
+14;BG;tennishal;BSH;EA;;;JA;Ø22;
+15;BG;tennishal;BSH;EA;;;JA;Ø22;
+16;BG;bar;BSH;EA;;;JA;Ø22;
+17;BG;bar;koffieautomaat;CA;;;JA;1/2;
+18;BG;bar keuken;vaatwasser;CA;;;JA;1/2;
+19;BG;keuken;kraan koud;EA;;;JA;3/8;
+20;BG;keuken;kraan ww;EA;;;JA;3/8;
+21;BG;keuken opslag;bierkoeler;EA;;;JA;1/2;schroef WMH
+22;BG;keuken opslag;BHS;EA;;;JA;Ø22;knel
+23;BG;keuken opslag;WM;EA;;;JA;3/4;schroef
+24;BG;keuken opslag;koffieautomaat;EA;;;JA;3/4;schroef
+25;BG;hal entree;BHS;;;;JA;Ø22;knel
+26;BG;gang kleedkamers;BHS;;;;JA;Ø22;knel
+27;BG;gang kleedkamers;BHS;;;;JA;Ø22;knel
+28;BG;kleedkamer 1;kw kraan;;EA;Plafond;JA;Ø15;knel
+29;BG;kleedkamer 8;kw kraan;;EA;Plafond;JA;Ø15;knel
+30;;kleedkamer 2;kw kraan;;EA;Plafond;JA;Ø15;knel
+31;;kleedkamer 7;kw kraan;;EA;Plafond;JA;Ø15;knel
+32;;kleedkamer 3;kw kraan;;EA;Plafond;JA;Ø15;knel
+33;BG;kleedkamer 6;kw kraan;EA;;Plafond;JA;Ø15;knel
+34;;kleedkamer 4;kw kraan;EA;;Plafond;JA;Ø15;knel
+35;;kleedkamer 5;kw kraan;EA;;Plafond;JA;Ø15;knel
+36;;sportzaal;BSH;EA;;;JA;;
+37;;sportzaal;BSH;EA;;;JA;;
+38;;sportzaal;BSH;EA;;;JA;;
+39;;sportzaal;BSH;EA;;;JA;;
+40;;sportzaal;BSH;EA;;;JA;;
+41;BG;technische ruimte sportzaal;BSH;EA;;;JA;Ø22;
+42;BG;technische ruimte sportzaal;WMH;EA;;;JA;1/2;schroef WMK
+43;1;gang bij kleine zaal;BSH;EA;;;JA;;
+44;1;achter bar bowling;BSH;EA;;;JA;;
+45;1;keuken;steamer;EA;;;JA;3/4;schroef
+46;1;keuken;ijsblokmachine;EA;;;JA;1/2;schroef WMK
+47;1;keuken;waterontharder;CA;;;JA;1/2;schroef
+48;1;keuken;spoelkraan koud;EA;;;JA;Ø15;knel
+49;1;keuken;spoelkraan warm;EA;;;JA;Ø15;knel
+50;1;bar;koffieautomaat;CA;;;JA;1/2;schroef
+51;1;zolder;vulkraan;EA;;;JA;1/2;schroef
+52;;Garage;BSH;EA;;;JA;Ø22;knel

@@ -1,0 +1,29 @@
+﻿Monteur : M Gutte;;
+Adres       : Biezenkuil 8;;
+;;
+Locatie;Tappunt;Temp.
+Kamer 1;Keukenmengkraan;50,0 C°
+;Wastafelmengkraan;38,7 C°
+;Douchemengkraan;43,8 C°
+Badkamer;Wastafelmengkraan;39,2 C°
+;Douchemengkraan;38,5 C°
+Wasruimte;Uitstortgootsteen;41,9 C°
+Keuken;Keukenmengkraan;39,6 C°
+Slaapkamer achter;Wastafelmengkraan;39,0 C°
+Woning achter badkamer ;Wastafelmengkraan;33,9 C°
+;Douchemengkraan;43,4 C°
+1e kamer links;Wastafelmengkraan;36,8 C°
+;Douchemengkraan;39,2 C°
+Badkamer gang;Wastafelmengkraan;65,0 C°
+;Douchemengkraan;38,2 C°
+Kamer achter 1e;Wastafelmengkraan;38,4 C°
+;Douchemengkraan;38,1 C°
+;Keukenmengkraan;43,4 C°
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;

@@ -1,0 +1,36 @@
+﻿;;;Onderhoudsrapport;;;;;;
+;;;;;;;;;
+;;;BCO Brandpreventie;;;;;;
+;;;Galliershof 22;;;;;;
+;;;5349 BV Oss;;;;;;
+;;;;;;;;;
+Klant: Gemeente Oss;;;Naam monteur: Marty Gutte;;;;;;
+Locatie: Horizonschool De Meteoor;;;Datum: November, 2015;;;;;;
+Adres: Oude Litherweg 18, Oss;;;Complexnr: ;;;;;;
+;;;;;;;;;
+Locatiegegevens;;;;Beveiliging;;Resultaat;;Montagegevens;
+Nr.;Etage;Ruimte;Toestel;Huidige beveiliging;Vereiste beveiliging;Plaats beveiliging;Drukvast;Diameter;Soort fitting (CAP/KNEL/SCHROEF)
+1;;keuken;VW;EA;;;JA;1/2;schroef
+2;;keuken;boiler;EA;;;JA;Ø15;knel
+3;;gang bij toilet 2.231;BSH;;;;JA;;
+4;;cv ruimte Z.223;vulkraan;CA;;;JA;Ø15;knel
+5;;cv ruimte Z.223;boiler;EA;;;JA;Ø15;knel
+6;;cv ruimte Z.225;BSH;;;;JA;;
+7;;cv ruimte Z.012;vulkraan;CA;;;JA;Ø15;knel
+8;;cv ruimte Z.012;buitenkraan;EA;;;JA;Ø15;knel
+9;;keuken bij Z.012;boiler;EA;;;JA;Ø15;knel
+10;;gang bij Z.006;BSH;;;;JA;;
+11;;toilet peuterspeelzaal;boiler;EA;;;JA;Ø15;knel
+12;;gang Z.020;BSH;;;;JA;;
+13;;gang binnenkomst;BSH;;;;JA;;
+14;;gang - berging M.009;BSH;;;;JA;;
+15;;keuken M.009;boiler;EA;;;;Ø15;knel
+16;;meterput ingang rechts;watermeter;EA;;;;;
+17;;gang bij garderobe N.022;BSH;;;;;;
+18;;keuken N.019;boiler;;;;;Ø15;knel
+20;;gang bij N.002;BSH;;;;;;
+21;;ruimte tuinman;boiler;EA;;;;Ø15;knel
+22;;ruimte tuinman cv ruimte;tapkraan;EA;;;;1/2;schroef
+23;;Gang trappenzaal bij z004;BSH;;;;JA;;
+Keerklep :;;Opmerkingen :;;;;;;;
+;;Wegens verbouwing overige keerkleppen niet conroleerbaar.;;;;;;;

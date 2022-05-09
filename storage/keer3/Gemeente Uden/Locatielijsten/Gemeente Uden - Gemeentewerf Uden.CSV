@@ -1,0 +1,29 @@
+﻿;;;Onderhoudsrapport;;;;;;
+;;;;;;;;;
+;;;BCO Brandpreventie;;;;;;
+;;;Galliershof 22;;;;;;
+;;;5349 BV Oss;;;;;;
+;;;;;;;;;
+Klant: Gemeente Uden;;;Naam monteur: J. Nederkoorn;;;;;;
+Locatie: Gemeentewerf;;;Datum: Oktober, 2015;;;;;;
+Adres: Hockeyweg 3, Uden;;;;;;;;;
+;;;;;;;;;
+Locatiegegevens;;;;Beveiliging;;Resultaat;;Montagegevens;
+Nr.;Etage;Ruimte;Toestel;Huidige beveiliging;Vereiste beveiliging;Plaats beveiliging;Drukvast;Diameter;Soort fitting (CAP/KNEL/SCHROEF)
+1;B.G.;Ingang kantine;B.S.H.;;;;JA;;
+2;B.G.;Ketelhuis kantine;Vulkraan;CA;;Onder kraan;NEE;Ø15;Knel
+3;B.G.;Gang bij kantoren;B.S.H.;RAM EA;;Onder brandslanghaspel;JA;Ø22;Knel
+4;B.G.;Garage 2;Tapkraan ;EA;;Naast wasbak;JA;Ø22;Knel
+5;B.G.;Wasruimte 3;Boiler;Inlaatcombi;;Onder boiler;JA;Ø15;Knel
+6;B.G.;Garage 4;Buitenkraan;EA;;In garage 4;JA;Ø22;Cap
+7;B.G.;Garage 5;Tapkraan ;EA;;Naast wasbak;JA;Ø15;Knel
+8;B.G.;Garage 7;Tapkraan ;EA;;Onder wasbak;JA;Ø15;Knel
+9;B.G.;Garage 9;Tapkraan ;EA;;In garage 8;JA;Ø15;Knel
+10;B.G.;Garage 10;Buitenkraan;EA;;In garage 10;JA;Ø22;Cap
+11;B.G.;Garage 10;Tapkraan waspl.;EA;;In garage 10;JA;Ø22;Cap
+12;B.G.;Garage 10;Tapkraan;EA;;In garage 10;JA;Ø15;Knel
+13;B.G.;Wasplaats;Kraan hogedruk;EA;;In washok;JA;Ø22;Cap
+;;;;;;;;;
+;;;;;;;;;
+Keerklep:;;Opmerking:;;;;;;;
+2;;CA klep horizontaal plaatsen + stopkraan en aftapper.;;;;;;;

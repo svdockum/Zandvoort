@@ -1,0 +1,32 @@
+﻿;;;Onderhoudsrapport;;;;;;
+;;;;;;;;;
+;;;BCO Brandpreventie;;;;;;
+;;;Galliershof 22;;;;;;
+;;;5349 BV Oss;;;;;;
+;;;;;;;;;
+Klant: Gemeente Oss;;;Naam monteur: Marty Gutte;;;;;;
+Locatie: Sporthal Ravenstein;;;Datum: November, 2015;;;;;;
+Adres: Hoge Graaf 13, Ravenstein;;;;;;;;;
+;;;;;;;;;
+Locatiegegevens;;;;Beveiliging;;Resultaat;;Montagegevens;
+Nr.;Etage;Ruimte;Toestel;Huidige beveiliging;Vereiste beveiliging;Plaats beveiliging;Drukvast;Diameter;Soort fitting (CAP/KNEL/SCHROEF)
+1;;kleedkamer 2;kw kraan;EB;;;JA;1/2;schroef
+2;;kleedkamer 1;kw kraan;EB;;;JA;1/2;schroef
+3;;hal waterput;watermeter;EA;;;JA;35;cap
+4;;hal waterput;toevoer BSH;EA;;;JA;Ø28;knel
+5;;hal waterput;toevoer BSH;EA;;;JA;Ø28;knel
+6;;hal waterput;toevoer kw;EA;;;JA;Ø15;knel
+7;;kleedkamer 3;kw kraan;EB;;;JA;1/2;schroef
+8;;kleedkamer 4;kw kraan;EB;;;JA;1/2;schroef
+9;;kleedkamer 5;kw kraan;EB;;;JA;1/2;schroef
+10;;kleedkamer 6;kw kraan;EB;;;JA;1/2;schroef
+11;;ketelhok;waterontharder;BA;;;JA;;
+12;;ketelhok;vulkraan;CA;;;JA;1/2;schroef
+13;;ketelhok;inlaatcombi 1;EA;;;JA;Ø28;knel
+1;;ketelhok;inlaatcombi 2;EA;;;JA;Ø28;knel
+17;;ketelhok;circulatieleiding;EA;;;JA;Ø15;knel
+14;;gymzaal;kw kraan in BSH 7 kast;EB;;;JA;1/2;schroef
+15;;gymzaal;kw kraan in BSH 8 kast;EB;;;JA;1/2;schroef
+16;;gymzaal;kw kraan in BSH 9 kast;EB;;;JA;1/2;schroef
+Opmerkingen:;;;;;;;;;
+;;;;;;;;;

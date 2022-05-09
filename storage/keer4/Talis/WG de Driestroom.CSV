@@ -1,0 +1,27 @@
+﻿;;;Onderhoudsrapport;;;;;;
+;;;;;;;;;
+;;;BCO Brandpreventie;;;;;;
+;;;Galliershof 22;;;;;;
+;;;5349 BV Oss;;;;;;
+;;;;;;;;;
+Klant: Talis;;;Naam monteur: J. Verhagen;;;;;;
+Locatie: WG de Driestroom;;;Datum: aug, 2015;;;;;;
+Adres: Diepvoorde 3324-3372 Wijchen;;;;;;;;;
+;;;;;;;;;
+Locatiegegevens;;;;Beveiliging;;Resultaat;;Montagegevens;
+Nr.;Etage;Ruimte;Toestel;Huidige beveiliging;Vereiste beveiliging;Plaats beveiliging;Drukvast;Diameter;Soort fitting (CAP/KNEL/SCHROEF)
+1;BG;Hal 3324;BSH 24-0.1;RAM EA;;In boilerkast;a;Ø22;Knel
+2;1e verd.;Overloop;BSH 24-1.1;RAM EA;;In boilerkast;a;Ø28;Knel
+3;BG;Hal 3340;BSH 40-0.1;RAM EA;;In boilerkast;a;Ø22;Knel
+4;BG;Bij huisnummer 3340;Buitenkraan;RAM EA;;In meterkast;a;Ø22;Knel
+5;BG;Hal 3342;BSH 42-0.1;RAM EA;;In boilerkast;a;Ø22;Knel
+6;1e verd.;Overloop;BSH 42-1.1;RAM EA;;In boilerkast;a;Ø28;Knel
+7;BG;Hal 3356;BSH 56-0.1;RAM EA;;In boilerkast;a;Ø22;Knel
+8;BG;Gang bij begleiding;BSH 56-0.2;;;;a;;
+9;BG;Hal 3358;BSH 58-0.1;RAM EA;;In boilerkast;a;Ø22;Knel
+10;1e verd.;Overloop;BSH 58-1.1;RAM EA;;In boilerkast;a;Ø28;Knel
+11;BG;Hal 3372;BSH 72-0.1;RAM EA;;In bergkast;a;Ø22;Knel
+12;BG;Bij huisnummer 3372;Buitenkraan;RAM EA;;In meterkast;a;Ø22;Knel
+;;;;;;;;;
+Keerklep:;;Opmerking:;;;;;;;
+4 & 12;;Geen sticker i.v.m. buiten overdruk. ;;;;;;;

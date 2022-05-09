@@ -1,0 +1,41 @@
+﻿;;;Onderhoudsrapport;;;;;;
+;;;;;;;;;
+;;;BCO Brandpreventie;;;;;;
+;;;Galliershof 22;;;;;;
+;;;5349 BV Oss;;;;;;
+;;;;;;;;;
+Klant: Kemkens - Schakelring;;;Naam monteur: M. Gutte;;;;;;
+Locatie: Eikendonk Afdeling PG;;;Datum: 15-09-2015;;;;;;
+Adres: Waalwijk;;;;;;;;;
+;;;;;;;;;
+Locatiegegevens;;;;Beveiliging;;Resultaat;;Montagegevens;
+Nr.;Etage;Ruimte;Toestel;Huidige beveiliging;Vereiste beveiliging;Plaats beveiliging;Drukvast;Diameter;Soort fitting (CAP/KNEL/SCHROEF)
+1;BG;gang algemeen;BSH;;;meterkast;JA;;
+2;BG;keuken tulp;vaatwasser;EA;;;JA;3/4;schroef
+3;BG;keuken tulp;tapkraan;DA-EB;;;JA;1/2;schroef
+4;BG;keuken zonnebloem;vaatwasser;EA;;;JA;3/4;schroef
+5;BG;keuken zonnebloem;tapkraan;DA-EB;;;JA;1/2;schroef
+6;-1;ketelruimte bij schuifdeur;buitenkraan;EA;;in kelder bij cv vulkraan;JA;15;knel
+7;BG;keuken lelie;tapkraan;EA;;;JA;3/4;schroef
+8;BG;keuken lelie;vaatwasser;EA;;;JA;3/4;schroef
+9;BG;buitenplaats lelie;buitenkraan;vorstkraan;;plafond berging einde gang;JA;; 
+10;BG;keuken klaproos;vaatwasser;EA;;;JA;3/4;schroef
+11;BG;keuken klaproos;tapkraan;EA;;;JA;3/4;schroef
+12;BG;keuken korenbloem;vaatwasser;EA;;;JA;3/4;schroef
+13;BG;keuken korenbloem;tapkraan;;;;NEE;1/2;schroef
+14;1e;gang lift;tapkraan ;EB;;gang jasmijn 12 uit lift;NEE;1/2;schroef
+15;1e;keuken sering;vaatwasser;EA;;;JA;3/4;schroef
+16;1e;keuken sering;tapkraan;DA-EB;;;JA;1/2;schroef
+17;1e;huiskamer sering;buitenkraan;EA;;;JA;;
+18;1e;keuken jasmijn;vaatwasser;EA;;;JA;3/4;schroef
+19;1e;keuken jasmijn;tapkraan;DA-EB;;;JA;1/2;schroef
+20;1e;keuken viool;vaatwasser;EA;;;JA;3/4;schroef
+21;1e;keuken viool;tapkraan;DA-EB;;;NEE;;
+22;1e;keuken margriet;vaatwasser;EA;;;JA;3/4;schroef
+23;1e;keuken margriet;tapkraan;DA-EB;;;JA;1/2;schroef
+24;1e;buitenplaats magriet;buitenkraan vorst;;;;JA;;
+25;BG;lelie watermeterkast;voedingleiding;EA;;;JA;54;cap
+26;BG;lelie watermeterkast;aansluiting Dantuin;EA;;;JA;35;cap
+27;BG;lelie watermeterkast;BA-klep;;;;JA;;
+;;;;;;;;;
+;keterlruimte zit CA klep, zit geen stop/aftapkraan voor dus niet controleerbaar.;;;;;;;;

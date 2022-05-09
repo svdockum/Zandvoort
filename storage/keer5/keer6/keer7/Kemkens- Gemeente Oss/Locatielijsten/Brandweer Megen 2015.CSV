@@ -1,0 +1,24 @@
+﻿;;;Onderhoudsrapport;;;;;;
+;;;;;;;;;
+;;;BCO Brandpreventie;;;;;;
+;;;Galliershof 22;;;;;;
+;;;5349 BV Oss;;;;;;
+;;;;;;;;;
+Klant: Gemeente Oss;;;Naam monteur: Marty Gutte;;;;;;
+Locatie: Brandweer Megen;;;Datum: November, 2015;;;;;;
+Adres: Torenstraat 4, Megen;;;;;;;;;
+;;;;;;;;;
+Locatiegegevens;;;;Beveiliging;;Resultaat;;Montagegevens;
+Nr.;Etage;Ruimte;Toestel;Huidige beveiliging;Vereiste beveiliging;Plaats beveiliging;Drukvast;Diameter;Soort fitting (CAP/KNEL/SCHROEF)
+1;BG;garage;toevoer kw;EA;;;JA;Ø22;knel
+2;BG;garage;buitenkraan;EA;;;JA;Ø22;knel
+3;1e etage;bar;ketel inlaatcombi;EA;;;JA;Ø15;knel
+4;1e etage;bar;automaat vuller cv;EA;;;JA;Ø15;knel
+5;1e etage;bar;vaatwasser;EA;;;JA;3/4'';Schroef
+6;1e etage;bar;koffieautomaat;EA;;;JA;Ø15;knel
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;

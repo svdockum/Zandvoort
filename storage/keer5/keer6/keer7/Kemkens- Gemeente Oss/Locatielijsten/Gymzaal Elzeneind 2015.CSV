@@ -1,0 +1,27 @@
+﻿;;;Onderhoudsrapport;;;;;;
+;;;;;;;;;
+;;;BCO Brandpreventie;;;;;;
+;;;Galliershof 22;;;;;;
+;;;5349 BV Oss;;;;;;
+;;;;;;;;;
+Klant: Gemeente Oss;;;Naam monteur: Marty Gutte;;;;;;
+Locatie: Gymzaal Elzeneind;;;Datum: 30 oktober 2013;;;;;;
+Adres: Elzeneind 20;;;Complexnr: ;;;;;;
+;;;;;;;;;
+Locatiegegevens;;;;Beveiliging;;Resultaat;;Montagegevens;
+Nr.;Etage;Ruimte;Toestel;Huidige beveiliging;Vereiste beveiliging;Plaats beveiliging;Drukvast;Diameter;Soort fitting (CAP/KNEL/SCHROEF)
+1;;cv ruimte buiten;boiler;EA;;;JA;Ø28;cap
+2;;cv ruimte buiten;circulatieleiding;EA;;;JA;Ø15;knel
+3;;cv ruimte buiten;vulkraan;CA;;;;Ø15;knel
+5;;douche heren;mengventiel kw;EA;;;JA;Ø22;knel
+6;;douche heren;mengventiel ww;EA;;;JA;Ø22;knel
+7;;douche dames;mengventiel kw;EA;;;JA;Ø22;knel
+8;;douche dames;mengventiel ww;EA;;;JA;Ø22;knel
+9;;douche dames;kw kraan;;EA;;JA;1/2;schroef
+10;;douche heren;kw kraan;;EA;;JA;3/4;schroef
+11;;kleedkamer dames;BSH;;;;NEE;;
+12;;kleedkamer  ;BSH;;;;NEE;;
+13;;hal;watermeter;EA;;;JA;;
+Opmerkingen:;;;;;;;;;
+;Bij keerklep 3 moet een stopkraan voor ivm testen.;;;;;;;;
+;Keerklep 11 & 12 kan geen keerklep onder haspel;;;;;;;;

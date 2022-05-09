@@ -1,0 +1,164 @@
+﻿;;;Onderhoudsrapport;;;;;;
+;;;;;;;;;
+;;;BCO Brandpreventie;;;;;;
+;;;Galliershof 22;;;;;;
+;;;5349 BV Oss;;;;;;
+;;;;;;;;;
+Klant: Kemkens;;;Naam monteur: M. Gutte;;;;;;
+Locatie: Sint Elisabeth, Beneden Leeuwen;;;Datum: Oktober, 2015;;;;;;
+Adres: Rozenstraat 10, Beneden Leeuwen;;;Complexnr: C70270;;;;;;
+;;;;;;;;;
+Locatiegegevens;;;;Beveiliging;;Resultaat;;Montagegevens;
+Nr.;Etage;Ruimte;Toestel;Huidige beveiliging;Vereiste beveiliging;Plaats beveiliging;Drukvast;Diameter;Soort fitting (CAP/KNEL/SCHROEF)
+1;BG;Gang tegenover 1003;Brandslanghaspel;EA;;;JA;Ø22;Knel
+2;BG;Gang tegenover 1029;Brandslanghaspel;EA;;;JA;Ø22;Knel
+3;BG;Pantry tegenover 1014;Koffieautomaat;EA;;;JA;3/4;Schroef
+4;BG;Pantry tegenover 1014;Vaatwasser;DAEB;;;JA;;
+5;1e verd.;Gang tegenover 1130;Brandslanghaspel;EA;;;JA;Ø22;Knel
+6;1e verd.;Pantry 1128;Industriële vaatwasser;CA;;;JA;1/2;Knel en schroef
+7;1e verd.;Gang tegenover 1113;Brandslanghaspel;EA;;;JA;Ø22;Knel
+8;1e verd.;Pantry 1110;Vaatwasser;CA;;;JA;1/2;Schroef
+9;1e verd.;Gang tegenover 1104;Brandslanghaspel;EA;;;JA;Ø22;Knel
+10;2e verd.;Lounge pantry 1230;Vaatwasser;DAEB;;;JA;1/2;Schroef
+11;2e verd.;Gang tegenover 1204;Brandslanghaspel;EA;;;JA;Ø22;Knel
+12;2e verd.;Gang tegenover 1221;Brandslanghaspel;EA;;;JA;Ø22;Knel
+13;2e verd.;Pantry 1210;Vaatwasser;DAEB;;;JA;1/2;Schroef
+14;2e verd.;Gang tegenover 1216;Brandslanghaspel;EA;;;JA;Ø22;Knel
+16;2e verd.;1-219;Wasmachine Aansluiting ;DAEB;;;JA;1/2;Schroef
+21;-1;Kelder technische dienst;Watermeter;EA;;;JA;Ø42;Knel
+22;-1;Technische ruimte;CV vulpunt;CA;;;JA;;
+23;-1;Technische ruimte;Koudwater leiding;EA;;;JA;Ø22;Knel
+24;-1;Technische ruimte;Ontharder;CA;;;JA;Ø22;Knel
+24a;-1;Technische ruimte;KW toevoer;EA;;Boven Boiler;JA;Ø15;Knel
+25;-1;Technische ruimte;Circulatie boiler;EA;;;JA;;
+26;-1;Technische ruimte;Toevoer boiler;EA;;;JA;;
+27;BG;Grote keuken;Steamer;DAEB;;;JA;;
+28;BG;Grote keuken;Steamer;DAEB;;;JA;;
+31;BG;Grote keuken;Koffieautomaat;EA;;;JA;3/4'';Schroef
+32;BG;Spoelkeuken;Knijpdouche koudwater;EA;;;JA;3/8 à 1/2;Hoekstopkraan
+33;BG;Spoelkeuken;Knijpdouche warmwater;EA;;;JA;3/8 à 1/2;Hoekstopkraan
+35;BG;Spoelkeuken;Vaatwasser industrie;CA;;;JA;1/2;Schroef
+36;BG;Spoelkeuken;Schoonmaakslang;EA;;;JA;3/4;Schroef
+37;BG;Spoelkeuken;Industriële vaatwasser;CA;;;JA;1/2;Schroef
+38;BG;Lauwegaard ingang;Brandslanghaspel;-;;;JA;Ø22;Knel
+38a;BG;Berging 2070;Wasmachine;DAEB + EA;;;JA;;
+39;BG;Gang;Brandslanghaspel;EA;;;JA;Ø22;Knel
+40;BG;Gang tegenover 2095;Brandslanghaspel;EA;;;JA;Ø22;Knel
+41;BG;Pantry 2097;Steamer;-;;;JA;3/4;Schroef
+41a;BG;Pantry 2097;Vaatwasser;DAEB;;;JA;;
+42;BG;Tegenover 2058;Brandslanghaspel;EA;;;JA;3/8;Schroef
+43;BG;Pantry 2055;Steamer;DAEB;;;JA;1/2;Schroef
+43a;BG;Pantry 2055;Vaatwasser;DAEB;;;JA;;
+44;BG;Naast 2034;Brandslanghaspel;EA;;;JA;Ø22;Knel
+44a;BG;Naast 2035;Wasmachine;DAEB;;;JA;;
+45;BG;Pantry 2029;Vaatwasser;DAEB;;;JA;;
+47;BG;2012;Brandslanghaspel;EA;;;JA;Ø22;Knel
+48;BG;Pantry 2007;Vaatwasser;DAEB;;;JA;;
+48a;3e verd.;Boiler ruimte 1 (klep 117 en 118 in zelfde ruimte);Vulkraan oorsprong;EA;;;JA;;
+48c;3e verd.;Boiler ruimte 2 op dak;Circulatie boiler;EA;;;JA;;Knel
+48d;3e verd.;Boiler ruimte 2 op dak;Inlaat boiler;Inlaat combi;;;JA;Ø28;
+48e;3e verd.;Boiler ruimte 2 op dak;Vulkraan oorsprong;EA;;;JA;Ø22;Knel
+48g;3e verd.;Boiler ruimte 3 op dak ;Toevoer koudwater boiler;EA;;;JA;;
+48h;3e verd.;Boiler ruimte 3 op dak;Circulatie boiler;EA;;;JA;Ø22;Press
+48i;3e verd.;Boiler ruimte 3 op dak;Toevoer ontharder;CA;;;JA;;
+48k;3e verd.;Boiler ruimte 3;Vulkraan;CA;;;JA;3/4;Schroef
+50;BG;2005;Gevelkraan;EA;;;JA;;
+51;BG;2055;Gevelkraan;EA;;;JA;;
+52;BG;2097;Gevelkraan;EA;;;;;
+53;BG;Tuin bij receptie;Gevelkraan;EA;;;JA;;
+54;1e verd.;Naast 2143;Brandslanghaspel keerklep in 2146;EA;;;JA;Ø22;Knel
+54a;1e verd.;2170;Wasmachine;DAEB;;;JA;;
+55;1e verd.;Naast 2180;Brandslangshaspel keerklep in 2183;EA;;;JA;Ø22;Knel
+56;1e verd.;Tegenover 2195;Brandslangshaspel keerklep in 2191;EA;;;JA;Ø22;Knel
+57;1e verd.;Pantry 2197;Steamer;DAEB;;;JA;1/2;Schroef
+57a;1e verd.;Pantry 2197;Vaatwasser;DAEB;;;JA;1/2;Schroef
+58;1e verd.;Tegenover 2158;Brandslanghaspel keerklep in 2152;EA;;;JA;Ø22;Knel
+59;1e verd.;2155;Steamer;DAEB;;;JA;1/2;Schroef
+60;1e verd.;2155;Vaatwasser;DAEB;;;JA;1/2;Schroef
+62;1e verd.;Naast 2136;Brandslanghaspel keerklep in 2135;EA;;;JA;Ø22;Knel
+63;1e verd.;Pantry 2129;Vaatwasser;DAEB;;;JA;;
+65;1e verd.;Naast 2112;Brandslanghaspel in 2112;EA;;;JA;Ø22;Knel
+66;1e verd.;Pantry 2107;Vaatwasser;DAEB;;;JA;;
+68;BG;Restaurant;Brandslanghaspel;-;;;JA;Ø22;Knel
+69;BG;Restaurant;Koffieautomaat;EA;;In plafond achter automaat;JA;Ø15;Knel
+70;BG;Gang tegenover 3002;Brandslanghaspel;EA;;;JA;;
+70a;BG;3013;Watermengkraan;DAEB;;;JA;;
+71;BG;Gang tegenover 3005;Brandslanghaspel;EA;;;JA;;
+72;BG;Gang naast 3006;Brandslanghaspel;EA;;;JA;;
+73;BG;Gang naast 3027;Brandslanghaspel;EA;;;JA;Ø22;Knel
+74;BG;Gang naast 3094;Brandslanghaspel;EA;;;JA;;
+75;BG;Gang tegenover 3035;Brandslanghaspel;EA;;;JA;;
+76;BG;Huiskamer keuken;Vaatwasser;EA;;;JA;;
+77;BG;Kamer 3029;Wasmachine aansluiting;DAEB;;;JA;;
+77a;BG;Kamer 3030;Watermengkraan;DAEB;;;JA;;
+77b;BG;Kamer 3034;Watermengkraan;DAEB;;;JA;;
+77c;BG;Kamer 3033;Watermengkraan;DAEB;;;JA;;
+78;BG ;Kamer 3041;Wasmachine aansluiting;DAEB;;;JA;;
+79;BG;Kamer 3042;Wasmachine aansluiting;DAEB;;;JA;;
+80;BG;Kamer 3001;Wasmachine aansluiting;DAEB;;;JA;;
+81;BG;Kamer 3002;Wasmachine aansluiting;DAEB;;;JA;;
+82;BG;Kamer 3005;Wasmachine aansluiting;DAEB;;;JA;;
+83;1e verd.;Keuken huiskamer;Vaatwasser;DAEB;;;JA;;
+84;1e verd.;Naast 3127;Brandslanghaspel keerklep in keuken;EA;;;JA;Ø28;Knel
+85;1e verd.;3129;Wasmachine aansluiting;DAEB;;;JA;;
+86;1e verd.;3130;Wasmachine aansluiting;DAEB;;;JA;;
+87;1e verd.;3133;Wasmachine aansluiting;DAEB;;;JA;;
+88;1e verd.;Naast 3133;Brandslanghaspel keerklep in 3134;EA;;;JA;;
+89;1e verd.;3134;Wasmachine aansluiting;DAEB;;;JA;;
+90;1e verd.;Tegenover 3135;Brandslanghaspel keerklep in gang;EA;;;JA;;
+91;1e verd.;3141;Wasmachine aansluiting;DAEB;;;JA;;
+92;1e verd.;3142;Wasmachine aansluiting;DAEB;;;JA;;
+93;1e verd.;3101;Wasmachine aansluiting;DAEB;;;JA;;
+94;1e verd.;3102;Wasmachine aansluiting;DAEB;;;JA;;
+95;1e verd.;Naast 3105;Brandslanghaspel;EA;;;JA;;
+96;1e verd.;3105;Wasmachine aansluiting;DAEB;;;JA;;
+97;1e verd.;Tegenover 3106;Brandslanghaspel;EA;;;JA;;
+98;1e verd.;3116;Wasmachine aansluiting;DAEB;;;JA;;
+99;1e verd.;Naast 3116;Brandslanghaspel;EA;;;JA;Ø22;Knel
+100;2e verd.;Keuken huiskamer;Vaatwasser;DA;;;JA;1/2;Schroef
+101;2e verd.;3229;Wasmachine aansluiting;DAEB;;;JA;;
+102;2e verd.;Naast 3227;Brandslanghaspel;EA;;;JA;;
+103;2e verd.;3230;Wasmachine aansluiting;DAEB;;;JA;;
+104;2e verd.;3233;Wasmachine aansluiting;DAEB;;;JA;;
+105;2e verd.;Naast 3234;Brandslanghaspel keerklep in 3234;EA;;;JA;;
+106;2e verd.;3234;Wasmachine aansluiting;DAEB;;;JA;;
+107;2e verd.;Tegenover 3235;Brandslanghaspel;EA;;;JA;;
+108;2e verd.;3241;Wasmachine aansluiting;DAEB;;;JA;;
+109;2e verd.;3242;Wasmachine aansluiting;DAEB;;;JA;;
+110;2e verd.;3201;Wasmachine aansluiting;DAEB;;;JA;;
+111;2e verd.;3202;Wasmachine;DAEB;;;JA;;
+112;2e verd.;Naast 3205;Brandslanghaspel;EA;;;JA;;
+113;2e verd.;3205;Wasmachine;DAEB;;;JA;;
+114;2e verd.;Tegenover 3206;Brandslanghaspel;EA;;;JA;;
+115;2e verd.;3216;Wasmachine;DAEB;;;JA;;
+116;2e verd.;Naast 3216;Brandslanghaspel;EA;;;JA;;
+117;3e verd.;Technische ruimte (boiler 1 op dak);Boiler;Inlaat combi;;;JA;;
+118;3e verd.;Technische ruimte (boiler 1 op dak);Boiler circulatie;EA;;;JA;;
+119;BG;Bij ingang;Gevelkraan;EA;;;JA;;
+120;BG;Vanaf ingang gezien rechts om het gebouw heen;Gevelkraan;EA;;;JA;;
+123;BG;Vanaf ingang gezien rechts om het gebouw heen;Gevelkraan;EA;;;JA;;
+124;BG;Vanaf ingang gezien rechts om het gebouw heen;Gevelkraan;EA;;;JA;;
+124a;BG;Vanaf ingang gezien rechts om het gebouw heen;Gevelkraan;EA;;;JA;;
+125;BG;Vanaf ingang gezien rechts om het gebouw heen;Gevelkraan;EA;;;JA;;
+126;BG;Vanaf ingang gezien rechts om het gebouw heen;Gevelkraan;EA;;;JA;;
+127;BG;Ingang;Brandslanghaspel;EA;;;JA;;
+128;BG;BL-09 Logopedie ;Boiler;Inlaat combi;;;JA;;
+129;BG;BL-10 Pedicure;Boiler;Inlaat combi;;;JA;;
+130;BG;Magazijn;Koudwater kraan;DAEB;;;JA;3/4;Schroef
+133;BG;BL-12 koffieruimte;Boiler;Inlaat combi;;;JA;;
+134;BG;BL-12 koffieruimte;Vaatwasser;DAEB;;;JA;3/4;Schroef
+135;BG;BL-13 behandelkamer;Boiler;Inlaat combi;;;JA;;
+136;BG;BL-14 behandelkamer;Boiler;Inlaat combi;;;JA;;
+137;BG;BL-15 behandelkamer;Boiler;Inlaat combi;;;JA;;
+138;BG;BL-16 behandelkamer;Boiler;Inlaat combi;;;JA;;
+139;BG;BL-17 behandelkamer;Boiler;Inlaat combi;;;JA;;
+140;BG;Fysio;Brandslanghaspel;;;;JA;;
+141;BG;Kapsalon;wasbak voor haar KW;EA;;In Zuil wasbak;JA;3/8;Schroef
+142;BG;Kapsalon;wasbak voor haar WW;EA;;In Zuil wasbak;JA;3/8;Schroef
+143;BG;Kapsalon;wasbak voor haar KW;EA;;In Zuil wasbak;JA;3/8;Schroef
+144;BG;Kapsalon;wasbak voor haar WW;EA;;In Zuil wasbak;JA;3/8;Schroef
+145;BG;Wachtruimte;Koffieautomaat;EA;;Achter apparaat;JA;3/4;Schroef
+146;BG;Wachtruimte;Watercooler;EA;;Achter apparaat;JA;3/4;Schroef
+Keerklep :;;Opmerkingen :;;;;;;;
+48G t/m 48H;;Door Kamer 1.217 Lopen om bij Ketelhuis te komen.;;;;;;;
+;;;;;;;;;

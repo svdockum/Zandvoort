@@ -1,0 +1,21 @@
+﻿;;;Onderhoudsrapport;;;;;;
+;;;;;;;;;
+;;;BCO Brandpreventie;;;;;;
+;;;Galliershof 22;;;;;;
+;;;5349 BV Oss;;;;;;
+;;;;;;;;;
+Klant: Gemeente Uden;;;Naam monteur: J. Nederkoorn;;;;;;
+Locatie: Sporthal Hoenderbos;;;Datum: Oktober, 2015;;;;;;
+Adres: Gezwat 6, Uden;;;;;;;;;
+;;;;;;;;;
+Locatiegegevens;;;;Beveiliging;;Resultaat;;Montagegevens;
+Nr.;Etage;Ruimte;Toestel;Huidige beveiliging;Vereiste beveiliging;Plaats beveiliging;Drukvast;Diameter;Soort fitting (CAP/KNEL/SCHROEF)
+1;B.G.;Gang bij meterkast;B.S.H.;EA;;In meterkast;JA;Ø22;Knel
+2;B.G.;Gang ;Watermeter;EA;;In meterkast;JA;Ø28;Cap
+3;B.G.;Gang bij kleedkamers;B.S.H.;EA;;;JA;;
+4;1e verd.;Ketelhuis;CV vulkraan;CA;;Naast boiler;JA;Ø15;Cap
+5;1e verd.;Ketelhuis;Boiler;EA;;Circulatieleiding;JA;Ø15;Knel
+6;1e verd.;Ketelhuis;Voeding Boiler;Inlaat C.;;Bij boiler;JA;Ø28;Cap
+;;;;;;;;;
+Keerklep:;;Opmerking:;;;;;;;
+;;;;;;;;;

@@ -1,0 +1,27 @@
+﻿;;;Onderhoudsrapport;;;;;;
+;;;;;;;;;
+;;;BCO Brandpreventie;;;;;;
+;;;Galliershof 22;;;;;;
+;;;5349 BV Oss;;;;;;
+;;;;;;;;;
+Klant: Kemkens;;;Naam monteur: John Nederkoorn;;;;;;
+Locatie: Boszicht;;;Datum: December, 2015;;;;;;
+Adres: Heemraadstraat 10, Nijmegen;;;;;;;;;
+;;;;;;;;;
+Locatiegegevens;;;;Beveiliging;;Resultaat;;Montagegevens;
+Nr.;Etage;Ruimte;Toestel;Huidige beveiliging;Vereiste beveiliging;Plaats beveiliging;Drukvast;Diameter;Soort fitting (CAP/KNEL/SCHROEF)
+1;Kelder;Ketelhuis;C.V. vulkraan;CA;;Bij waterontharder;JA;Ø22;Knel
+2;Kelder;Technische ruimte;B.S.H. 2x;EA;;Tegen plafond;JA;Ø28;Cap
+3;Kelder;Fietsenstalling;B.S.H.;RAM EA;;Voor portaal CV;JA;Ø28;Knel
+4;Kelder;Ketelhuis;Waterontharder;CA;;Bij waterontharder;JA;Ø15;Knel
+5;Kelder;Ketelhuis;Boiler;RAM EA;;Boven boiler;JA;Ø22;Knel
+6;B.G.;Gang bij spoelkeuken;B.S.H.;EA;;In T.D. kelder;JA;Ø22;Cap
+7;B.G.;Gang bij personeelsruimte;B.S.H.;EA;;In kruipruimte;JA;;
+8;B.G.;Keuken kantoren;Koffieautomaat;RAM EA;;Onder automaat;JA;Ø15;Knel
+9;B.G.;Gang kantoren;B.S.H. h39;EA;;Bij BSH;Ja;Ø28;Cap
+10;1e verd.;Keuken ruimte 1.56;Koffieautomaat;RAM EA;;In keukenkast;JA;Ø15;Knel
+11;1e verd.;Gang bij medicijnruimte;B.S.H.;;;;NEE;;
+12;B.G.;Gang bij kamer 12;B.S.H. 9x;;;In kruipruimte;JA;;
+13;B.G.;Gang bij kamer 16;B.S.H. 9x;;;In kruipruimte;JA;;
+14;B.G.;Gang bij kamer 20;B.S.H. 9x;;;In kruipruimte;JA;;
+16;2e;Kantoortuin;BSH;EA;;Onder BSH;JA;Ø28;Cap

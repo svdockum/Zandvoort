@@ -1,0 +1,38 @@
+﻿;;;Onderhoudsrapport;;;;;;
+;;;;;;;;;
+;;;BCO Brandpreventie;;;;;;
+;;;Galliershof 22;;;;;;
+;;;5349 BV Oss;;;;;;
+;;;;;;;;;
+Klant: Kemkens;;;Naam monteur: M. Gutte;;;;;;
+Locatie: Zorgcentrum Kasteelhof, Druten;;;Datum: November, 2015;;;;;;
+Adres: Kasteelhof 50, Druten;;;Complexnr: C70270;;;;;;
+;;;;;;;;;
+Locatiegegevens;;;;Beveiliging;;Resultaat;;Montagegevens;
+Nr.;Etage;Ruimte;Toestel;Huidige beveiliging;Vereiste beveiliging;Plaats beveiliging;Drukvast;Diameter;Soort fitting (CAP/KNEL/SCHROEF)
+4;-1;CV Ruimte;Toevoer kw;EA;;;a;Ø28;Knel
+5;-1;CV Ruimte;Retour warm water;EA zuig;;;a;Ø22;Knel
+7;-1;CV Ruimte;CV vulpunt;DAEB + CA;;;a;1/2;Knel
+8;-1;Restaurant;Koffieautomaat;DAEB;;;a;3/4;Schroef
+9;-1;Restaurant;Watercooler;DA;;;a;3/4;Schroef
+17;-1;Gang;Brandslanghaspel;EA zuig;;;a;Ø22;Knel
+18;BG;Gang;Buitenkraan;EA;;;a;Ø22;Knel
+19;BG;Gang nabij 1;Brandslanghaspel;EA;;;a;;
+20;BG;Huiskamer 1;Vaatwasmachine;DAEB;;;a;3/4;Schroef
+21;BG;Wasserij 1;Wasmachine;DAEB;;;a;3/4;Schroef
+22;BG;Huiskamer 2;Vaatwasmachine;DAEB;;;a;1/2'';Schroef
+23;BG;Gang nabij 3;Brandslanghaspel;EA;;;a;Ø22;Knel
+24;BG;Huiskamer 3;Vaatwasmachine;DAEB;;;a;1/2'';Schroef
+25;BG;Wasserij 3;Wasmachine;DAEB;;;a;1/2'';Schroef
+26;BG;Huiskamer 4;Vaatwasmachine;DAEB;;;a;1/2'';Schroef
+27;1e verd.;Hal nabij 170 berging;Brandslanghaspel;-;;;a;;
+28;1e verd.;Huiskamer 5;Vaatwasmachine;DAEB;;;a;3/4;Schroef
+29;1e verd.;Wasserij 5;Wasmachine;DAEB;;;a;3/4;Schroef
+30;1e verd.;Huiskamer 6;Vaatwasmachine;DAEB;;;a;3/4;Schroef
+31;1e verd.;Hal bij nummer 5;Brandslanghaspel;EA;;;a;;
+32;2e verd.;Hal naast berging;Brandslanghaspel;-;;;a;;
+34;2e verd.;Hal nabij 208;Brandslanghaspel;EA;;;a;Ø22;Knel
+35;3e verd.;Hal nabij berging;Brandslanghaspel;-;;;a;;
+36;3e verd.;Hal nabij wasserette;Brandslanghaspel;EA;;;a;Ø22;Knel
+37;3e verd.;Wasserette;Wasmachine;DAEB;;;a;3/4;Schroef
+38;3e verd.;Wasserette;Wasmachine;DAEB;;;a;3/4;Schroef

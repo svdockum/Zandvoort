@@ -1,0 +1,50 @@
+﻿;;;Onderhoudsrapport;;;;;;
+;;;;;;;;;
+;;;BCO Brandpreventie;;;;;;
+;;;Galliershof 22;;;;;;
+;;;5349 BV Oss;;;;;;
+;;;;;;;;;
+Klant: DKC Nijmegen;;;Naam monteur: J. Nederkoorn;;;;;;
+Locatie: Wegener Media BV;;;Datum: 14-5-14;;;;;;
+Adres: Tormentil 1 Best;;;;;;;;;
+;;;;;;;;;
+Locatiegegevens;;;;Beveiliging;;Resultaat;;Montagegevens;
+Nr.;Etage;Ruimte;Toestel;Huidige beveiliging;Vereiste beveiliging;Plaats beveiliging;Drukvast;Diameter;Soort fitting (CAP/KNEL/SCHROEF)
+1;bg;hal a;BSH;EA;;boven haspel;JA;22;knel
+2;bg;hal a;BSH;EA;;boven haspel;JA;22;knel
+3;bg;hal a;BSH;EA;;boven wastrog;JA;28;knel
+4;bg;hal a;BSH;EA;;boven haspel;JA;22;knel
+5;bg;hal a;BSH;EA;;boven haspel;JA;22;knel
+6;bg;hal a;BSH;EA;;tegen plafond;JA;22;knel
+7;bg;hal b;BSH;EA;;boven haspel;JA;22;knel
+8;bg;hal b;BSH;EA;;tegen plafond;JA;35;knel
+10;bg;hal b;BSH;EA;;tegen buitengevel;JA;22;knel
+11;2e;t.d. ruimte 2.51;BSH;EA;;in ruimte 2.51 ;JA;35;pers
+12;bg;hal c;BSH;EA;;boven deur b2;JA;28;knel
+13;bg;ketelhuis;BSH 2x;EA;;in ketelhuis;JA;28;knel
+14;bg;ketelhuis;BSH;EA;;in ketelhuis;JA;28;knel
+15;bg;ruimte 0.555;BSH 2x;EA;;in ruimte 0.555;JA;35;pers
+16;bg;gang 0.902;BSH;EA;;in schacht;JA;22;pers
+17;bg;kantine;buitenkraan;EA;;in kruipruimte;JA;;
+18;bg;ruimte 0.928;BSH 2x;EA;;in kruipruimte;JA;;
+19;1e;kantoor 1.007;BSH;EA;;in plafond bg;JA;;
+20;1e;kantoor 1.007;BSH;EA;;in schacht;JA;22;knel
+21;2e;kantoor 2.041;BSH;EA;;in schacht 1e;JA;28;knel
+22;2e;ingang kantoren;BSH;EA;;in plafond 1e;JA;;
+23;3e;ruimte 3.24;BSH;EA;;boven BSH;JA;22;knel
+24;3e;ruimte 3.24;waterontharder;CA;;boven BSH;JA;22;knel
+25;1e;gang centraal 1.10;BSH;EA;;;JA;;
+26;1e;centrale gang;BSH;EA;;;JA;;
+27;1e;centrale gang;BSH;EA;;;JA;;
+28;1e;kantoor tuin 1.32;BSH;EA;;in plafond bg;JA;22;knel
+29;1e;ruimte 1.16a;BSH;EA;;in plafond bg;JA;22;knel
+30;1e;bij ruimte 1.21;BSH;EA;;onder BSH;JA;22;knel
+31;1e;bij ruimte 1.23;BSH;EA;;;JA;;
+32;1e;bij ruimte 1.30;BSH;EA;;;JA;;
+33;1e;bij ruimte 1.27;BSH;EA;;;JA;;
+34;2e;t.d. ruimte 2.51;BSH;EA;;boven BSH;JA;35;knel
+35;2e;ruimte 2.10;BSH;EA;;boven BSH;JA;22;knel
+;;;;;;;;;
+;;;;;;;;;
+Keerklep:;;Opmerking;;;;;;;
+;;;;;;;;;

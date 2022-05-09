@@ -1,0 +1,30 @@
+﻿;;;Onderhoudsrapport;;;;;;
+;;;;;;;;;
+;;;BCO Brandpreventie;;;;;;
+;;;Galliershof 22;;;;;;
+;;;5349 BV Oss;;;;;;
+;;;;;;;;;
+Klant: Gemeente Oss;;;Naam monteur: Marty Gutte;;;;;;
+Locatie: Ir. Diddewerf;;;Datum: November, 2015;;;;;;
+Adres: Singel 40-45, Oss;;;Complexnr: ;;;;;;
+;;;;;;;;;
+Locatiegegevens;;;;Beveiliging;;Resultaat;;Montagegevens;
+Nr.;Etage;Ruimte;Toestel;Huidige beveiliging;Vereiste beveiliging;Plaats beveiliging;Drukvast;Diameter;Soort fitting (CAP/KNEL/SCHROEF)
+1;BG;keuken;VW;EA;;;JA;Ø15;knel
+2;BG;restaurant;koffieautomaat;EA;;;JA;Ø15;knel
+3;BG;restaurant;koudwater apparaat;EA;;;JA;1/2;schroef wmk
+4;BG;keuken opslag;vulkraan;EA;;;JA;Ø15;knel
+5;BG;keuken opslag;inlaatcombinatie;;;;JA;Ø15;knel
+0;BG;Keuken opslag;Toevoer KW;EA;;;JA;Ø15;knel
+6;BG;gang naar restaurant;BSH;;;;JA;;
+7;BG;hal;meterput aftakking;EA;;;JA;Ø22;knel
+8;BG;hal;hoofdmeter;EA;;;JA;Ø22;knel
+0;BG;Hal;KW toevoer;EA;;;JA;Ø15;knel
+9;BG;kleedkamer;wastrog;EA;;;JA;Ø22;knel
+10;1;hal;BSH;;;;JA;Ø22;knel
+11;1;hal;koffieautomaat;EA;;;JA;Ø15;knel
+12;1;hal;koudwater apparaat;EA;;;JA;Ø15;knel
+13;BG;garage 1;BSH;EA;;;JA;Ø22;knel
+14;BG;garage 2;BSH;;;;JA;;
+15;BG;garage 3;BSH;EA;;;JA;Ø22;knel
+16;BG;garage 3;watermeter;EA;;;JA;Ø22;knel

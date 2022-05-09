@@ -1,0 +1,17 @@
+﻿;;;Onderhoudsrapport;;;;;;
+;;;;;;;;;
+;;;BCO Brandpreventie;;;;;;
+;;;Galliershof 22;;;;;;
+;;;5349 BV Oss;;;;;;
+;;;;;;;;;
+Klant: Gemeente Oss;;;Naam monteur: Marty Gutte;;;;;;
+Locatie: Het Honk;;;Datum: November, 2015;;;;;;
+Adres: Palestrinastraat 6, Oss;;;Complexnr: ;;;;;;
+;;;;;;;;;
+Locatiegegevens;;;;Beveiliging;;Resultaat;;Montagegevens;
+Nr.;Etage;Ruimte;Toestel;Huidige beveiliging;Vereiste beveiliging;Plaats beveiliging;Drukvast;Diameter;Soort fitting (CAP/KNEL/SCHROEF)
+1;BG;Hal;BSH;EA;;Aan plafond;JA;Ø28;knel
+2;BG;Bar;koffieautomaat;EA;EA;In keukenkast;JA;;
+4;BG;Washok bij bar;WM;EA;;;JA;1/2;schroef
+5;BG;Ketelhok buiten;Vulkraan;CA;;;JA;1/2;schroef
+6;BG;Bar;Vaatwasser;EA;;;JA;3/4;schroef

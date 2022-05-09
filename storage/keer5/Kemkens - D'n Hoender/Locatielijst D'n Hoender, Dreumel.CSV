@@ -1,0 +1,33 @@
+﻿;;;Onderhoudsrapport;;;;;;
+;;;;;;;;;
+;;;BCO Brandpreventie;;;;;;
+;;;Galliershof 22;;;;;;
+;;;5349 BV Oss;;;;;;
+;;;;;;;;;
+Klant: Kemkens;;;Naam monteur: J. Nederkoorn;;;;;;
+Locatie: D'n Hoender;;;Datum: September, 2015;;;;;;
+Adres: Nieuwstraat 10, Dreumel;;;Complexnr: C70253;;;;;;
+;;;;;;;;;
+Locatiegegevens;;;;Beveiliging;;Resultaat;;Montagegevens;
+Nr.;Etage;Ruimte;Toestel;Huidige beveiliging;Vereiste beveiliging;Plaats beveiliging;Drukvast;Diameter;Soort fitting (CAP/KNEL/SCHROEF)
+1;BG;Keuken bar;Tapkraan bierspoellading;EA;;Bij C.V. ketel;JA;Ø15;Knel
+2;BG;Hal toiletten sport;Brandslanghaspel;;;;JA;Niet zichtbaar;Niet zichtbaar
+3;BG;Meterkast;Watermeter;EA;;In meterkast;JA;5/4";Schroef
+4;BG;Ketelhuis sport;C.V. vulkraan;CA;;Naast boiler;JA;Ø22;Knel
+5;BG;Ketelhuis sport;Boiler;Inlaatcombi;;Naast boiler;JA;Ø28;Schroef cap
+6;BG;Hal muziek gebouw;Brandslanghaspel;Ram EA;;Hal in plafond begane grond;JA;Ø28;Knel
+7;BG;Hal kinderdagverblijf;Brandslanghaspel;Ram EA;;Hal in plafond begane grond;JA;Ø22;Knel
+8;BG;Keuken kinderdagverblijf;Vaatwasser;EB;;In keukenkast;JA;1/2;Schroef
+9;1e verd;Hal muziek ;Brandslanghaspel;Ram EA;;In plafond begane grond;JA;Ø22;Knel
+10;1e verd;Basisschool;Brandslanghaspel;Ram EA;;In ketelhuis 1e verdieping;JA;Ø22;Knel
+11;1e verd;Basisschool;Brandslanghaspel;Ram EA;;In ketelhuis 1e verdieping;JA;Ø22;Knel
+12;1e verd;Basisschool;C.V. vulkraan;CA;;In ketelhuis 1e verdieping;JA;1/2;Schroef
+13;1e verd;Basisschool bovenbouw;Brandslanghaspel 2x;Ram EA;;In plafond begane grond bij ingang;JA;Ø28;Knel
+14;BG;Basisschool onderbouw;Brandslanghaspel;EA;;In plafond bij bibliotheek;JA;Ø22;Knel
+15;BG;TSO;Close In boiler;Inlaatcombi;;In keukenkast;JA;Ø15;Knel
+16;BG;TSO;Vaatwasser;DAEB;;In keukenkast;JA;1/2;Schroef
+17;BG;Keuken bali;Vaatwasser;DAEB;;In keukenkast;JA;1/2;Schroef
+18;BG;Keuken bali;Koffieautomaat;DAEB;;Boven keukenblad;JA;1/2 ;Schroef
+19;BG;Koffiekamer;Vaatwasser;DAEB;;In keukenkast;JA;1/2 ;Schroef
+20;BG;Koffiekamer;Plint boiler;Inlaatcombi;;In keukenkast;JA;Ø15;Knel
+21;BG;Keuken balie;Plint boiler;Inlaatcombi;;In keukenkast;JA;Ø15;Knel

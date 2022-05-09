@@ -1,0 +1,36 @@
+﻿;;;Onderhoudsrapport;;;;;;
+;;;;;;;;;
+;;;BCO Brandpreventie;;;;;;
+;;;Galliershof 22;;;;;;
+;;;5349 BV Oss;;;;;;
+;;;;;;;;;
+Klant: DKC Nijmegen;;;Naam monteur: J. Nederkoorn;;;;;;
+Locatie: Mercachem;;;Datum: September, 2015;;;;;;
+Adres: Kerkenbos 1013, Nijmegen;;;;;;;;;
+;;;;;;;;;
+Locatiegegevens;;;;Beveiliging;;Resultaat;;Montagegevens;
+Nr.;Etage;Ruimte;Toestel;Huidige beveiliging;Vereiste beveiliging;Plaats beveiliging;Drukvast;Diameter;Soort fitting (CAP/KNEL/SCHROEF)
+1;B.G.;Magazijn;B.S.H. 35;;;In plafond;JA;;
+2;B.G.;Gang bij ruimte 0.35;Nooddouche;RAM/EA;;In plafond;JA;Ø28;Knel
+3;B.G.;Gang bij toilet 0.26;B.S.H. 43;RAM/EA;;In plafond;JA;Ø28;Knel
+4;B.G.;Gang bij ruimte 0.34;Nooddouch;RAM/EA;;In plafond;JA;Ø28;Knel
+5;B.G.;Gang bij toilet 0.19;B.S.H. 5;RAM/EA;;In plafond;JA;Ø28;Knel
+6;B.G.;Gang bij ruimte 0.31;Nooddouche;RAM/EA;;In plafond;JA;Ø28;Knel
+7;B.G.;Keuken kantoren;Koffieautomaat;RAM/EA;;In plafond;JA;Ø15;Knel
+8;B.G.;Hal achter in gang;B.S.H. 1;RAM/EA;;In plafond restaurant;JA;Ø28;Knel
+9;B.G.;Keuken restaurant;Vaatwasser;CA;;Onder werkblad;JA;Ø15;Knel
+10;B.G.;Keuken restaurant;Spoelkraan warmwater;RAM/EA;;Onder werkblad;JA;Ø15;Knel
+11;B.G.;Keuken restaurant;Spoelkraan koudwater;RAM/EA;;Onder werkblad;JA;Ø15;Knel
+12;1e verd.;Bij hoofdingang;B.S.H. 1.37;RAM/EA;;In plafond;JA;Ø28;Knel
+13;B.G.;Bij hoofdingang;B.S.H. 3;RAM/EA;;In plafond toilet 0.08;JA;Ø28;Knel
+14;1e verd.;Gang bij ruimte 1.30;B.S.H. 1.01;RAM/EA;;In plafond;JA;Ø28;Knel
+15;1e verd.;Gang bij ruimte 1.30;Nooddouche;RAM/EA;;In plafond;JA;Ø28;Knel
+16;1e verd.;Gang bij toilet 1.21;B.S.H. 1.04;RAM/EA;;In plafond;JA;Ø28;Knel
+17;1e verd.;Gang bij ruimte 1.29;Nooddouche;RAM/EA;;In plafond;JA;Ø28;Knel
+18;1e verd.;Gang bij toilet 1.14;B.S.H. 1.20;RAM/EA;;In plafond;JA;Ø28;Knel
+19;1e verd.;Gang bij ruimte 1.26;Nooddouche;RAM/EA;;In plafond;JA;Ø28;Knel
+20;1e verd.;Gang bij ruimte 1.09;B.S.H. 1.40;RAM/EA;;In plafond;JA;Ø28;Knel
+21;B.G.;Magazijn;Nooddouche;RAM/EA;;Bij 0.40 Afval;JA;ø28;Knel
+22;B.G.;Magazijn;Ijsmachine;RAM/EA;;Bij lift;JA;ø15;Knel
+Keerklep:;;Opmerking;;;;;;;
+;;;;;;;;;

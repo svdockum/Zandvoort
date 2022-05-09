@@ -1,0 +1,28 @@
+﻿;;;Onderhoudsrapport;;;;;;
+;;;;;;;;;
+;;;BCO Brandpreventie;;;;;;
+;;;Galliershof 22;;;;;;
+;;;5349 BV Oss;;;;;;
+;;;;;;;;;
+Klant: RIBW;;;Naam monteur: Marty Gutte;;;;;;
+Locatie: Staringstraat ;;;Datum: December, 2015;;;;;;
+Adres: Staringstraat 9 Nijmegen;;;;;;;;;
+;;;;;;;;;
+Locatiegegevens;;;;Beveiliging;;Resultaat;;Montagegevens;
+Nr.;Etage;Ruimte;Toestel;Huidige beveiliging;Vereiste beveiliging;Plaats beveiliging;Drukvast;Diameter;Soort fitting (CAP/KNEL/SCHROEF)
+1;-1;kelder washok;wasmachine;EA;;;JA;3/4;schroef
+2;-1;kelder washok;wasmachine;EA;;;JA;Ø15;schroef
+3;-1;kelder;brandslanghaspel;EA;;;JA;Ø22;knel
+4;-1;kelder;kw kraan;;;;JA;1/2;schroef
+5;-1;kelder;vulkraan;EA;;;JA;Ø15;knel
+6;-1;kelder;toevoer kw;EA;;;JA;28;cap
+7;BG;hal;brandslanghaspel;EA;;;JA;Ø22;
+8;BG;keuken;kw kraan;EA;;Kelder aan plafond;JA;Ø15;schroef
+9;BG;keuken;vaatwasser;CA;;;JA;1/2;schroef
+10;1;hal;brandslanghaspel;EA;;;JA;Ø22;knel
+11;1;douche;inlaatcombi boiler;EA;;;JA;Ø15;knel
+12;2;hal;brandslanghaspel;EA;;;JA;Ø22;knel
+13;2;douche;inlaatcombi boiler;EA;;;JA;Ø15;knel
+14;2;keuken;vaatwasser;DA-EB;;achterwand keukenkast;JA;1/2;schroef
+16;BG;keuken;spoelkraan kw;EA;;;JA;Ø15;knel
+17;BG;keuken;spoelkraan ww;EA;;;JA;Ø15;knel

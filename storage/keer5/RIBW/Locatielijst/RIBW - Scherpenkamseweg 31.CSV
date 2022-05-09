@@ -1,0 +1,22 @@
+﻿;;;Onderhoudsrapport;;;;;;
+;;;;;;;;;
+;;;BCO Brandpreventie;;;;;;
+;;;Galliershof 22;;;;;;
+;;;5349 BV Oss;;;;;;
+;;;;;;;;;
+Klant: RIBW;;;Naam monteur: Marty Gutte;;;;;;
+Locatie: Scherpenkampseweg ;;;Datum: December, 2015;;;;;;
+Adres: Scherpenkampseweg 31, Nijmegen;;;;;;;;;
+;;;;;;;;;
+Locatiegegevens;;;;Beveiliging;;Resultaat;;Montagegevens;
+Nr.;Etage;Ruimte;Toestel;Huidige beveiliging;Vereiste beveiliging;Plaats beveiliging;Drukvast;Diameter;Soort fitting (CAP/KNEL/SCHROEF)
+1;BG;meterkast;keerklep voor watermeter;EA;;;JA;28;schroef
+2;BG;keuken;vaatwasser;DA-EB;;;JA;1/2;schroef
+3;1e verd.;washok;wasmachine;DA-EB;;;JA;1/2;schroef
+4;1e verd.;ketelhok;toevoer kw;EA;;;JA;Ø15;knel
+5;1e verd.;ketelhok;inlaatcombi;EA;;;JA;Ø15;knel
+6;BG;hal;brandslanghaspel;;;;JA;;
+7;BG;douche;watermengkraan;DA-EB;;;JA;1/2;schroef
+8;1e verd.;gang;brandslanghaspel;;;;JA;;
+Keerklep:;;Opmerking:;;;;;;;
+;;;;;;;;;

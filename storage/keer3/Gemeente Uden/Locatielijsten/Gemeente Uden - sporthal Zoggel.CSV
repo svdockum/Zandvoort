@@ -1,0 +1,21 @@
+﻿;;;Onderhoudsrapport;;;;;;
+;;;;;;;;;
+;;;BCO Brandpreventie;;;;;;
+;;;Galliershof 22;;;;;;
+;;;5349 BV Oss;;;;;;
+;;;;;;;;;
+Klant: Gemeente Uden;;;Naam monteur: J. Nederkoorn;;;;;;
+Locatie: Sporthal Zoggel;;;Datum: Oktober, 2015;;;;;;
+Adres: Hoogzoggel 130, Uden;;;;;;;;;
+;;;;;;;;;
+Locatiegegevens;;;;Beveiliging;;Resultaat;;Montagegevens;
+Nr.;Etage;Ruimte;Toestel;Huidige beveiliging;Vereiste beveiliging;Plaats beveiliging;Drukvast;Diameter;Soort fitting (CAP/KNEL/SCHROEF)
+1;B.G.;Hal Sporthal;Watermeter;EA;;In Meterput;JA;;
+2;B.G.;Gang Kleedkamers;B.S.H.;EA;;Bij B.S.H.;JA;ø22;Knel
+3;B.G.;CV Ruimte;Circulatie WW;EA;;Boven Boiler;NEE;ø15;Knel
+4;B.G.;CV Ruimte;Voeding Boiler;Inlaat C.;;Naast boiler;JA;ø28;CAP
+5;B.G.;Sporthal;B.S.H.;EA;;Bij B.S.H.;JA;ø22;Knel
+6;B.G.;CV Ruimte;CV Vulkraan;CA;;Naast boiler;JA;1/2'';Schroef
+7;B.G.;Beheerders ruimte;Boiler;Inlaat C.;;In keukenkast;JA;ø15;Knel
+Keerklep:;;Opmerking:;;;;;;;
+;;;;;;;;;

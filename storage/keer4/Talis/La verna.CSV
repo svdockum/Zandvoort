@@ -1,0 +1,33 @@
+﻿;;;Onderhoudsrapport;;;;;;
+;;;;;;;;;
+;;;BCO Brandpreventie;;;;;;
+;;;Galliershof 22;;;;;;
+;;;5349 BV Oss;;;;;;
+;;;;;;;;;
+Klant: Talis;;;Naam monteur: J. Verhagen;;;;;;
+Locatie: La Verna;;;Datum: aug, 2015;;;;;;
+Adres: Leemweg 134 Wijchen;;;;;;;;;
+;;;;;;;;;
+Locatiegegevens;;;;Beveiliging;;Resultaat;;Montagegevens;
+Nr.;Etage;Ruimte;Toestel;Huidige beveiliging;Vereiste beveiliging;Plaats beveiliging;Drukvast;Diameter;Soort fitting (CAP/KNEL/SCHROEF)
+1;BG;Recreatieruimte;BSH 0-1;EA;EA;;a;;
+2;BG;Bij kamer 026;BSH 0-2;RAM EA;;Naast brandslanghaspel;a;Ø22;Knel
+3;BG;Bij kamer 030;BSH 0-3;;;;a;;
+4;BG;Bij kamer 047;BSH 0-4;RAM EA;;Naast brandslanghaspel;a;Ø22;Knel
+5;BG;In keuken van de Ark;BSH 0-5;;;;a;;
+6;BG;Op podium de Ark ;BSH 0-6;;;;a;;
+7;1e verd.;Bij kamer 127;BSH 1-1;RAM EA;;Bij brandslanghaspel;a;Ø22;Knel
+8;1e verd.;Bij kamer 130;BSH 1-2;RAM EA;;Bij brandslanghaspel;a;Ø22;Knel
+9;1e verd.;Bij kamer 147;BSH 1-3;RAM EA;;Bij brandslanghaspel;a;Ø22;Knel
+10;2e verd.;Bij kamer 226;BSH 2-1;RAM EA;;Bij brandslanghaspel;a;Ø22;Knel
+11;2e verd.;Bij kamer 230;BSH 2-2;RAM EA;;Bij brandslanghaspel;a;Ø22;Knel
+12;2e verd.;Bij kamer 247;BSH 2-3;RAM EA;;Bij brandslanghaspel;a;Ø22;Knel
+13;3e verd.;Bij kamer 326;BSH 3-1;RAM EA;;Bij brandslanghaspel;a;Ø22;Knel
+14;3e verd.;Bij kamer 336;BSH 3-2;RAM EA;;Bij brandslanghaspel;a;Ø22;Knel
+15;3e verd.;Bij kamer 347;BSH 3-3;RAM EA;;Bij brandslanghaspel;a;Ø22;Knel
+16;4e verd.;Bij ketelhuis;BSH 4-1;EA;;In ketelhuis;a;Ø22;Pers
+17;4e verd.;Op hoge bergzolder;BSH 4-2;EA;;In stijgleiding;a;Ø22;Pers
+18;BG;Ontvangst goederen;Buitenkraan;EA;;Bij stopkraan;a;Ø22;Knel
+;;;;;;;;;
+Keerklep:;;Opmerking:;;;;;;;
+18;;Geen sticker i.v.m. buiten;;;;;;;

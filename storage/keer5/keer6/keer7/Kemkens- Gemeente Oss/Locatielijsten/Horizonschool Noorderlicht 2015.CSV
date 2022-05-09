@@ -1,0 +1,42 @@
+﻿;;;Onderhoudsrapport;;;;;;
+;;;;;;;;;
+;;;BCO Brandpreventie;;;;;;
+;;;Galliershof 22;;;;;;
+;;;5349 BV Oss;;;;;;
+;;;;;;;;;
+Klant: Gemeente Oss;;;Naam monteur: Marty Gutte;;;;;;
+Locatie: Horizonschool Noorderlicht;;;Datum: November, 2015;;;;;;
+Adres: Rusheuvelstraat 75, Oss;;;;;;;;;
+;;;;;;;;;
+Locatiegegevens;;;;Beveiliging;;Resultaat;;Montagegevens;
+Nr.;Etage;Ruimte;Toestel;Huidige beveiliging;Vereiste beveiliging;Plaats beveiliging;Drukvast;Diameter;Soort fitting (CAP/KNEL/SCHROEF)
+1;BG;hoofd hok buiten;watermeter;EA;;in watermeter;JA;;
+2;BG;klas 0.15;VW;EA;;;JA;3/4'';schroef
+3;BG;ketel 0.15;vulkraan;EA;;;JA;1/2 ;schroef
+4;BG;ketel 0.15;inlaatcombinatie;;;;JA;Ø15;knel
+5;BG;gang biven plafond;BHS;EA;;;JA;Ø28;knel
+6;BG;keuken;BHS;EA;;;JA;Ø22;knel
+7;BG;keuken;WMH;EA;;;JA;1/2;schroef
+0;BG;Keuken;Boiler;EA;;;ja;Ø15;knel
+8;BG;keuken;VW;EA;;;JA;3/4;schroef
+9;BG;washok kinderopvang;WM;EA;;;JA;3/4'';schroef
+10;BG;washok kinderopvang;WM;EA;;;JA;3/4;schroef
+11;BG;hal kinderopvang;BSH;;;;JA;;
+12;BG;03D klas keuken;VW;EA;;;JA;3/4;schroef
+13;BG;klas 03D cv ruimte;inlaatcombinatie;;;;JA;Ø15;knel
+1;BG;klas 03D cv ruimte;Toevoer KW;EA;;;JA;Ø22;CAP
+14;BG;klas 09C keuken;VW;EA;;;JA;3/4;schroef
+15;BG;klas 09C cv ruimte;inlaatcombinatie;;;;JA;Ø15;knel
+16;BG;klas 09F keuken;VW;EA;;;JA;1/2;schroef
+17;BG;klas 09F cv ruimte;vulkraan;EA;;;JA;Ø15;knel
+18;BG;klas 09F cv ruimte;inlaatcombinatie;EA;;;JA;Ø15;knel
+19;BG;klas 0.14;inlaatcombinatie;;;;JA;Ø15;knel
+20;1;mediatheek cv ruimte;vulkraan;EA;;;JA;Ø15;knel
+21;1;mediatheek cv ruimte;inlaatcombinatie;;;;JA;Ø15;knel
+22;1;gang boven plafond;BSH;;;;JA;;
+23;1;schoonmaakhok;vulkraan;EA;;;JA;Ø15;knel
+24;1;schoonmaakhok;inlaatcombinatie;;;;JA;Ø15;knel
+25;BG;buiten straatkant;buitenkraan;;;;JA;;
+26;BG;buiten straatkant;buitenkraan;;;;JA;;
+27;BG;buiten voetbalveldkant;buitenkraan;;;;JA;;
+28;BG;buiten voetbalveldkant;buitenkraan;;;;JA;;

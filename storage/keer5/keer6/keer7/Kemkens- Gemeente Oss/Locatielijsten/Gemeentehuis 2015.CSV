@@ -1,0 +1,161 @@
+﻿;;;Onderhoudsrapport;;;;;;
+;;;;;;;;;
+;;;BCO Brandpreventie;;;;;;
+;;;Galliershof 22;;;;;;
+;;;5349 BV Oss;;;;;;
+;;;;;;;;;
+Klant: Gemeente Oss;;;Naam monteur: Marty Gutte;;;;;;
+Locatie: Gemeentehuis Oss;;;Datum: Oktober, 2015;;;;;;
+Adres: Raadhuislaan 2, Oss;;;Complexnr: C38034;;;;;;
+;;;;;;;;;
+Locatiegegevens;;;;Beveiliging;;Resultaat;;Montagegevens;
+Nr.;Etage;Ruimte;Toestel;Huidige beveiliging;Vereiste beveiliging;Plaats beveiliging;Drukvast;Diameter;Soort fitting (CAP/KNEL/SCHROEF)
+1;4e etage;Werkkast;Boiler inlaatcombinatie;EA;;Bij boiler;JA;Ø15;Knel
+2;4e etage;Hal;brandslanghaspel;-;;;JA;;
+3;4e etage;BSH bij toilet dames;brandslanghaspel;EA;;In haspelkast;JA;Ø22;Knel
+4;4e etage;Pantry;Boiler inlaatcombinatie;EA;;In keukenkast;JA;Ø15;Knel
+5;4e etage;Pantry;Waterkoeler;EA;;Achter waterkoeler;JA;1/2;wmk
+6;4e etage;Pantry;Koffieapparaat;EA;;Achter koffieapparaat;JA;1/2;wmk
+7;4e etage;Pantry;Toevoer koudwater;EA;;Achter koelkast;JA;Ø15;Knel
+8;4e etage;Kantoor naast EHBO kast;brandslanghaspel;EA;;Kast achter brandslanghaspel;JA;Ø28;Knel
+9;4e etage;Pantry;Boiler inlaatcombinatie;EA;;In keukenkast;JA;Ø15;Knel
+10;4e etage;Pantry;Toevoerleiding koffieapparaat;EA;;Achter koffieapparaat;JA;Ø15;Knel
+0;4e etage;Pantry;Koffie Automaat;EA;;;JA;3/4;Knel
+11b;4e etage;Kantoor nabij trap;BSH combileiding;;;;JA;;
+12;3e etage;Kantoor uit lift rechts;BSH nabij invalidetoilet;;;;;28;Knijp
+13;3e etage;Pantry uit lift rechts;Toevoerleiding koffieapparaat;EA;;Achter koelkast;JA;Ø15;Knel
+14;3e etage;Pantry uit lift rechts;Boiler inlaatcombinatie;EA;;In keukenkast;JA;Ø15;Knel
+1;3e etage;Pantry rechts;Koffieapparaat;EA;;Achter apparaat;JA;3/4;Schroef
+14b;3e etage;Pantry rechts;Waterapparaat;EA;;Achter apparaat;JA;3/4;Schroef
+15;3e etage;Kantoor nabij trap;brandslanghaspel;EA;;Kast achter brandslanghaspel;JA;Ø28;Knel
+16;3e etage;Pantry;Toevoerleiding koffieapparaat;EA;;Achter koffieapparaat;JA;Ø15;Knel
+1;3e etage;Pantry;Koffieapparaat;EA;;Achter koffieapparaat;JA;3/4;Schroef
+17;3e etage;Pantry;Boiler inlaatcombinatie;EA;;In keukenkast;JA;;
+18;3e etage;Kantoor;brandslanghaspel;;;Strang;JA;;
+19;3e etage;Kantoor uit lift links;brandslanghaspel;;;;JA;;
+20;3e etage;Kantoor nabij trap;brandslanghaspel;;;;JA;;
+21;3e etage;Schoonmaakhok nabij toilet;Boiler inlaatcombinatie;EA;;In kast;JA;;
+22;3e etage;Kantoor bij lift;brandslanghaspel;;;;JA;;
+23;3e etage;Pantry;Vaatwasser;;;;JA;;
+24;3e etage;Pantry;Boiler;;;;JA;;
+25;3e etage;Pantry;Toevoerleiding kw;EA;;Achter apparaat;JA;Ø15;Knel
+25a;3e etage;Pantry;Koffieapparaat;ea;;;JA;3/4;Schroef
+25b;3e etage;Pantry;Koffieapparaat;EA;;;JA;3/4;Schroef
+26;3e etage;Kantoor bij trap;brandslanghaspel;;;;JA;;
+27;3e etage;Kantoor bij trap;brandslanghaspel;;;;JA;;
+28;2e etage;Knatoor uit lift rechts;brandslanghaspel;EA;;In haspelkast;JA;;
+29;2e etage;Pantry;Boiler inlaatcombinatie;EA;;In keukenkast;JA;Ø15;Knel
+30;2e etage;Pantry;Toevoerleiding;EA;;Achter koelkast;JA;Ø15;Knel
+30a;2e etage;Pantry;Koffieapparaat;EA;;Achter apparaat;JA;3/4;Schroef
+30b;2e etage;Pantry;Waterapparaat;EA;;Achter apparaat;JA;3/4;Schroef
+31;2e etage;Kantoor bij trap;brandslanghaspel;EA;;Kast achter brandslanghaspel;JA;Ø28;Knel
+32;2e etage;Pantry;Toevoer koudwater apparaten;EA;;Achter koffieapparaat;JA;Ø15;Knel
+32a;2e etage;Pantry;Koffieapparaat;EA;;Achter koffieapparaat;JA;3/4;Schroef
+33;2e etage;Pantry;Boiler inlaatcombinatie;EA;;In keukenkast;JA;Ø15;Knel
+34;2e etage;Kantoor bij trap;BSH strang met 18;;;;;;
+35;2e etage;Kantoor uit lift links;Waterkoeler;WF-EA;;;JA;3/4;Schroef
+36;3e etage;Kantoor uit lift links;Waterkoeler;WF-EA;;;JA;3/4;Schroef
+37;2e etage;Poetshok bij toilet;Boiler inlaatcombinatie;EA;;;JA;Ø15;Knel
+38;2e etage;Pantry;Vaatwasser;DA-EB;;;JA;1/2;wmk
+39;2e etage;Pantry;Boiler inlaatcombinatie;EA;;;JA;Ø15;Knel
+40;2e etage;Pantry;Toevoer koffieapparaat;EA;;;JA;Ø15;Knel
+40a;2e etage;Pantry;Koffieapparaat;EA;;;JA;3/4;Schroef
+40b;2e etage;Pantry;Koffieapparaat;EA;;;JA;3/4;Schroef
+41;2e etage;Kantoor uit lift links;brandslanghaspel;;;;JA;;
+42;2e etage;Kantoor bij trap;brandslanghaspel;;;;JA;;
+43;2e etage;Kantoor bij lift;brandslanghaspel;;;;JA;;
+44;2e etage;Kantoor bij trap;brandslanghaspel;;;;NEE;;
+45;2e etage;Kantoor bij trap;brandslanghaspel;;;;JA;;
+46;4e etage;Pantry uit lift rechts;Vaatwasser;EA;;Onder vaatwasser;JA;Ø15;Knel
+47;3e etage;Pantry uit lift rechts;Vaatwasser;EA;;Onder vaatwasser;JA;Ø15;Knel
+48;2e etage;Pantry uit lift rechts;Vaatwasser;EA;;Onder vaatwasser;JA;Ø15;Knel
+49;1e etage;Kantoor uit lift rechts;brandslanghaspel;EA;;In haspelkast;JA;Ø22;Knel
+50;1e etage;Pantry;Toevoer koffieapparaat;EA;;Achter koelkast;JA;Ø15;Knel
+50a;1e etage;Pantry;Koffieapparaat;EA;;Achter koffieapparaat;JA;3/4;Schroef
+50b;1e etage;Pantry;Waterapparaat;EA;;Achter koffieapparaat;JA;3/4;Schroef
+51;1e etage;Pantry;Boiler inlaatcombinatie;EA;;In keuken kast;;Ø15;Knel
+52;1e etage;Pantry;Vaatwasser;EA;;Onder vaatwasser;JA;Ø15;Knel
+53;1e etage;Kantoor;BSH strang met 34;;;;JA;;
+54;1e etage;Kantoor;brandslanghaspel;;;;JA;;
+55;1e etage;Pantry;Toevoerleiding koffieapparaat;EA;;Achter apparaat;JA;Ø15;Knel
+55a;1e etage;Pantry;Koffieapparaat;EA;;Achter apparaat;JA;3/4;Schroef
+56;1e etage;Pantry;Boiler inlaatcombinatie;EA;;In keuken kast;JA;Ø15;Knel
+57;1e etage;Kantoor uit lift links;brandslanghaspel;;;;JA;;
+58;1e etage;Kantoor;brandslanghaspel;;;;JA;;
+59;1e etage;Poetshok bij toilet;Boiler inlaatcombinatie;EA;;;JA;Ø15;Knel
+60;1e etage;Pantry;Boiler inlaatcombinatie;EA;;In kast;JA;Ø15;Knel
+61;1e etage;Reprografie;Boiler inlaatcombinatie;EA;;Onder wastafel;JA;Ø15;Knel
+62;1e etage;Nabij reprografie;brandslanghaspel;;;;NEE;;
+63;1e etage;Automatisering;Boiler inlaatcombinatie;EA;;In keuken kast;JA;Ø15;Knel
+64;1e etage;Pantry nabij automatisering;Toevoerleiding koffieapparaat;EA;;Achter apparaat;JA;Ø15;Knel
+64a;1e etage;Pantry nabij automatisering;Koffieapparaat;EA;;Achter apparaat;JA;3/4;Schroef
+64b;1e etage;Pantry nabij automatisering;Waterapparaat;EA;;Achter apparaat;JA;3/4;Schroef
+65;1e etage;Pantry nabij automatisering;Boiler inlaatcombinatie;EA;;In kast;JA;Ø15;Knel
+66;1e etage;Hal bij lift;brandslanghaspel;;;;JA;;
+67;1e etage;Pantry;Toevoer koffieapparaat;EA;;Achter apparaat;JA;Ø15;Knel
+67a;1e etage;Pantry;Koffieapparaat;EA;;Achter apparaat;JA;3/4;Schroef
+67b;1e etage;Pantry;Waterapparaat;EA;;Achter apparaat;JA;3/4;Schroef
+68;1e etage;Pantry;Boiler inlaatcombinatie;EA;;In kast;JA;Ø15;Knel
+69;1e etage;Kantoor;brandslanghaspel;;;;JA;;
+70;BG;Bij lift naast automatische deur;brandslanghaspel;;;;JA;;
+71;BG;Washok aan de voorzijde;WM;DA-EB;;;JA;1/2;wmk
+72;BG;Washok aan de voorzijde;Boiler inlaatcombinatie;EA;;;JA;Ø15;Knel
+73;BG;Ontmoeten restaurant;Koffieapparaat;EA;;Achter apparaat;JA;3/4;Schroef
+74;BG;Ontmoeten restaurant;Waterkoeler;EA;;Achter apparaat;JA;3/4;Schroef
+75;BG;Spoelkeuken;Wasbakje koud;EA;;;JA;1/2;Schroef
+76;BG;Spoelkeuken;Wasbakje warm;EA;;;JA;1/2;Schroef
+77;BG;Spoelkeuken;Kraan met sproeier koudwater;EA;;;JA;1/2;Schroef
+78;BG;Spoelkeuken;Kraan met sproeier warmwater;EA;;;JA;1/2;Schroef
+79;BG;Spoelkeuken;Waterontharder;CA;;;JA;1/2;Schroef
+80;BG;Keuken;Steamer;DA-EB;;Kast onder fornuis;JA;3/4;Schroef
+81;BG;Keuken;Steamer;DA-EB;;Kast onder fornuis;JA;3/4;Schroef
+82;BG;Keuken;Aubainmarie;DA-EB;;Onder kast;JA;1/2;wmk
+83;BG;Keuken;Cooker inlaatcombinatie;EA;;Onder kast;JA;Ø15;Knel
+84;BG;Keuken;Cooker inlaatcombinatie;EA;;Onder kast;JA;Ø15;Knel
+85;BG;Keuken;Wasbakje koudwater;EA;;;JA;1/2;Schroef
+86;BG;Keuken;Wasbakje warmwater;EA;;;JA;1/2;Schroef
+87;BG;Keuken;Kraan met sproeier koudwater;EA;;In kast;JA;Ø15;Knel
+88;BG;Keuken;Kraan met sproeier warmwater;EA;;In kast;JA;Ø15;Knel
+89;BG;Keuken;Spoelkraan koudwater;EA;;In kast;JA;Ø15;Knel
+90;BG;Keuken;Spoelkraan warmwater;EA;;In kast;JA;Ø15;Knel
+91;BG;Keuken;Wasbakje koudwaer;EA;;;JA;1/2;Schroef
+92;BG;Keuken;Wasbakje warmwater;EA;;;JA;1/2;Schroef
+93;BG;Restaurant;brandslanghaspel;;;Plafond keuken;JA;;
+94;BG;Keuken;Waterontharder voor koffiezetter;EA;CA;;JA;3/4;Schroef
+95;BG;Leiding schagtkeuken;Boiler inlaatcombinatie;EA;;Boven boiler aan plafond;JA;Ø15;Knel
+96;BG;Gang naar grote zaal ;brandslanghaspel;;;;JA;;
+97;BG;Gang na grote zaal;brandslanghaspel;;;;JA;;
+98;BG;Pantry gang;Toevoerleiding apparaten;EA;;Onder wasbak;JA;Ø15;Knel
+99;BG;Pantry gang ;Boiler inlaatcombinatie;EA;;Onder wasbak;JA mgutte@hotmail.nl;Ø15;Knel
+99a;BG;Pantry gang;Koffieapparaat;EA;;Achter koffieapparaat;JA;3/4;Schroef
+99b;BG;Pantry gang;Waterapparaat;EA;;Achter apparaat;JA;3/4;Schroef
+100;BG;Hal entree voorkant;brandslanghaspel;;;;JA;;
+101;BG;Hal bij werkplein maasland;brandslanghaspel;EA;;In haspelkast;JA;Ø28;CAP
+102;BG;Werkplein maasland;brandslanghaspel;EA;;In haspelkast;JA;Ø28;CAP
+103;BG;Koffiehoek;Koffieapparaat;DA-EB;;;JA;1/2;wmk
+104;BG;Werkplein maasland;brandslanghaspel;;;;JA;;
+105;BG;Gardarobe werkplein maasland;Boiler inlaatcombinatie;EA;;;JA;Ø15;Knel
+106;BG;Pantry bij lift;Boiler inlaatcombinatie;EA;;;JA;Ø15;Knel
+107;BG;Pantry bij lift;Koffieapparaat;EA;;;JA;3/4;Schroef
+108;BG;Pantry bij lift;Waterkoeler;EA;;;JA;3/4;Schroef
+109;BG;Pantry bij lift;;EA;;;JA;3/4;Schroef
+110;BG;Hal bij balie 17;Brandslanghaspel ;;;;JA;;
+111;BG;Achter in hoek balie 1;Boiler inlaatcombinatie;EA;;;JA;Ø15;Knel
+112;BG;Achter in hoek balie 1;Toevoer apparaten;EA;;;JA;Ø15;Knel
+112a;BG;Achter in hoek balie 1;Koffieapparaat;EA;;;JA;3/4;Schroef
+112b;BG;Achter in hoek balie 1;Waterapparaat;EA;;;JA;3/4;Schroef
+113;BG;Wachtruimte;Koffieapparaat;EA;;;JA;3/4;wmk
+114;BG;Wachtruimte;Brandslanghaspel ;;;;JA;;
+115;-1;Kelder bij droge blusleiding;Boiler inlaatcombinatie;EA;;;JA;Ø15;Knel
+116;-1;Kelder groot magazijn;Boiler inlaatcombinatie;EA;;;JA;Ø15;Knel
+117;-1;Kelder bij lift;Brandslanghaspel ;;;;JA;;
+118;-1;Kelder bij draaitrap;Brandslanghaspel ;;;;JA;;
+119;-1;Kelder bij fietsstalling;Brandslanghaspel ;;;;JA;;
+120;4e etage;Ketelhuis;Vulkraan;CA;;;JA;Ø22;Knel
+121;4e etage;Ketelhuis bij stoomketel;Vulkraan;CA;;;JA;Ø22;Knel
+122;4e etage;Ketelhuis bij stoomketel;Waterontharder;CA;;;JA;Ø22;Knel
+123;4e etage;Hal bij ingang ketelhuis;Brandslanghaspel ;;;;JA;;
+124;1e etage;Bovenraad zaal;Brandslanghaspel ;;;;JA;;
+125;-1;Kelder midden archief;Brandslanghaspel ;;;;NEE;;
+Opmerkingen:;;;;;;;;;
+;;;;;;;;;

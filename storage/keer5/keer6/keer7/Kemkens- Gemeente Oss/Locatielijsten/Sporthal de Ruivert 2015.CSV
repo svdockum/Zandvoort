@@ -1,0 +1,45 @@
+﻿;;;Onderhoudsrapport;;;;;;
+;;;;;;;;;
+;;;BCO Brandpreventie;;;;;;
+;;;Galliershof 22;;;;;;
+;;;5349 BV Oss;;;;;;
+;;;;;;;;;
+Klant: Gemeente Oss;;;Naam monteur: Marty Gutte;;;;;;
+Locatie: Sporthal de Ruivert;;;Datum: November, 2015;;;;;;
+Adres: De Ruivert 3, Oss;;;Complexnr: ;;;;;;
+;;;;;;;;;
+Locatiegegevens;;;;Beveiliging;;Resultaat;;Montagegevens;
+Nr.;Etage;Ruimte;Toestel;Huidige beveiliging;Vereiste beveiliging;Plaats beveiliging;Drukvast;Diameter;Soort fitting (CAP/KNEL/SCHROEF)
+1;BG;Hal;BSH;EA;;;JA;Ø22;knel
+2;BG;kleedkamer scheidsrechter;kw kraan;EA;;;JA;3/4;schroef
+3;BG;keedkamer 1;mengventiel kw;EA;;;JA;Ø22;knel
+4;BG;keedkamer 1;menventiel ww;EA;;;JA;Ø22;knel
+5;BG;keedkamer 1;kw kraan;EA;;;JA;1/2;schroef
+6;BG;keedkamer 1;kw kraan;EA;;;JA;3/4;schroef
+7;BG;kleedkamer 2;mengventiel kw;EA;;;JA;Ø22;knel
+8;BG;kleedkamer 2;mengventiel ww;EA;;;JA;Ø22;knel
+9;BG;kleedkamer 2;kw kraan;EA;;;JA;1/2;schroef
+10;BG;kleedkamer 3;mengventiel kw;EA;;;JA;Ø22;knel
+11;BG;kleedkamer 3;mengventiel ww;EA;;;JA;Ø22;knel
+12;BG;kleedkamer 3;kw kraan;EA;;;JA;3/4;schroef
+13;BG;kleedkamer 4;mengventiel kw;EA;;;JA;Ø22;knel
+14;BG;kleedkamer 4;mengventiel ww;EA;;;JA;Ø22;knel
+15;BG;kleedkamer 4;kw kraan;EA;;;JA;3/4;schroef
+16;BG;kleedkamer 5;mengventiel kw;EA;;;JA;Ø22;knel
+17;BG;kleedkamer 5;mengventiel ww;EA;;;JA;Ø22;knel
+18;BG;kleedkamer 5;kw kraan;EA;;;JA;3/4;schroef
+19;BG;kleedkamer 5a;mengventiel kw;;;;JA;Ø22;knel
+20;BG;kleedkamer 5a;mengventiel ww;;;;JA;Ø22;knel
+21;BG;kleedkamer 5a;kw kraan;;;;JA;3/4;schroef
+22;BG;kleedkamer 5b;mengventiel kw;;;;JA;Ø22;knel
+23;BG;kleedkamer 5b;mengventiel ww;;;;JA;Ø22;knel
+24;BG;kleedkamer 5b;kw kraan;;;;JA;3/4;schroef
+25;BG;kleedkamer 5c;mengventiel kw;;;;JA;Ø22;knel
+26;BG;kleedkamer 5c;mengventiel ww;;;;JA;Ø22;knel
+27;BG;kleedkamer 5c;kw kraan;;;;JA;3/4;schroef
+28;BG;gang achter;BSH;EA;;;JA;Ø22;knel
+29;BG;cv ruimte;vulkraan;CA;;;JA;Ø15;knel
+30;BG;cv ruimte;inlaatcombinatie;;;;JA;Ø22;knel
+31;BG;cv ruimte;circulatieleiding;EA;;;JA;15;knel
+32;BG;cv ruimte;toevoer koud water;EA;;;JA;DN32;
+33;BG;gang bij gymzaal;BSH;;;;JA;;

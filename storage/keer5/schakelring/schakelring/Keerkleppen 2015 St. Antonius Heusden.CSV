@@ -1,0 +1,37 @@
+﻿;;;Onderhoudsrapport;;;;;;
+;;;;;;;;;
+;;;BCO Brandpreventie;;;;;;
+;;;Galliershof 22;;;;;;
+;;;5349 BV Oss;;;;;;
+;;;;;;;;;
+Klant: Schakelring;;;Naam monteur: Marty Gutte;;;;;;
+Locatie: Schakelring locatie St. Antonius;;;Datum: 16-09-2015;;;;;;
+Adres: Heusden;;;;;;;;;
+;;;;;;;;;
+Locatiegegevens;;;;Beveiliging;;Resultaat;;Montagegevens;
+Nr.;Etage;Ruimte;Toestel;Huidige beveiliging;Vereiste beveiliging;Plaats beveiliging;Drukvast;Diameter;Soort fitting (CAP/KNEL/SCHROEF)
+1;B.G.;Recreatiezaal;Waterkoeler;EA;;In kast keuken;JA;3/4;Schroef
+2;B.G.;Recreatiezaal;Koffiezetautomaat;EA;;Onder koffiezetautomaat;JA;3/4;Schroef
+3;B.G.;Gang keuken;B.S.H.;EA;;In plafond eetzaal;JA;22;Knel
+4;B.G.;Personeelsruimte buiten;Buitenkraan;EA;;In plafond winkel;JA;28;Knel
+5;B.G.;Afwaskeuken;Knijp-spoelkraan kw;EA;;Onder kraan;JA;15;Knel
+6;B.G.;Afwaskeuken;Knijp-spoelkraan ww;EA;;Onder kraan;JA;15;Knel
+6a;BG;Afwaskeuken;ontharder;CA;;achter ontharder;NEE;15;schroef
+7;B.G.;Spoelruimte P.G.;Bedpanspoeler kw;EA;;Onder wasbak;JA;15;Knel
+7a;BG;Spoelruimte P.G.;Bedpanspoeler ww;EA;;onder wasbak;JA;15;Knel
+8;2e verd.;Gang naast lift;B.S.H.;EA;;Onder B.S.H.;JA;22;Knel
+9;1e verd.;Gang naast lift;B.S.H.;EA;;Onder B.S.H.;JA;22;Knel
+11;3e verd.;TR ruimte ;boiler toevoer kw;EA;;;JA;22;Knel
+11a;3e verd.;TR ruimte ;boiler toevoer ww;EA;;;JA;22;Knel
+12;1e verd.;Kapsalon;Knijpdouche kw;EA;;Onder wasbak;JA;15;Knel
+13;1e verd.;Kapsalon;Knijpdouche ww;EA;;Onder wasbak;JA;15;Knel
+14;3e verd.;Technische ruimte ;Boiler;EA;;Boven boiler links;JA;28;Knel
+15;B.G.;Huiskamer 2 meerzorg;Buitenkraan;EA;;In kast keuken;JA;15;Knel
+16;1e verd.;Spoelruimte;Wasmachine;EB;;Naast wasmachine;JA;1/2;Schroef
+18;B.G.;gang ingang rechts;BSH;EA;;onder BSH;JA;22;cap
+19;BG;gangdeur 87a;toevoer kw;EA;;meterkast;JA;35;cap
+20;BG;gangdeur 87a;toevoer ww;EA;;meterkast;JA;28;cap
+;;;;;;;;;
+;;Opmerkingen :;;;;;;;
+;kk 14 lekt aflsuiter, moet vervangen worden blijft druppen;;;;;;;;
+;vulkraan tech ruimte is CA maar zit verkeerd, moet horizontaal zitten. Blijft druppelen, niet getest.;;;;;;;;

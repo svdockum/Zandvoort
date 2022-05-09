@@ -1,0 +1,26 @@
+﻿;;;Onderhoudsrapport;;;;;;
+;;;;;;;;;
+;;;BCO Brandpreventie;;;;;;
+;;;Galliershof 22;;;;;;
+;;;5349 BV Oss;;;;;;
+;;;;;;;;;
+Klant: Kemkens;;;Naam monteur: Marty Gutte;;;;;;
+Locatie: BHIC;;;Datum: sept. 2015;;;;;;
+Adres: Grave;;;Complexnr:;;;;;;
+;;;;;;;;;
+Locatiegegevens;;;;Beveiliging;;Resultaat;;Montagegevens;
+Nr.;Etage;Ruimte;Toestel;Huidige beveiliging;Vereiste beveiliging;Plaats beveiliging;Drukvast;Diameter;Soort fitting (CAP/KNEL/SCHROEF)
+1;BG;gang;BSH;-;EA;;JA;22;
+2;BG;gang;BSH;-;EA;;JA;22;
+3;-1;Technische ruimte 1.180;Vulkraan;CA;CA;;JA;1/2;
+4;-1;Technische ruimte 1.180;Stoombevochtiger;EA;EA;;JA;15;
+5;-1;Technische ruimte 1.181;Stoombevochtiger;EA;EA;;JA;15;
+6;-1;Hal;BSH;-;EA;;JA;22;
+7;BG;Entree bhic;Strang stadhuis;EA;EA;;JA;;
+8;BG;Entree bhic;Strang maasland;EA;EA;;JA;;
+9;BG;    Entree bhic;   Strang bhic;EA;EA;;JA;;
+10;BG;    Kantine bhic;   Koffieautomaat;EA;EA;;JA;3/4;
+11;BG;   Kantine bhic;   Waterkoeler;EA;EA;;JA;3/4;
+12;BG;   Kantine bhic;   Vaatwasser;EA;EA;;JA;;
+13;BG;Kantine bhic;  Boiler;INLC;INLC;;JA;;
+14;BG;hal BHIC;BSH;;;;JA;;

@@ -1,0 +1,59 @@
+﻿;;;Onderhoudsrapport;;;;;;
+;;;;;;;;;
+;;;BCO Brandpreventie;;;;;;
+;;;Galliershof 22;;;;;;
+;;;5349 BV Oss;;;;;;
+;;;;;;;;;
+Klant: Kemkens - Schakelring;;;Naam monteur: M. Gutte;;;;;;
+Locatie: Eikendonk;;;Datum: 15-09-2015;;;;;;
+Adres: Waalwijk;;;;;;;;;
+;;;;;;;;;
+Locatiegegevens;;;;Beveiliging;;Resultaat;;Montagegevens;
+Nr.;Etage;Ruimte;Toestel;Huidige beveiliging;Vereiste beveiliging;Plaats beveiliging;Drukvast;Diameter;Soort fitting (CAP/KNEL/SCHROEF)
+1;BG;ketelhuis;ww circulatie;EA;;;JA;28;schroef
+2;BG;ketelhuis;ww circulatie;EA;;;JA;15;knel
+3;BG;ketelhuis;ww circulatie;EA;;;JA;28;schroef
+4;BG;ketelhuis;ww circulatie boiler;EA;;;JA;15;knel
+5;BG;ketelhuis;aanvoer ww boiler;EA;;;JA;DN40;schroef
+6;BG;ketelhuis;aanvoer ww boiler;EA;;;JA;DN35;schroef
+7;BG;ketelhuis;kw voeding hydrofoor;EA;;;JA;DN40;schroef
+8;BG;ketelhuis;vulkraan;CA;;;JA;;
+9;BG;ketelhuis;vulsysteem;BA;;;JA;;
+11;BG;fysio;buitenkraan;;;;NEE;;
+12;BG;gang bij familiekamer;BSH;EA;;in kruipruimte;JA;;
+13;BG;gang bij 173 basillicumhof;BSH;;;in kruipruimte;JA;;
+14;BG;keuken basilicumhof;koffieautomaat;EA;;naast koffieautomaat;JA;;
+15;BG;gang bij 122 basilicumhof;BSH;;;;JA;;
+15a;BG;douche;buitenkraan;EA;;douche nr 16;JA;ø15;knel
+16;BG;ruimte 136;boiler voeding kw;EA;;;JA;42;cap
+17;BG;ruimte 136;ww circulatie;EA;;;JA;22;knel
+18;BG;gang bij 185 basilicumhof;BSH;;;;JA;;
+19;BG;kapsalon;TH kraan kw;EA;;onder TH kraan;JA;15;knel
+19a;bg;kapsalon;TH kraan ww;EA;;onder TH kraan;JA;15;knel
+20;BG;kapsalon;tapkraan toevoer;EA;;onder tafeltje;JA;15;knel
+21;BG;buiten onder raam kapsalon;buitenkraan;;;Opmerking: buitenkraan lekt, testen niet mogelijk;onbekend;;
+22;BG;restaurant;koffieautomaat;CA;;in kast;JA;1/2;schroef
+23;BG;restaurant;watercooler;EA;;;JA;3/4;schroef
+24;BG;restaurant;koffie apparaat;EA;;;JA;3/4;schroef
+25;BG;ruimte 684;aansluiting ijsmachine;DA-EB;;;JA;1/2;schroef
+26;BG;spoelkeuken;knijpkraan kw;EA;;;JA;15;knel
+27;BG;spoelkeuken;knijpkraan ww;EA;;;JA;15;knel
+28;BG;spoelkeuken;knijpdouche haspel kw;EA;;Opmerking: voor kk 28 en 29 zit geen afsluiter. Vervangen voor een afsluitbare keerklep.;onbekend;15;knel
+29;BG;spoelkeuken;knijpdouche haspel ww;EA;;;onbekend;15;knel
+30;BG;keuken;koffie apparaat;EA;;;JA;3/4;schroef
+31;BG;spoelkeuken in opslag 18;ontharder;BA;;;JA;;
+32;BG;naast 672;haspel kw;EA;;;JA;15;knel
+33;BG;naast 672;haspel ww;;;;JA;15;knel
+34;BG;achter ingang spoelkeuken;BSH;;;;JA;;
+35;BG;BSH;;;;Opmerking: testen onmogelijk, toevoer kapot;onbekend;;
+36;BG;gang nabij 688;BSH;;;;JA;;
+37;BG;gang bij centrum 381;BSH;;;;JA;;
+38;BG;washok bij spoelkeuken;wasmachine ww;;EA;;JA;;
+39;BG;washok bij spoelkeuken;wasmachine kw;;;;JA;;
+40;BG;washok bij spoelkeuken;wasmachine ww;;;;JA;;
+41;BG;washok bij spoelkeuken;wasmachine kw;;;;JA;;
+42;BG;hoofdingang;BSH;;;;JA;;
+43;BG;gang naar basillicum;BSH;;;;JA;;
+;;;;;;;;;
+;keuken basillicum zit industrieele vaatwasser met een CA maar is niet controleerbaar, mist aflsuiter.;;;;;;;;
+;;;;;;;;;

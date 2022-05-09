@@ -1,0 +1,31 @@
+﻿;;;Onderhoudsrapport;;;;;;
+;;;;;;;;;
+;;;BCO Brandpreventie;;;;;;
+;;;Galliershof 22;;;;;;
+;;;5349 BV Oss;;;;;;
+;;;;;;;;;
+Klant: Kemkens;;;Naam monteur: Marty Gutte;;;;;;
+Locatie: Ark 9 soosgebouw;;;Datum: Oktober, 2015;;;;;;
+Adres: Veldhoven;;;;;;;;;
+;;;;;;;;;
+Locatiegegevens;;;;Beveiliging;;Resultaat;;Montagegevens;
+Nr.;Etage;Ruimte;Toestel;Huidige beveiliging;Vereiste beveiliging;Plaats beveiliging;Drukvast;Diameter;Soort fitting (CAP/KNEL/SCHROEF)
+1;1e;cv ruimte;vulkraan;CA;;;JA;1/2;schroef
+2;1e;cv ruimte;inlaat combi;EA;;;JA;22;cap
+3;1e;cv ruimte;circulatieleiding;EA;;;JA;15;knel
+4;bg;keuken;spoelkraan kw;EA;;;JA;15;knel
+5;bg;keuken;spoelkraan ww;EA;;;JA;15;knel
+6;bg;keuken;vaatwasser;CA;;;JA;1/2;schroef
+7;bg;bar;koffieapparaat;EA;;;JA;3/4;schroef
+8;bg;hal;BSH;EA;;in plafon;JA;28;cap
+9;bg;hal achter;BSH;EA;;in BSH kast;JA;22;knel
+10;bg;hal achter;buitenkraan;EA;;in meterput;JA;15;knel
+11;bg;hal achter;kw toevoer;EA;;in meterput;JA;28;knel
+12;bg;gang begeleiding;BSH;;;;JA;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+Keerklep:;;Opmerking;;;;;;;
+7;;K.K geplaatst;;;;;;;

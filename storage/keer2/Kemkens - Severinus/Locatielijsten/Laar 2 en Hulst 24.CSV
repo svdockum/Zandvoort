@@ -1,0 +1,31 @@
+﻿;;;Onderhoudsrapport;;;;;;
+;;;;;;;;;
+;;;BCO Brandpreventie;;;;;;
+;;;Galliershof 22;;;;;;
+;;;5349 BV Oss;;;;;;
+;;;;;;;;;
+Klant: Kemkens;;;Naam monteur: Marty Gutte;;;;;;
+Locatie: Laar 2 en Hulst 24;;;Datum: Oktober, 2015;;;;;;
+Adres: Veldhoven;;;;;;;;;
+;;;;;;;;;
+Locatiegegevens;;;;Beveiliging;;Resultaat;;Montagegevens;
+Nr.;Etage;Ruimte;Toestel;Huidige beveiliging;Vereiste beveiliging;Plaats beveiliging;Drukvast;Diameter;Soort fitting (CAP/KNEL/SCHROEF)
+1;1e;cv ruimte;vulkraan;CA;;;JA;1/2;schroef
+2;1e;cv ruimte;inlaatcombinatie;EA;;;JA;22;cap
+3;1e;cv ruimte;circulatieleiding;EA;;;JA;22;knel
+4;bg;laar 2 keuken;vaatwasser;EA;;;JA;1/2;schroef
+5;bg;hulst 24 keuken;vaatwasser;EA;;;JA;1/2;schroef
+6;bg;wasruimte;wm;EA;;;JA;1/2;schroef
+7;bg;laar 2 voor;buitenkraan;;;;JA;;
+8;bg;laar 2 achter;buitenkraan;;;;JA;;
+9;bg;hulst 24 voor;buitenkraan;;;;JA;;
+10;bg;hulst 24 achter;buitenkraan;;;;JA;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+Keerklep:;;Opmerking;;;;;;;
+;;;;;;;;;

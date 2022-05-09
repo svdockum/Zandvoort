@@ -1,0 +1,27 @@
+﻿;;;Onderhoudsrapport;;;;;;
+;;;;;;;;;
+;;;BCO Brandpreventie;;;;;;
+;;;Galliershof 22;;;;;;
+;;;5349 BV Oss;;;;;;
+;;;;;;;;;
+Klant: Gemeente Uden;;;Naam monteur: J. Nederkoorn;;;;;;
+Locatie: Sporthal de Wervel;;;Datum: Oktober, 2015;;;;;;
+Adres: Schakelplein 9, Volkel;;;;;;;;;
+;;;;;;;;;
+Locatiegegevens;;;;Beveiliging;;Resultaat;;Montagegevens;
+Nr.;Etage;Ruimte;Toestel;Huidige beveiliging;Vereiste beveiliging;Plaats beveiliging;Drukvast;Diameter;Soort fitting (CAP/KNEL/SCHROEF)
+1;B.G.;Keuken horeca;Koffieautomaat;EA;;In voedingsleiding;JA;Ø15;Knel
+2;B.G.;Keuken horeca;Vaatwasser;CA;;In voedingsleiding;JA;Ø15;Knel
+3;1e verd.;Ketelruimte;Boiler;RAM EA;;In voedingsleiding;JA;Ø35;Pers
+4;1e verd.;Ketelruimte;Boiler;EA;;In circulatieleiding;NEE;Ø22;Cap
+5;1e verd.;Ketelruimte;CV vulkraan;CA;;In leiding;JA;Ø15;Knel
+6;B.G.;Hal;Watermeter;EA;;In meterput;JA;1 1/4;Schroef
+7;B.G.;Gang;B.S.H.;;;;JA;;
+8;BG;Gymzaal achter;B.S.H.;;;;JA;;
+9;B.G.;Materiaal gymzaal;B.S.H.;;;;JA;;
+10;B.G.;Gymzaal voor;B.S.H.;;;;JA;;
+;;;;;;;;;
+;;;;;;;;;
+Keerklep:;;Opmerking:;;;;;;;
+4;;Controleerbare keerklep plaatsen + afsluiters;;;;;;;
+;;;;;;;;;

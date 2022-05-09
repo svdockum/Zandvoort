@@ -1,0 +1,32 @@
+﻿;;;Onderhoudsrapport;;;;;;
+;;;;;;;;;
+;;;BCO Brandpreventie;;;;;;
+;;;Galliershof 22;;;;;;
+;;;5349 BV Oss;;;;;;
+;;;;;;;;;
+Klant: Gemeente Uden;;;Naam monteur: J. Nederkoorn;;;;;;
+Locatie: Sporthal de Stigt;;;Datum: Oktober, 2015;;;;;;
+Adres: Kapelstraat 100, Uden;;;;;;;;;
+;;;;;;;;;
+Locatiegegevens;;;;Beveiliging;;Resultaat;;Montagegevens;
+Nr.;Etage;Ruimte;Toestel;Huidige beveiliging;Vereiste beveiliging;Plaats beveiliging;Drukvast;Diameter;Soort fitting (CAP/KNEL/SCHROEF)
+1;B.G.;Hal;Watermeter;EA;;In meterput;JA;;
+2;B.G.;Bar horeca;Koffieautomaat;EA;;In kast;JA;Ø15;Cap
+3;B.G.;Keuken horeca;Vaatwasser;CA;;In keukenkast;JA;1/2;Schroef
+4;B.G.;Magazijn horeca;CV vulkraan;EA;;Onder boiler;JA;Ø15;Knel
+5;B.G.;Zaal horeca;B.S.H.;EA;;In schoonmaakhok;JA;Ø22;Knel
+6;B.G.;Gymzaal voor;B.S.H.;EA;;In plafond kleedruimte;JA;Ø28;Knel
+7;B.G.;Gymzaal midden;B.S.H.;EA;;In plafond kleedruimte;JA;Ø28;Knel
+8;B.G.;Gymzaal achter;B.S.H.;EA;;In plafond kleedruimte;JA;Ø28;Knel
+9;B.G.;Gang kleedruimtes;B.S.H.;EA;;In plafond kleedruimte;JA;Ø28;Knel
+10;B.G.;Gang kleedruimtes;B.S.H.;EA;;In plafond kleedruimte;JA;Ø28;Knel
+11;1e verd.;Ketelhuis;CV vulkraan;CA;;Naast boiler;NEE;1/2;Schroef
+12;1e verd.;Ketelhuis;Circulatie;EA;;Achter boiler;NEE;Ø22;Knel
+13;1e verd.;Ketelhuis;Circulatie;EA;;Achter boiler;JA;Ø28;Cap
+14;B.G.;Magazijn Horeca;Boiler;Inlaat C.;;Onder Boiler;JA;Ø15;Knel
+15;B.G.;Schoonmaak;Boiler;EA;;In Mengkraan;JA;;
+16;B.G.;Jurykamer;Tapkraan;EB;;Achter Kraan;JA;1/2'';Schroef
+17;1e verd.;Ketelhuis;Zonneboiler;EA;;Naast boiler;JA;Ø42;CAP
+Keerklep:;;Opmerking:;;;;;;;
+;;;;;;;;;
+;;;;;;;;;

@@ -1,0 +1,21 @@
+﻿;;;Onderhoudsrapport;;;;;;
+;;;;;;;;;
+;;;BCO Brandpreventie;;;;;;
+;;;Galliershof 22;;;;;;
+;;;5349 BV Oss;;;;;;
+;;;;;;;;;
+Klant: RIBW;;;Naam monteur: Marty Gutte;;;;;;
+Locatie: St. Annastraat 64 ;;;Datum: December, 2015;;;;;;
+Adres: St. Annastraat 64, Nijmegen;;;;;;;;;
+;;;;;;;;;
+Locatiegegevens;;;;Beveiliging;;Resultaat;;Montagegevens;
+Nr.;Etage;Ruimte;Toestel;Huidige beveiliging;Vereiste beveiliging;Plaats beveiliging;Drukvast;Diameter;Soort fitting (CAP/KNEL/SCHROEF)
+1;;kelder;klep voor 3 brandslanghaspels;EA;;;JA;28;cap
+2;;kelder;inlaatcombinatie;EA;;;JA;Ø22;knel
+3;;kelder;vulkraan;EB;;;JA;1/2;schroef
+4;;washok;wasmachine;;EA;;JA;3/4;schroef
+5;;washok;wasmachine;;EA;;JA;3/4;schroef
+6;;Kelder;buitenkraan;;EB;in kelder;JA;1/2;schroef
+7;;kelder;circulatie leiding;;EA;;JA;Ø22;knel
+8;;washok;wm rechts;;EA;;JA;3/4;schroef
+9;;washok;wm rechts;;EA;;JA;3/4;schroef

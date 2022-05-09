@@ -1,0 +1,30 @@
+﻿;;;Onderhoudsrapport;;;;;;
+;;;;;;;;;
+;;;BCO Brandpreventie;;;;;;
+;;;Galliershof 22;;;;;;
+;;;5349 BV Oss;;;;;;
+;;;;;;;;;
+Klant: Kemkens - Schakelring;;;Naam monteur: M. Gutte;;;;;;
+Locatie: Eikendonk Lavendelhof Paviljoen 5;;;Datum: 15-09-2015;;;;;;
+Adres: Waalwijk;;;;;;;;;
+;;;;;;;;;
+Locatiegegevens;;;;Beveiliging;;Resultaat;;Montagegevens;
+Nr.;Etage;Ruimte;Toestel;Huidige beveiliging;Vereiste beveiliging;Plaats beveiliging;Drukvast;Diameter;Soort fitting (CAP/KNEL/SCHROEF)
+1;BG;gang bij 803;BSH;;;;JA;;
+2;BG;gang bij 860;BSH;;;;JA;;
+3;BG;TD-ruimte 818;circulatieleiding;EA;;;;22;knel
+4;BG;TD 818;toevoer kw boiler;EA;;;JA;42;cap
+5;BG;gang bij 869;BSH;;;;JA;;
+6;BG;gang bij 876;BSH;;;;JA;;
+7;BG;pantry 890;koffieautomaat;EA;;boven BSH;JA;3/4;schroef
+8;BG;pantry 890;BSH;;;;JA;;
+9;BG;pantry 890;toevoer kw;EA;;in BSH kast van 890;JA;15;knel
+10;BG;binnentuin;buitenkraan;;;;JA;;
+11;BG;buiten bij 843;buitenkraan;;;;JA;;
+12;BG;buiten bij 831;buitenkraan;;;;JA;;
+13;BG;buiten bij 819;buitenkraan;;;;JA;;
+;;opmerkingen :;;;;;;;
+;kk 3, afsluiter boven pomp kapot, niet testbaar;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;

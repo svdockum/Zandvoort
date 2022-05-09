@@ -1,0 +1,33 @@
+﻿;;;Onderhoudsrapport;;;;;;
+;;;;;;;;;
+;;;BCO Brandpreventie;;;;;;
+;;;Galliershof 22;;;;;;
+;;;5349 BV Oss;;;;;;
+;;;;;;;;;
+Klant: Gemeente Oss;;;Naam monteur: Marty Gutte;;;;;;
+Locatie: Horizonschool Poolster;;;Datum: Week 37 2014;;;;;;
+Adres: Staringstraat 6-10, Oss;;;;;;;;;
+;;;;;;;;;
+Locatiegegevens;;;;Beveiliging;;Resultaat;;Montagegevens;
+Nr.;Etage;Ruimte;Toestel;Huidige beveiliging;Vereiste beveiliging;Plaats beveiliging;Drukvast;Diameter;Soort fitting (CAP/KNEL/SCHROEF)
+1;BG;hal;meterput;EA;;;JA;Ø35;
+2;BG;cv ruimte hal;vulkraan;CA;;;JA;Ø15;knel
+3;BG;cv ruimte naast hoofdingang;vulkraan;CA;;;JA;Ø15;knel
+4;BG;sterrenkind 2;boiler;EA;;;JA;;inlaatcombinatie
+5;BG;gang bij deur 0.39;BSH;;;;JA;;
+7;BG;miva;boiler;;;;JA;Ø15;inlaatcombinatie
+8;;pantry bij directie;boiler;;;;JA;Ø15;inlaatcombinatie
+9;BG;pantry bij directie;VW;EA;;;JA;3/4;schroef
+10;BG;pantry bij directie;BSH;;;;NEE;;
+11;BG;einde gang;BSH;;;;NEE;;
+12;1;gang ;BSH;;;;NEE;;
+13;BG;gang bij 0.65;BSH;;;;JA;;
+14;BG;buiten om hoek bij ingang;vulkraan cv ruimte;CA;;;JA;1/2;schroef
+15;BG;hal bij ingang;watermeter;EA;;;JA;Ø28;
+16;BG;BSO 0.43;boiler;;;;JA;;inlaatcombinatie
+17;;BSO 0.43;VW;EA;;;JA;3/4;schroef
+18;BG;gang nabij trap;BSH;;;;JA;;
+19;1;pantry  ;VW;;;;JA;1/2;schroef
+20;1;pantry;boiler;;;;JA;;
+21;1;gang;BSH;;;;JA;;
+22;1;gang;WMH;;;;JA;1/2;schroef

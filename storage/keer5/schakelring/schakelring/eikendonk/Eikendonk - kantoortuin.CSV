@@ -1,0 +1,19 @@
+﻿;;;Onderhoudsrapport;;;;;;
+;;;;;;;;;
+;;;BCO Brandpreventie;;;;;;
+;;;Galliershof 22;;;;;;
+;;;5349 BV Oss;;;;;;
+;;;;;;;;;
+Klant: Kemkens - Schakelring;;;Naam monteur: M. Gutte;;;;;;
+Locatie: Eikendonk Kantoortuin;;;Datum: 15-09-2015;;;;;;
+Adres: Waalwijk;;;;;;;;;
+;;;;;;;;;
+Locatiegegevens;;;;Beveiliging;;Resultaat;;Montagegevens;
+Nr.;Etage;Ruimte;Toestel;Huidige beveiliging;Vereiste beveiliging;Plaats beveiliging;Drukvast;Diameter;Soort fitting (CAP/KNEL/SCHROEF)
+1;BG;keuken;koffieautomaat;EA;;in keukenkast;JA;3/4;schroef
+2;BG;keuken;BSH;;;;JA;;
+3;BG;technische ruimte;ww circulatie;EA;;;JA;22;knel
+4;BG;technische ruimte;kw;EA;;;JA;42;cap
+5;BG;technische ruimte;ww circulatie;EA;;;NEE;28;cap
+6;BG;gang bij postvakken;BSH;;;;JA;;
+7;BG;gang bij vergaderruimte;BSH;;;;JA;;

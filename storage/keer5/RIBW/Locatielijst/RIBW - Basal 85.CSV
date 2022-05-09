@@ -1,0 +1,20 @@
+﻿;;;Onderhoudsrapport;;;;;;
+;;;;;;;;;
+;;;BCO Brandpreventie;;;;;;
+;;;Galliershof 22;;;;;;
+;;;5349 BV Oss;;;;;;
+;;;;;;;;;
+Klant: RIBW;;;Naam monteur: Marty Gutte;;;;;;
+Locatie: Basal 85;;;Datum: December, 2015;;;;;;
+Adres: Basal 85, Malden;;;;;;;;;
+;;;;;;;;;
+Locatiegegevens;;;;Beveiliging;;Resultaat;;Montagegevens;
+Nr.;Etage;Ruimte;Toestel;Huidige beveiliging;Vereiste beveiliging;Plaats beveiliging;Drukvast;Diameter;Soort fitting (CAP/KNEL/SCHROEF)
+1;BG;hal meterkast;watermeter;EA;;;JA;;
+2;BG;hal meterkast;buitenkraan;EA;;voor buitenkraan;JA;Ø15;knel
+3;BG;keuken;vaatwasser;EB;;;JA;1/2;schroef
+4;BG;washok;brandslanghaspel;EB-MU;;;JA;1/2;schroef
+5;BG;washok;wasmachine;EA;;;JA;3/4;schroef
+6;1e verd.;overloop;brandslanghaspel;EA;;;JA;Ø15;knel
+7;2e verd.;ketelruimte;vulkraan;EB;;;JA;1/2;schroef
+8;2e verd.;ketelruimte;inlaatcombinatie;EA;;;JA;Ø15;knel

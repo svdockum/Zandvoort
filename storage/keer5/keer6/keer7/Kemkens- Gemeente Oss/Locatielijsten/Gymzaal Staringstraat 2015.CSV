@@ -1,0 +1,25 @@
+﻿;;;Onderhoudsrapport;;;;;;
+;;;;;;;;;
+;;;BCO Brandpreventie;;;;;;
+;;;Galliershof 22;;;;;;
+;;;5349 BV Oss;;;;;;
+;;;;;;;;;
+Klant: Gemeente Oss;;;Naam monteur: Marty Gutte;;;;;;
+Locatie: Gymzaal Staringstraat;;;Datum: November, 2015;;;;;;
+Adres: Staringstraat 8, Oss;;;;;;;;;
+;;;;;;;;;
+Locatiegegevens;;;;Beveiliging;;Resultaat;;Montagegevens;
+Nr.;Etage;Ruimte;Toestel;Huidige beveiliging;Vereiste beveiliging;Plaats beveiliging;Drukvast;Diameter;Soort fitting (CAP/KNEL/SCHROEF)
+1;BG;douche;kw kraan;EA;;in plafond;JA;Ø22;knel
+2;BG;douche dames;mengventiel kw;EA;;in plafond;JA;Ø22;knel
+3;BG;douche dames;mengventiel ww;EA;;in plafond;JA;Ø15;knel
+4;BG;douche dames;mengventiel kw;EA;;in plafond;JA;Ø22;knel
+5;BG;douche dames;mengventiel ww;EA;;in plafond;JA;Ø15;knel
+6;BG;douche heren;kw kraan;EA;;in plafond;JA;Ø22;knel
+7;BG;douche heren;mengventiel ww;EA;;;JA;Ø22;knel
+8;BG;douche heren;mengventiel ww;EA;;;JA;Ø15;knel
+9;BG;douche heren;mengventiel kw;EA;;;JA;Ø15;knel
+10;BG;douche heren;mengventiel kw;EA;;in plafond;JA;Ø22;knel
+11;BG;kleedkamer dames;BSH;EA;;cv ruimte;JA;Ø22;knel
+12;BG;cv ruimte;boiler inlaatcombinatie;EA;;cv ruimte;JA;Ø22;knel
+13;BG;cv ruimte;circulatieleiding;EA;;cv ruimte;JA;Ø15;knel

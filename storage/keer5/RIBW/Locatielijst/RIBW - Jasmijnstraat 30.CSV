@@ -1,0 +1,21 @@
+﻿;;;Onderhoudsrapport;;;;;;
+;;;;;;;;;
+;;;BCO Brandpreventie;;;;;;
+;;;Galliershof 22;;;;;;
+;;;5349 BV Oss;;;;;;
+;;;;;;;;;
+Klant: RIBW;;;Naam monteur: Marty Gutte;;;;;;
+Locatie: Jasmijnstraat 30;;;Datum: December, 2015;;;;;;
+Adres: Jasmijnstraat 30, Nijmegen;;;;;;;;;
+;;;;;;;;;
+Locatiegegevens;;;;Beveiliging;;Resultaat;;Montagegevens;
+Nr.;Etage;Ruimte;Toestel;Huidige beveiliging;Vereiste beveiliging;Plaats beveiliging;Drukvast;Diameter;Soort fitting (CAP/KNEL/SCHROEF)
+1;BG;hal;brandslanghaspel;EB;;kelder;JA;;
+2;BG;gang bij keuken;brandslanghaspel;EB;;kelder;JA;;
+3;BG;bijkeuken;vulkraan;EB;;;JA;1/2;schroef
+4;BG;bijkeuken;wasmachine;EB;;;JA;1/2;schroef
+5;BG;bijkeuken;inlaatcombi;EA;;;JA;Ø15;knel
+6;-1;kelder;buitenkraan;EA;;;JA;Ø15;knel
+7;-1;kelder;toevoer kw;EA;;;JA;Ø22;knel
+8;-1;kelder;watermeter;;;kelder;JA;22;
+9;1e verd.;hal;brandslanghaspel;EA;;;JA;22;cap

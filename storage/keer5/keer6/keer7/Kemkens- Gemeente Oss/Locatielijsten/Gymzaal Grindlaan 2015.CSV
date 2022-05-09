@@ -1,0 +1,23 @@
+﻿;;;Onderhoudsrapport;;;;;;
+;;;;;;;;;
+;;;BCO Brandpreventie;;;;;;
+;;;Galliershof 22;;;;;;
+;;;5349 BV Oss;;;;;;
+;;;;;;;;;
+Klant: Gemeente Oss;;;Naam monteur: Marty Gutte;;;;;;
+Locatie: Gymzaal Grindlaan;;;Datum: November, 2015;;;;;;
+Adres: Grindlaan 8, Oss;;;Complexnr: ;;;;;;
+;;;;;;;;;
+Locatiegegevens;;;;Beveiliging;;Resultaat;;Montagegevens;
+Nr.;Etage;Ruimte;Toestel;Huidige beveiliging;Vereiste beveiliging;Plaats beveiliging;Drukvast;Diameter;Soort fitting (CAP/KNEL/SCHROEF)
+1;;cv ruimte;vulkraan;CA;;;JA;Ø15;knel
+2;;cv ruimte;boiler;EA;;;JA;Ø28;cap
+3;;cv ruimte;aanvoer kw;EA;;;JA;DN25;
+4;;cv ruimte;circulatieleiding;EA;;;JA;Ø15;knel
+5;;douche heren;mengventiel kw;EA;;;JA;;ingebouwde keerklep
+6;;douche heren;mengventiel ww;EA;;;JA;;ingebouwde keerklep
+7;;douche heren;kw kraan;EA;EA;;JA;3/4;schroef
+8;;douche dames;mengventiel kw;EA;;;JA;;ingebouwde keerklep
+9;;douche dames;mengventiel ww;EA;;;JA;;ingebouwde keerklep
+10;;douche dames;kw kraan;EA;EA;;JA;3/4;schroef
+11;;hal;BSH;;;;JA;;

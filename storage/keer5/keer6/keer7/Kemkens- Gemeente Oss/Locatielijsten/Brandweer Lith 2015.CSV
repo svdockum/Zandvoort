@@ -1,0 +1,30 @@
+﻿;;;Onderhoudsrapport;;;;;;
+;;;;;;;;;
+;;;BCO Brandpreventie;;;;;;
+;;;Galliershof 22;;;;;;
+;;;5349 BV Oss;;;;;;
+;;;;;;;;;
+Klant: Gemeente Oss;;;Naam monteur: Marty Gutte;;;;;;
+Locatie: Brandweer Lith;;;Datum: November, 2015;;;;;;
+Adres: Wiegersmastraat 11a, Lith;;;;;;;;;
+;;;;;;;;;
+Locatiegegevens;;;;Beveiliging;;Resultaat;;Montagegevens;
+Nr.;Etage;Ruimte;Toestel;Huidige beveiliging;Vereiste beveiliging;Plaats beveiliging;Drukvast;Diameter;Soort fitting (CAP/KNEL/SCHROEF)
+1;;garage;kw kraan;EB;;;JA;1/2;schroef
+0;;garage;kw kraan;EB;;;JA;1/2;schroef
+2;;garage zolder;inlaatcombi boiler;EA;;;JA;Ø15;knel
+3;;garage;BSH;EA;;;JA;Ø22;knel
+4;;cv kast;vulkraan;DA-EB;;;JA;1/2;schroef
+5;;keuken;inlaatcombi boiler;EA;;;JA;Ø15;knel
+6;;bar;vaatwasser;DA-EB;;;JA;1/2;schroef
+7;;bar;koffieautomaat;EA;;achterdeurtje;JA;3/4;schroef
+8;;poetshok;kw kraan;;;;JA;3/4;schroef
+9;;gang;watermeter;EA;;;JA;;
+10;;Meterput;Toevoer Buiten;EA;;;JA;ø28;Knel
+11;;Meterput;Toevoer Buiten;EA;;;JA;ø28;Knel
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;

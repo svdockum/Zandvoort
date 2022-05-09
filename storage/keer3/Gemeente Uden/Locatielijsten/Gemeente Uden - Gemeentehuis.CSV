@@ -1,0 +1,65 @@
+﻿;;;Onderhoudsrapport;;;;;;
+;;;;;;;;;
+;;;BCO Brandpreventie;;;;;;
+;;;Galliershof 22;;;;;;
+;;;5349 BV Oss;;;;;;
+;;;;;;;;;
+Klant: Gemeente Uden;;;Naam monteur: J. Nederkoorn;;;;;;
+Locatie: Gemeentehuis;;;Datum: Oktober, 2015;;;;;;
+Adres: Markt 145, Uden;;;;;;;;;
+;;;;;;;;;
+Locatiegegevens;;;;Beveiliging;;Resultaat;;Montagegevens;
+Nr.;Etage;Ruimte;Toestel;Huidige beveiliging;Vereiste beveiliging;Plaats beveiliging;Drukvast;Diameter;Soort fitting (CAP/KNEL/SCHROEF)
+1;-1;Hydrofoor ruimte;Watermeter;EA;;Achter meter;JA;11/4;Schroef 
+2;-1;Trappenhal bij hydrofoor;B.S.H. (4x);EA;;In plafond gebouw C;JA;Ø28;Knel
+3;-1;Fietsstalling gebouw C;B.S.H.;EA;;Tegen plafond;JA;Ø28;Knel
+4;-1;Fietsstalling gebouw C;Buitenkraan;EA;;Tegen plafond;JA;Ø22;Knel
+5;-1;Fietsstalling gebouw C;B.S.H.;EA;;Tegen plafond;JA;Ø28;Cap
+6;-1;Fietsstalling gebouw C;B.S.H.;EA;;Tegen plafond;JA;Ø28;Knel
+7;-1;Archief;B.S.H. H8;EA;;Tegen plafond;JA;Ø28;Knel
+8;-1;Archief;Buitenkraan markt;EA;;Tegen plafond;JA;Ø15;Knel
+9;B.G.;Gang gebouw B;B.S.H. H7;EA;;In kast achter brandslanghaspel;JA;Ø22;Knel
+10;B.G.;Publiekshal D;B.S.H. H3;EA;;In plafond toilet;JA;Ø22;Knel
+11;B.G.;T.D. Publiekshal D;Tapkraan;EA;;Onder boiler;JA;Ø15;Knel
+12;B.G.;T.D. Publiekshal D;Boiler;Inlaat combi;;Onder boiler;JA;Ø15;Knel
+12a;B.G.;Publiekshal;Koffieautomaat;EA;;In Kast;JA;Ø15;Knel
+13;B.G.;Publiekshal bij lift D;B.S.H.  H4;;;;JA;;
+14;B.G.;Publiekshal bij draaideur;B.S.H. 70 H5;;;;JA;;
+15;B.G.;Gang kantoren A;B.S.H. H6;;;;JA;;
+16;1e verd.;Gang gebouw C bij 1.35;B.S.H. H14;;;;JA;;
+17;1e verd.;Pantry publiekshal D;Koffieautomaat;EA;;In keukenkast;JA;Ø15;Knel
+18;1e verd.;Pantry publiekshal D;Close-in boiler;Inlaat combi;;In keukenkast;JA;Ø15;Knel
+19;1e verd.;Bij publieke tribune D;B.S.H.H15;;;;JA;;
+20;1e verd.;Gang A bij 1.65;B.S.H. H16;EA;;In kast brandslanghaspel;JA;Ø22;Knel
+21;1e verd.;Gang A bij 1.04;B.S.H. H17;EA;;;JA;;
+22;1e verd.;Gang A bij pantry;B.S.H. H18;;;;JA;;
+23;1e verd.;Gang B bij 1.24;B.S.H. H11;;;;JA;;
+24;2e verd.;Gang C bij 2.35;B.S.H. H24;;;;JA;;
+25;2e verd.;Gang D bij 2.50;B.S.H. H23;;;;JA;;
+26;2e verd.;Pantry D bij 2.14;Koffieautomaat;EA;;In keukenkast;JA;Ø15;Knel
+27;2e verd.;Gang D bij 2.64;B.S.H. H22;EA;;In kast brandslanghaspel;JA;Ø22;Knel
+28;2e verd.;Gang A bij 2.02;B.S.H. H21;;;;JA;;
+29;2e verd.;Gang A bij 2.04;B.S.H. H20;;;;JA;;
+30;2e verd.;Gang A bij pantry;B.S.H. H19;;;;JA;;
+31;2e verd.;Gang B;B.S.H. H27;;;;JA;;
+32;3e verd.;Gang C bij pantry;B.S.H. H28;;;;JA;;
+33;3e verd.;Gang C bij 3.33;B.S.H. H30;;;;JA;;
+34;3e verd.;Gang D bij 3.50;B.S.H. H31;;;;JA;;
+35;3e verd.;Pantry D bij 3.14;Koffieautomaat;EA;;In keukenkast;JA;Ø15;Knel
+36;3e verd.;Dienstruimte 3.14;Boiler;Inlaat combi;;Onder boiler;JA;Ø15;Knel
+37;3e verd.;Gang D bij 3.64;B.S.H. H32;EA;;In kast brandslanghaspel;JA;Ø22;Knel
+38;3e verd.;Gang A bij 3.05;B.S.H. H33;;;;JA;;
+39;3e verd.;Gang A bij restaurant;B.S.H. H34;;;;NEE;;
+40;3e verd.;Spoelkeuken;Koffiezetter;EA;;Onder koffiezetter;JA;Ø15;Knel
+41;3e verd.;Spoelkeuken;Vaatwasser;CA;;Naast vaatwasser;JA;Ø15;Knel
+42;3e verd.;Technische ruimte 3.13;Water ontharder;CA;;Bij water ontharder;JA;Ø15;Knel
+43;3e verd.;Technische ruimte 3.13;Boiler;Inlaat combi;;Onder boiler;JA;Ø15;Knel
+44;3e verd.;Berging restaurant;Boiler;Inlaat combi;;Onder boiler;JA;Ø15;Knel
+45;3e verd.;CV ketelhuis 3.38;CV vulkraan;CA;;Onder CV vulkraan;NEE;Ø15;Knel
+46;2e verd.;Pantry D 2.14;Boiler;Inlaat combi;;Onder boiler;JA;Ø15;Knel
+47;4e verd.;Gang D Bij 4.50;B.S.H H 36;EA;;In kast B.S.H;JA;Ø22;Knel
+48;4e verd.;Pantry D Bij 4.14;Koffie automaat;EA;;In Keukenkast;JA;Ø15;Knel
+49;4e verd.;Dienstruimte 4.14;Boiler;Inlaat combi;;Onder Boiler;JA;Ø15;Knel
+50;4e verd.;Gang D;BSH H35;EA;;In Kast B.S.H;JA;Ø22;Knel
+Keerklep:;;Opmerking:;;;;;;;
+;;;;;;;;;
