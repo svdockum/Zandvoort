@@ -35,33 +35,12 @@
 <div class="row ">
    
     <div class="small-12 columns ">
-       @if (in_array(\Auth::user()->role,[1,2,4]))
-        <a href="{{url('/customer/' . $customer->id . '/blusmiddelen')}}" class="button large alert">
-                    <span class="fa-stack fa-lg">
-                               <i class="fa fa-plus"></i>
-                               <i class="fa fa-fire-extinguisher"></i>
-                        </span>Blusmiddelen</a>&nbsp;&nbsp;
-                        @endif
-        @if (in_array(\Auth::user()->role,[1,2,4]))
-        <a href="{{url('/customer/' . $customer->id . '/keerkleppen')}}" class="button large blue"> <span class="fa-stack fa-lg">
-                          
-                             <i class="fa fa-plus"></i>
-                               <i class="fa fa-code-fork"></i>
-                        </span>Keerkleppen</a>&nbsp;&nbsp;
-         @endif
 @if (in_array(\Auth::user()->role,[1,2,3]))
           <a href="{{url('/customer/' . $customer->id . '/noodverlichting')}}" class="button large bggreen"> <span class="fa-stack fa-lg">
                           
                              <i class="fa fa-plus"></i>
                                <i class="fa fa-lightbulb-o"></i>
                         </span>Noodverlichting</a>
-@endif
-@if (in_array(\Auth::user()->role,[1,2,4]))
-          <a href="{{url('/customer/' . $customer->id . '/noodverlichting2')}}" class="button large bggreen"> <span class="fa-stack fa-lg">
-                          
-                             <i class="fa fa-plus"></i>
-                               <i class="fa fa-lightbulb-o"></i>
-                        </span>Noodverlichting v2</a>
 @endif
 
     </div>
