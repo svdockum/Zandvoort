@@ -836,7 +836,7 @@ function sksort(&$array, $subkey="id", $sort_ascending=false) {
 
     function sksort2(&$array, $subkey="id", $sort_ascending=false) {
         $temp_array = array();
-            if (count($array))
+            if (count((array)$array))
                 $temp_array[key($array)] = array_shift($array);
         
             foreach($array as $key => $val){
