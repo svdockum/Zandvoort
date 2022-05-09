@@ -206,7 +206,7 @@
                            @if (empty($customer->logo))
                                        <img style="height: 100px;" src="https://placehold.it/250x100/eeeeee?text=Geen logo" />
                                    @else 
-                                    <img style="height: 100px;" src="{{ '/report/public/customerlogos/'. $customer->id . '/' . $customer->logo}}" />
+                                    <img style="height: 100px;" src="{{ 'customerlogos/'. $customer->id . '/' . $customer->logo}}" />
                                     @endif
 
                             <div class="col-md-6">
