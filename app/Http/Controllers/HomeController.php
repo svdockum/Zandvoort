@@ -807,7 +807,7 @@ ini_set('max_execution_time', 0);
 
 function sksort(&$array, $subkey="id", $sort_ascending=false) {
     $temp_array = array();
-        if (count($array))
+        if (count((array)$array))
             $temp_array[key($array)] = array_shift($array);
     
         foreach($array as $key => $val){
