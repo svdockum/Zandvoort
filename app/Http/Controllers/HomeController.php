@@ -328,7 +328,9 @@ else {
 
             if ($request->input('isKeerBlus') == '1') $isKeerBlus = 1;
             if ($request->input('isNood') == '1') $isNood = 1;
-
+            if ($request->input('isAlarm') == '1') $isAlarm = 1; 
+            if ($request->input('isBMI') == '1') $isBMI = 1;
+            
         $customer = Customer::create([
             'name' => $request->input('name'),
             'contactperson' => $request->input('contactperson'),
@@ -340,8 +342,9 @@ else {
             'postalcode' => $request->input('postalcode'),
             'city' => $request->input('city'),
             'werknummer' => $request->input('werknummer'),
-                'isKeerBlus' => $isKeerBlus,
             'isNood' => $isNood,
+            'isAlarm' => $isAlarm,
+            'isBMI' => $isBMI,
         
         ]);
         

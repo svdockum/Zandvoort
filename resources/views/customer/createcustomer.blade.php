@@ -82,21 +82,8 @@
                             </div>
                         </div>
 
-                        <div class="form-group{{ $errors->has('isKeerBlus') ? ' has-error' : '' }}">
-                            <label class="col-md-4 control-label">Is een Keerklep/Blusmiddelen Klant</label>
-
-                            <div class="col-md-6">
-                                <input type="checkbox" checked class="form-control" name="isKeerBlus" value="1">
-
-                                @if ($errors->has('isKeerBlus'))
-                                    <span class="help-block">
-                                        <strong>{{ $errors->first('isKeerBlus') }}</strong>
-                                    </span>
-                                @endif
-                            </div>
-                        </div>
-                           <div class="form-group{{ $errors->has('isNood') ? ' has-error' : '' }}">
-                            <label class="col-md-4 control-label">Is een Noodverlichting klant</label>
+                        <div class="form-group{{ $errors->has('isNood') ? ' has-error' : '' }}">
+                            <label class="col-md-4 control-label">Noodverlichting</label>
 
                             <div class="col-md-6">
                                 <input type="checkbox" class="form-control" name="isNood" value="1">
@@ -109,6 +96,34 @@
                             </div>
                         </div>
 
+                        <div class="form-group{{ $errors->has('isAlarm') ? ' has-error' : '' }}">
+                            <label class="col-md-4 control-label">Alarm</label>
+
+                            <div class="col-md-6">
+                                <input type="checkbox" class="form-control" name="isAlarm" value="1">
+
+                                @if ($errors->has('isAlarm'))
+                                    <span class="help-block">
+                                        <strong>{{ $errors->first('isAlarm') }}</strong>
+                                    </span>
+                                @endif
+                            </div>
+                        </div>
+                        
+                        <div class="form-group{{ $errors->has('isBMI') ? ' has-error' : '' }}">
+                            <label class="col-md-4 control-label">BMI</label>
+
+                            <div class="col-md-6">
+                                <input type="checkbox" class="form-control" name="isBMI" value="1">
+
+                                @if ($errors->has('isBMI'))
+                                    <span class="help-block">
+                                        <strong>{{ $errors->first('isBMI') }}</strong>
+                                    </span>
+                                @endif
+                            </div>
+                        </div>
+                        
                    </div>
                    <div class="small-6 columns">
 
