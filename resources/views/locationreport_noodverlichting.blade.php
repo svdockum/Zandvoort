@@ -462,8 +462,71 @@ if ($('#addrow').html() == 'Aanpassen') {
      $('#showCopyNr').show();
     
 }
+        
+        if ($('#copyNr').val() > 0) {
+        console.log($('#copyNr').val() + "copy times"); 
+            let loopcounter = parseInt($('#copyNr').val(),10);
+            console.log(loopcounter + "|||||||||||||||||||||||");
+            for (let i = 0;i < loopcounter;i++) {
+    
+    
+                keyvals = {};
+    
+    $('input,select,textarea').each(function(){
+    
 
-    keyvals = {};
+  if ($(this).attr('id') != 'ready') {
+   if ($(this).attr('id') != 'copyNr') {
+    if ($(this).attr('id') != 'remarks') {
+        
+        if ($(this).is(':checkbox')) {
+            if ( $(this).prop('checked') == true) {
+                    keyvals[ $(this).attr('id')] =  $(this).val();
+            }
+            else {
+                    keyvals[ $(this).attr('id')] =  0;
+            }
+        }
+        else if ($(this).hasClass('s2')) {
+            try {
+               
+               var textvalue = $(this).select2('data')[0]['text']
+            keyvals[ $(this).attr('id')] = escapeHtml(textvalue);
+            console.log($(this).select2('data')[0]['text']);
+            }
+            catch (error) {
+                keyvals[ $(this).attr('id')] = "-"; //no text filled in
+            }
+        }
+        else if ( typeof $(this).attr('id') != 'undefined'){
+          console.log($(this).attr('id'));
+    
+        if ($(this).attr('id') == 'pos') {
+            keyvals[ $(this).attr('id')] =  parseInt(escapeHtml($(this).val()),10) + loopcounter;
+        }
+        else {
+            keyvals[ $(this).attr('id')] =  escapeHtml($(this).val());
+        }
+    
+    }
+
+     }
+    }
+}
+});
+
+
+        keyvals['remarks'] =  $('#remarks').val();
+    
+    
+                data['row'+guid()] = keyvals ;
+                localStorage.setItem(prefix,JSON.stringify(data));
+            }
+
+        }
+        else {
+
+            keyvals = {};
     
     $('input,select,textarea').each(function(){
     
@@ -503,19 +566,10 @@ if ($('#addrow').html() == 'Aanpassen') {
 
 
         keyvals['remarks'] =  $('#remarks').val();
-       
-        
-        if ($('#copyNr').val() > 0) {
-        console.log($('#copyNr').val() + "copy times"); 
-            let loopcounter = parseInt($('#copyNr').val(),10);
-            console.log(loopcounter + "|||||||||||||||||||||||");
-            for (let i = 0;i < loopcounter;i++) {
-                data['row'+guid()] = keyvals ;
-                localStorage.setItem(prefix,JSON.stringify(data));
-            }
+    
 
-        }
-        else {
+
+
             data['row'+guid()] = keyvals ;
         localStorage.setItem(prefix,JSON.stringify(data));
         }
@@ -817,13 +871,8 @@ function resetSelects() {
     var materialListArray = [];
 
 $(function() { 
-   
-   
-     
     sorttrigger();
-
     $('#bat_nr').fdatepicker({
-      
     format: 'dd-mm-yyyy',
     disableDblClickSelection: true
   });
@@ -965,7 +1014,7 @@ function savedata() {
 }
 
 function log(data) {
-     
+/*     
       $.ajax( {
             type: 'POST', 
             url:"<?php echo url('/report/log') ?>",
@@ -979,9 +1028,8 @@ function log(data) {
             saveReady();
          } 
         });
-}
-
-
+*/
+    }
 
 </script>
 
