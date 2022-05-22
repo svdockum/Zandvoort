@@ -392,7 +392,7 @@ else {
               <textarea id="notes" name="notes"></textarea>
               </div>
               <div class="small-12 medium-4 columns align-middle text-center">
-                <a href="#" class="button large @if ($type == 'blusmiddelen') bgred @endif @if ($type == 'keerkleppen') blue @endif @if ($type == 'noodverlichting') bggreen @endif" id="addrow" data-key="" style="margin-top:15px;">Invoeren</a>
+                <a href="#" class="button large @if ($type == 'blusmiddelen') bgred @endif @if ($type == 'keerkleppen') blue @endif @if ($type == 'noodverlichting') bggreen @endif" id="addrow" data-key="" style="margin-top:15px;">Invoeren</a><input type="number" id="copyNr">
             </div>
             </div>
         <hr style="height: 1px;color:#ccc;">
@@ -499,8 +499,16 @@ if ($(this).attr('id') != 'ready') {
 
         keyvals['remarks'] =  $('#remarks').val();
         data['row'+guid()] = keyvals ;
+        
+        if ($('#copyNr').val() > 0) {
+        console.log($('#copyNr').val() + "copy times"); 
+        }
+        
+        
         localStorage.setItem(prefix,JSON.stringify(data));
-if (!offline) log(data);
+        
+        if (!offline) log(data);
+        
         RewriteFromStorage();
 });
 
