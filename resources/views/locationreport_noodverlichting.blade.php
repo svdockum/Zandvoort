@@ -392,7 +392,8 @@ else {
               <textarea id="notes" name="notes"></textarea>
               </div>
               <div class="small-12 medium-4 columns align-middle text-center">
-                <a href="#" class="button large @if ($type == 'blusmiddelen') bgred @endif @if ($type == 'keerkleppen') blue @endif @if ($type == 'noodverlichting') bggreen @endif" id="addrow" data-key="" style="margin-top:15px;">Invoeren</a><input type="number" id="copyNr">
+                <a href="#" class="button large @if ($type == 'blusmiddelen') bgred @endif @if ($type == 'keerkleppen') blue @endif @if ($type == 'noodverlichting') bggreen @endif" id="addrow" data-key="" style="margin-top:15px;">Invoeren</a>
+                <br>Aantal keer invoeren:<input type="number" min="0" id="copyNr" style="width:30px;">
             </div>
             </div>
         <hr style="height: 1px;color:#ccc;">
