@@ -507,7 +507,7 @@ if ($('#addrow').html() == 'Aanpassen') {
         
         if ($('#copyNr').val() > 0) {
         console.log($('#copyNr').val() + "copy times"); 
-            int loopcounter = parseInt($('#copyNr').val(),10);
+            let loopcounter = parseInt($('#copyNr').val(),10);
             console.log(loopcounter + "|||||||||||||||||||||||");
             for (int i = 0;int < loopcounter;i++) {
                 localStorage.setItem(prefix,JSON.stringify(data));
@@ -518,7 +518,7 @@ if ($('#addrow').html() == 'Aanpassen') {
                 
         localStorage.setItem(prefix,JSON.stringify(data));
         }
-        
+
         if (!offline) log(data);
         
         RewriteFromStorage();
