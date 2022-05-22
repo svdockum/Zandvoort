@@ -54,20 +54,22 @@
                                 </div>
                                 <div class="small-7 columns">
                                     <a href="{{url('/customer/' . $customer->id )}}"> <h2>{{ $customer->name }}</h2> </a>
-                                    @if ($customer->isKeerBlus)
-                       <span class="fa-stack fa-lg textred" style="font-size: 0.7rem;">
-                            <i class="fa fa-square-o fa-stack-2x"></i>
-                            <i class="fa fa-fire-extinguisher" style="margin-left: 7px;"></i>
-                        </span>
-                        <span class="fa-stack fa-lg textblue" style="font-size: 0.7rem;">
-                            <i class="fa fa-square-o fa-stack-2x"></i>
-                            <i class="fa fa-code-fork" style="margin-left: 8px;"></i>
-                        </span>
-                        @endif
-                         @if ($customer->isNood)
+                                    @if ($customer->isNood)
                         <span class="fa-stack fa-lg textgreen" style="font-size: 0.7rem;">
                             <i class="fa fa-square-o fa-stack-2x"></i>
                             <i class="fa fa-lightbulb-o" style="margin-left: 8px;"></i>
+                        </span>
+                        @endif 
+                        @if ($customer->isAlarm)
+                        <span class="fa-stack fa-lg textred" style="font-size: 0.7rem;">
+                            <i class="fa fa-square-o fa-stack-2x"></i>
+                            <i class="fa fa-bell" style="margin-left: 8px;"></i>
+                        </span>
+                        @endif 
+                        @if ($customer->isBMI)
+                        <span class="fa-stack fa-lg textblue" style="font-size: 0.7rem;">
+                            <i class="fa fa-square-o fa-stack-2x"></i>
+                            <i class="fa fa-align-center" style="margin-left: 8px;"></i>
                         </span>
                         @endif 
                                 </div>
