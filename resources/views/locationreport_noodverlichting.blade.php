@@ -693,7 +693,9 @@ function resetSelects() {
     $('#etage').val('B.G.').trigger('change');
     $('#pos').val(latestpos);
     $('#notes').val('');
+    $('#copyNr').val('');
     $('#autonomiteits').val('1').trigger('change');
+
     
   
    
