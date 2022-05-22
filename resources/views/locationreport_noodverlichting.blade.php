@@ -668,10 +668,10 @@ function resetSelects() {
     $('input:text').val('');
     $('input:checkbox').not("#ready").prop('checked',true);
 
-    $('#etage').val('B.G.').trigger('change');;
+    $('#etage').val('B.G.').trigger('change');
     $('#pos').val(latestpos);
     $('#notes').val('');
-    
+    $('#autonomiteits').val('Ja').trigger('change');
     
   
    
