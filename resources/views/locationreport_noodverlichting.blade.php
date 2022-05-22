@@ -502,7 +502,7 @@ if ($('#addrow').html() == 'Aanpassen') {
           console.log($(this).attr('id'));
     
         if ($(this).attr('id') == 'pos') {
-            keyvals[ $(this).attr('id')] =  parseInt(escapeHtml($(this).val()),10) + loopcounter;
+            keyvals[ $(this).attr('id')] =  parseInt(escapeHtml($(this).val()),10) + i;
         }
         else {
             keyvals[ $(this).attr('id')] =  escapeHtml($(this).val());
