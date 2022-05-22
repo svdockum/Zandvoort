@@ -393,7 +393,7 @@ else {
               </div>
               <div class="small-12 medium-4 columns align-middle text-center">
                 <a href="#" class="button large @if ($type == 'blusmiddelen') bgred @endif @if ($type == 'keerkleppen') blue @endif @if ($type == 'noodverlichting') bggreen @endif" id="addrow" data-key="" style="margin-top:15px;">Invoeren</a>
-                <span id="showCopyNr"><br>Aantal keer invoeren:<input type="number" min="0" id="copyNr" style="width:80px;display:inline;"></span>
+                <span id="showCopyNr"><br>Aantal keer invoeren:<input type="number" min="1" id="copyNr" style="width:80px;display:inline;"></span>
             </div>
             </div>
         <hr style="height: 1px;color:#ccc;">
@@ -507,10 +507,17 @@ if ($('#addrow').html() == 'Aanpassen') {
         
         if ($('#copyNr').val() > 0) {
         console.log($('#copyNr').val() + "copy times"); 
+            int loopcounter = parseInt($('#copyNr').val(),10);
+            console.log(loopcounter + "|||||||||||||||||||||||");
+            for (int i = 0;int < loopcounter;i++) {
+                localStorage.setItem(prefix,JSON.stringify(data));
+            }
+
         }
-        
-        
+        else {
+                
         localStorage.setItem(prefix,JSON.stringify(data));
+        }
         
         if (!offline) log(data);
         
