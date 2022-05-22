@@ -522,6 +522,7 @@ $('body').on('click', 'a.editbtn', function(event) {
                || nkey.indexOf('etage') >= 0
             
                 || nkey.indexOf('picto') >= 0
+                || nkey.indexOf('autonomiteits') >= 0
              
 
                                       ) {
