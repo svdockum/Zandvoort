@@ -369,6 +369,8 @@ else {
         else {
             $isKeerBlus = 0;
             $isNood = 0;
+            $isAlarm = 0;
+            $isBMI = 0;
             $can_login = 0;
 
             if ($request->input('isKeerBlus') == '1') $isKeerBlus = 1;
@@ -376,12 +378,7 @@ else {
             if ($request->input('isAlarm') == '1') $isAlarm = 1; 
             if ($request->input('isBMI') == '1') $isBMI = 1;
             
-            if ($request->input('can_login') == 1 && !empty($request->input('customer_pass')) 
-                            && !empty($request->input('email')))
-                            {
-                             $can_login = 1;
-                            }
-
+          
         $customer = Customer::find($id);      
         $customer->update([
             'name' => $request->input('name'),
@@ -444,11 +441,7 @@ else {
                 }
               
             }
-        
       
-
-
-
         $customer->save();
 
         $destinationPath = public_path() . DIRECTORY_SEPARATOR . 'customerlogos' . DIRECTORY_SEPARATOR . $customer->id;
