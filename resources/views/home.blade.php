@@ -63,13 +63,13 @@
                         @if ($customer->isAlarm)
                         <span class="fa-stack fa-lg textred" style="font-size: 12px;">
                             <i class="fa fa-square-o fa-stack-2x"></i>
-                            <i class="fa fa-bell" style="margin-left: 5px;"></i>
+                            <i class="fa fa-bell" style="margin-left: 6px;"></i>
                         </span>
                         @endif 
                         @if ($customer->isBMI)
                         <span class="fa-stack fa-lg textblue" style="font-size:12px;">
                             <i class="fa fa-square-o fa-stack-2x"></i>
-                            <i class="fa fa-align-center" style="margin-left: 7px;"></i>
+                            <i class="fa fa-align-center" style="margin-left: 6px;"></i>
                         </span>
                         @endif 
                                 </div>
