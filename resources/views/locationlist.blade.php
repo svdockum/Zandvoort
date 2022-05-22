@@ -36,16 +36,6 @@ foreach ($locations as $location) {
     <tr>
     <td>
                                 <a href="{{ url('/customer/' . $customer->id . '/location/edit/' . $location->id) }}"><h4 style="margin-bottom: 0px;"> {{$location->name}}</h4></a>
-                        @if ($location->isKeerBlus)
-                       <span class="fa-stack fa-lg textred" style="font-size: 0.7rem;">
-                            <i class="fa fa-square-o fa-stack-2x"></i>
-                            <i class="fa fa-fire-extinguisher" style="margin-left: 7px;"></i>
-                        </span>
-                        <span class="fa-stack fa-lg textblue" style="font-size: 0.7rem;">
-                            <i class="fa fa-square-o fa-stack-2x"></i>
-                            <i class="fa fa-code-fork" style="margin-left: 8px;"></i>
-                        </span>
-                        @endif
                          @if ($location->isNood)
                         <span class="fa-stack fa-lg textgreen" style="font-size: 0.7rem;">
                             <i class="fa fa-square-o fa-stack-2x"></i>

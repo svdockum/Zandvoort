@@ -143,19 +143,7 @@
                             </div>
                         </div>
                         
-                         <div class="form-group{{ $errors->has('isKeerBlus') ? ' has-error' : '' }}">
-                            <label class="col-md-4 control-label">Is een Keerklep/Blusmiddelen locatie</label>
-
-                            <div class="col-md-6">
-                                <input type="checkbox" @if(isset($location) && $location->isKeerBlus) checked @else checked @endif class="form-control" name="isKeerBlus" value="1">
-
-                                @if ($errors->has('isKeerBlus'))
-                                    <span class="help-block">
-                                        <strong>{{ $errors->first('isKeerBlus') }}</strong>
-                                    </span>
-                                @endif
-                            </div>
-                        </div>
+                       
                            <div class="form-group{{ $errors->has('isNood') ? ' has-error' : '' }}">
                             <label class="col-md-4 control-label">Is een Noodverlichting locatie</label>
 
