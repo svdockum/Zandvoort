@@ -463,7 +463,7 @@ if ($('#addrow').html() == 'Aanpassen') {
     
 }
         
-        if ($('#copyNr').val() > 0) {
+        if ($('#copyNr').val() > 1) {
         console.log($('#copyNr').val() + "copy times"); 
             let loopcounter = parseInt($('#copyNr').val(),10);
             console.log(loopcounter + "|||||||||||||||||||||||");
