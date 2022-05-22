@@ -509,7 +509,7 @@ if ($('#addrow').html() == 'Aanpassen') {
         console.log($('#copyNr').val() + "copy times"); 
             let loopcounter = parseInt($('#copyNr').val(),10);
             console.log(loopcounter + "|||||||||||||||||||||||");
-            for (int i = 0;int < loopcounter;i++) {
+            for (let i = 0;int < loopcounter;i++) {
                 localStorage.setItem(prefix,JSON.stringify(data));
             }
 
