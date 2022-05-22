@@ -671,7 +671,7 @@ function resetSelects() {
     $('#etage').val('B.G.').trigger('change');
     $('#pos').val(latestpos);
     $('#notes').val('');
-    $('#autonomiteits').val('Ja').trigger('change');
+    $('#autonomiteits').val('1').trigger('change');
     
   
    
