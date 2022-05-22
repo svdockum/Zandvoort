@@ -106,7 +106,7 @@ else {
               <label for="pos">Autonomiteitsduur 60 minuten:</label>
                         
                         <select id="autonomiteits" name="autonomiteits" class="s2">
-                            <option value="1" selected>Ja</option>
+                            <option value="1" selected="selected">Ja</option>
                             <option value="0">Nee</option>
                             </select>
                   
