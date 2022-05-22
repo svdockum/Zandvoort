@@ -82,19 +82,6 @@
                             </div>
                         </div>
 
-                          <div class="form-group{{ $errors->has('isKeerBlus') ? ' has-error' : '' }}">
-                            <label class="col-md-4 control-label">Is een Keerklep/Blusmiddelen Klant</label>
-
-                            <div class="col-md-6">
-                                <input type="checkbox" @if($customer->isKeerBlus) checked @endif class="form-control" name="isKeerBlus" value="1">
-
-                                @if ($errors->has('isKeerBlus'))
-                                    <span class="help-block">
-                                        <strong>{{ $errors->first('isKeerBlus') }}</strong>
-                                    </span>
-                                @endif
-                            </div>
-                        </div>
                         <div class="form-group{{ $errors->has('isNood') ? ' has-error' : '' }}">
                             <label class="col-md-4 control-label">Is een Noodverlichting klant</label>
 
@@ -103,23 +90,22 @@
                             </div>
                         </div>
                         
-                        <div class="form-group{{ $errors->has('can_login') ? ' has-error' : '' }}">
-                          
+                        <div class="form-group{{ $errors->has('isAlarm') ? ' has-error' : '' }}">
+                            <label class="col-md-4 control-label">Is een Noodverlichting klant</label>
 
                             <div class="col-md-6">
-                            <div class="row">
-                                <div class="small-6 columns">
-                                  <label class="col-md-4 control-label" for="can_login">Kan inloggen</label>
-                                <input type="checkbox" @if($customer->can_login) checked @endif class="form-control" name="can_login" id="can_login" value="1" > 
-                                </div>
-                                <div class="small-6 columns">
-                                 <label for="customer_pass">Wachtwoord</label>
-                                 <input id="customer_pass" name="customer_pass"></input>
-                               </div>
-                               </div>
+                                <input type="checkbox" @if($customer->isAlarm) checked @endif class="form-control" name="isAlarm" value="1" >
                             </div>
-
                         </div>
+
+                        <div class="form-group{{ $errors->has('isBMI') ? ' has-error' : '' }}">
+                            <label class="col-md-4 control-label">Is een Noodverlichting klant</label>
+
+                            <div class="col-md-6">
+                                <input type="checkbox" @if($customer->isBMI) checked @endif class="form-control" name="isBMI" value="1" >
+                            </div>
+                        </div>
+                      
                           
                    </div>
 

@@ -330,7 +330,7 @@ else {
             if ($request->input('isNood') == '1') $isNood = 1;
             if ($request->input('isAlarm') == '1') $isAlarm = 1; 
             if ($request->input('isBMI') == '1') $isBMI = 1;
-            
+
         $customer = Customer::create([
             'name' => $request->input('name'),
             'contactperson' => $request->input('contactperson'),
@@ -373,6 +373,9 @@ else {
 
             if ($request->input('isKeerBlus') == '1') $isKeerBlus = 1;
             if ($request->input('isNood') == '1') $isNood = 1;
+            if ($request->input('isAlarm') == '1') $isAlarm = 1; 
+            if ($request->input('isBMI') == '1') $isBMI = 1;
+            
             if ($request->input('can_login') == 1 && !empty($request->input('customer_pass')) 
                             && !empty($request->input('email')))
                             {
@@ -393,7 +396,8 @@ else {
             'werknummer' => $request->input('werknummer'),
             'isKeerBlus' => $isKeerBlus,
             'isNood' => $isNood,
-            'can_login'=> $can_login,
+            'isAlarm' => $isAlarm,
+            'isBMI' => $isBMI,
         ]);
 
         if ($can_login == 1 && !empty($request->input('customer_pass')) 
