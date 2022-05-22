@@ -393,7 +393,7 @@ else {
               </div>
               <div class="small-12 medium-4 columns align-middle text-center">
                 <a href="#" class="button large @if ($type == 'blusmiddelen') bgred @endif @if ($type == 'keerkleppen') blue @endif @if ($type == 'noodverlichting') bggreen @endif" id="addrow" data-key="" style="margin-top:15px;">Invoeren</a>
-                <br>Aantal keer invoeren:<input type="number" min="0" id="copyNr" style="width:30px;">
+                <span id="showCopyNr"><br>Aantal keer invoeren:<input type="number" min="0" id="copyNr" style="width:80px;display:inline;"></span>
             </div>
             </div>
         <hr style="height: 1px;color:#ccc;">
@@ -458,7 +458,9 @@ if ($('#addrow').html() == 'Aanpassen') {
     //get the data from local. loop till got right key (loop further) save again
      delete data[$(this).data('key')];
      $(this).data('key','');
-    $('#addrow').html('Invoeren');
+     $('#addrow').html('Invoeren');
+     $('#showCopyNr').show();
+    
 }
 
     keyvals = {};
@@ -466,7 +468,8 @@ if ($('#addrow').html() == 'Aanpassen') {
     $('input,select,textarea').each(function(){
     
 
-if ($(this).attr('id') != 'ready') {
+  if ($(this).attr('id') != 'ready') {
+   if ($(this).attr('id') != 'copyNr') {
     if ($(this).attr('id') != 'remarks') {
         
         if ($(this).is(':checkbox')) {
@@ -495,6 +498,7 @@ if ($(this).attr('id') != 'ready') {
 
         }
     }
+}
 })
 
 
@@ -518,6 +522,7 @@ $('body').on('click', 'a.editbtn', function(event) {
     event.preventDefault();
     $("html, body").animate({ scrollTop: 0 }, "slow");
     $('#addrow').html('Aanpassen');
+    $('#showCopyNr').hide();
     $('#addrow').data('key',$(this).data('key'));
 
     console.log($(this).data('key'));
