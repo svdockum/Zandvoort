@@ -503,19 +503,20 @@ if ($('#addrow').html() == 'Aanpassen') {
 
 
         keyvals['remarks'] =  $('#remarks').val();
-        data['row'+guid()] = keyvals ;
+       
         
         if ($('#copyNr').val() > 0) {
         console.log($('#copyNr').val() + "copy times"); 
             let loopcounter = parseInt($('#copyNr').val(),10);
             console.log(loopcounter + "|||||||||||||||||||||||");
             for (let i = 0;i < loopcounter;i++) {
+                data['row'+guid()] = keyvals ;
                 localStorage.setItem(prefix,JSON.stringify(data));
             }
 
         }
         else {
-                
+            data['row'+guid()] = keyvals ;
         localStorage.setItem(prefix,JSON.stringify(data));
         }
 
