@@ -143,24 +143,6 @@ Hand: {{$yesno}}
 		$yesno = "Nee";
 	} ?>
 
-Cont. verv.: {{$yesno}}
-<br>
-<?php if (!empty($row['lbnood_verv']) &&  $row['lbnood_verv'] == 'Ja') { 
-		$yesno = "Ja";
-	} 
-	else { 
-		$yesno = "Nee";
-	} ?>
-
-Nood verv.: {{$yesno}}
-<br>
-<?php if (!empty($row['batt_verv']) &&  $row['batt_verv'] == 'Ja') { 
-		$yesno = "Ja";
-	} 
-	else { 
-		$yesno = "Nee";
-	} ?>
-
 Batt verv.: {{$yesno}}
 <br>
 <?php if (!empty($row['damage']) &&  $row['damage'] == 'Ja') { 

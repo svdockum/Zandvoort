@@ -103,9 +103,12 @@ else {
                         </select>
             </div>
              <div class="small-12 medium-3 columns">
-              <label for="pos">Autonomiteits duur in minuten:</label>
-                        <input type="number" id="autonomiteits" name="autonomiteits" />
+              <label for="pos">Autonomiteitsduur 60 minuten:</label>
                         
+                        <select id="autonomiteits" name="autonomiteits" class="s2">
+                            <option value="1">Ja</option>
+                            <option value="0">Nee</option>
+                            </select>
                   
             </div>
         </div>
