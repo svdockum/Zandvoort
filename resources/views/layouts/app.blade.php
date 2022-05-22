@@ -211,7 +211,7 @@ table th.sort-up:after {
                             @endif
                            
                            <li>
-                                <a href="{{url('/lists/blusbrand')}}">Lijsten</a>
+                                <a href="#">Lijsten</a>
                                 <ul class="menu vertical">
                                       <li><a href="{{ url('/lists/nood/Brand/armatuur')}}">N - Armatuur merk</a></li>
                                       <li><a href="{{ url('/lists/nood/Brand/continu')}}">N - Continu merk</a></li>
