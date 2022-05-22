@@ -906,6 +906,7 @@ function sksort(&$array, $subkey="id", $sort_ascending=false) {
 
         $brands = \App::make('\App\\' . $model)
         ->where('category','=',$filter)
+        ->orderBy('name', 'DESC')
         ->get();
 
 
