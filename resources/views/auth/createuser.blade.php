@@ -70,9 +70,7 @@
                             <div class="col-md-6">
                                 <select name="role" id="role">
                                 <?php if (isset($user->role)) $role = $user->role; else $role = 0;?>
-                                    <option value="2" <?php if ($role == 2) echo 'selected'; ?>>Monteur Alles</option>
-                                    <option value="3" <?php if ($role == 3) echo 'selected'; ?>>Monteur Alleen Noodverlichting</option>
-                                    <option value="4" <?php if ($role == 4) echo 'selected'; ?>>Monteur Keerkleppen &amp; Blusmiddelen</option>
+                                    <option value="3" <?php if ($role == 3) echo 'selected'; ?>>Gebruiker</option>
                                     <option value="1" <?php if ($role == 1) echo 'selected';?>>Beheerder</option>
                                 </select>
 
