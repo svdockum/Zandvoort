@@ -35,7 +35,7 @@
 
 <div class="row">
     <div class="small-12 columns">
-                       <label for="pos">Kenmerk</label>
+                       <label style="display:inline;" for="pos">Kenmerk: </label>
                         <input style="width:200px;display:inline;" type="text" id="kenmerk" name="kenmerk" />
                         <a href="#" class="button small bggreen" id="addkenmerk" data-key="" style="margin-top:15px;">Kenmerk opslaan</a>
      </div>
@@ -941,6 +941,12 @@ function sorttrigger() {
 $('#ready').click(function(e){
    saveReady();
 
+});
+
+$('#addkenmenk').click(function(e) {
+
+    console.log('Saving kenmerk');
+    
 });
 
 function saveReady() {
