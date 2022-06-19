@@ -22,7 +22,7 @@ Route::group(['middleware' => ['web']], function () {
 		// $report->name = $kenmerk;
 		// $report->save();
 	
-		return;	
+		return 'test';	
 	});
 	
 
