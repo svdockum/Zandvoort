@@ -398,12 +398,13 @@ Route::get('pdf2',function(){
 
 Route::post('/kenmerk', function(){
 	
+	Log::debug('An informational message.' . \App\Request::input());
 
-	$report = \App\Report::find(\Request::input('reportid'));
-	$kenmerk = \Request::input('kenmerk');
+	// $report = \App\Report::find(\Request::input('reportid'));
+	// $kenmerk = \Request::input('kenmerk');
 
-	$report->name = $kenmerk;
-	$report->save();
+	// $report->name = $kenmerk;
+	// $report->save();
 
 	
 });
