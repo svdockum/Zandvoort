@@ -946,9 +946,9 @@ $('#ready').click(function(e){
 $('#addkenmerk').click(function(e) {
 
     console.log('Saving kenmerk' + $('#kenmerk').val());
-
-//     let data = {reportid: {{$report->id}},kenmerk: };
-
+let k = $('#kenmerk').val();
+     let data = {reportid: {{$report->id}},kenmerk: k};
+console.log(data);
 // fetch("/kenmerk", {
 //   method: "POST",
 //   headers: {'Content-Type': 'application/json'}, 
