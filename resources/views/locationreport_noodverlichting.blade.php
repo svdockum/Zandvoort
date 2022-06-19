@@ -34,6 +34,14 @@
 <hr>
 
 <div class="row">
+    <div class="small-12 columns">
+                       <label for="pos">Kenmerk</label>
+                        <input type="text" id="kenmerk" name="kenmerk" />
+                        <a href="#" class="button large bggreen" id="addkenmerk" data-key="" style="margin-top:15px;">Kenmerk opslaan</a>
+     </div>
+</div>
+
+<div class="row">
         <div class="small-12 columns">
             <h4>{{ ucfirst($type) }} Rapport - {{$report->created_at->format('Y')}}</h4>
             <small>Aangemaakt op: {{$report->created_at->format('d-m-Y')}}, door <?php
@@ -159,7 +167,7 @@ else {
                        
                     </div> 
                     <div class="medium-3 columns">
-                        <label for="cont_merk" >Continu Merk:</label>
+                        <!-- <label for="cont_merk" >Continu Merk:</label>
                         <select id="cont_merk" name="cont_merk" class="s2">
                             <option>-</option>
                              @foreach (\App\Brand::where('category','=','continu')->get() as $brand)
@@ -167,9 +175,7 @@ else {
                               <option>{{ $brand->name }}</option>
                             
                             @endforeach
-                            <!--  <option>Philips</option>
-                            <option>Osram</option>
-                            <option>Sylvania</option>-->
+                           
                         </select>
                         <label for="cont_type" >Continu Type</label>
                             <select id="cont_type" name="cont_type">
@@ -179,29 +185,13 @@ else {
                               <option>{{ $brand->name }}</option>
                             
                             @endforeach
-                            <!--
-<option>TL 6W/830</option>
-<option>TL 6W/840</option>
-<option>TL 8W/840</option>
-<option>TL 8W/830</option>
-<option>TL 36W/830</option>
-<option>TL 36W/840</option>
-<option>TL 58W/830</option>
-<option>TL 58W/840</option>
-<option>PL-C 18W/830/4p</option>
-<option>PL-C 18W/840/4p</option>
-<option>PL-C 26W/830/4p</option>
-<option>PL-C 26W/840/4p</option>
-<option>PL-S 9W/830/4p</option>
-<option>PL-S 9W/840/4p</option>
-<option>TL5 HO 49W/830</option>-->
-                            </select>
+                             </select>
                         <label for="cont_nr" >Typenummer</label>
                               <input type="text" id="cont_nr" name="cont_nr"  />
-                       
+                            -->
                     </div>
                     <div class="medium-3 columns">
-                        <label for="nood_merk" >Nood Merk:</label>
+                      <!--  <label for="nood_merk" >Nood Merk:</label>
                         <select id="nood_merk" name="nood_merk" class="s2">
                              <option>-</option>
                               @foreach (\App\Brand::where('category','=','nood')->get() as $brand)
@@ -209,10 +199,7 @@ else {
                               <option>{{ $brand->name }}</option>
                             
                             @endforeach
-                            <!--
-                            <option>Philips</option>
-                            <option>Osram</option>
-                            <option>Sylvania</option>-->
+                            
                         </select>
                         <label for="nood_type">Nood type</label>
                             <select id="nood_type" name="nood_type">
@@ -225,7 +212,7 @@ else {
                             </select>
                         <label for="nood_nr">Typenummer</label>
                          <input type="text" id="nood_nr" name="nood_nr"  />
-                           
+                            -->
                    </div>
                    <div class="medium-3 columns">
                          <label for="bat_merk" >Batterij Merk:</label>
@@ -759,7 +746,7 @@ function resetSelects() {
                 pos = 1;
              
 
-                    $("#dynamicrows").html('<thead> <tr> <th style="width:80px" id="sl" data-sort-order="asc" class="sort-default" data-sort-method="number">Pos.</th><th>Locatie</th><th>Picto</th> <th>Duur</th> <th>Armatuur</th><th>Continu</th><th>Nood</th><th>Batterij</th><th>Tests</th><th>Opmerkingen</th> <th class="text-center">Aanpassen</th><th class="text-center">Verwijderen</th> </tr></thead>');
+                    $("#dynamicrows").html('<thead> <tr> <th style="width:150px" id="sl" data-sort-order="asc" class="sort-default" data-sort-method="number">Pos.</th><th>Locatie</th><th>Picto</th> <th>Duur</th> <th>Armatuur</th><th>Continu</th><th>Nood</th><th>Batterij</th><th>Tests</th><th>Opmerkingen</th> <th class="text-center">Aanpassen</th><th class="text-center">Verwijderen</th> </tr></thead>');
                     
 
                     for(var i = 0; i < localStorage.length; i++) {

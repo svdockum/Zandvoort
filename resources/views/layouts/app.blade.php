@@ -5,7 +5,7 @@
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, maximum-scale=1.0">
-        <title>Zandvoort</title>
+        <title>H. van Zandvoort</title>
         <!-- Fonts -->
         
         <link href="https://fonts.googleapis.com/css?family=Lato:100,300,400,700" rel='stylesheet' type='text/css'>
@@ -193,7 +193,7 @@ table th.sort-up:after {
                     <div class="top-bar-left">
                        
                         <ul class="dropdown menu" data-dropdown-menu>
-                            <li class="menu-text textwhite"><a href="{{url('/')}}">Zandvoort</a></li>
+                            <li class="menu-text textwhite"><a href="{{url('/')}}">H. van Zandvoort</a></li>
                             @if (Auth::check())     
                             <li>
                                 <a href="{{url('/')}}">Klanten</a>
