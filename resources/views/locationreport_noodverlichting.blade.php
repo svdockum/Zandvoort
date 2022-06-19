@@ -949,13 +949,21 @@ $('#addkenmerk').click(function(e) {
 let k = $('#kenmerk').val();
      let data = {reportid: {{$report->id}},kenmerk: k};
 console.log(data);
-fetch("/kenmerk", {
-  method: "POST",
-  headers: {'Content-Type': 'application/json'}, 
-  body: JSON.stringify(data)
-}).then(res => {
-  console.log("Request complete! response:", res);
+
+
+$.ajax({
+    type: "POST",
+    url: '/kenmerk',
+    data: { reportid: {{$report->id}},kenmerk: k, _token: '{{csrf_token()}}' },
+    success: function (data) {
+       console.log(data);
+    },
+    error: function (data, textStatus, errorThrown) {
+        console.log(data);
+
+    },
 });
+
 
 
 });
