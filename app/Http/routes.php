@@ -396,7 +396,7 @@ Route::get('pdf2',function(){
 
 
 
-Route::post('/kenmerk', function(){
+Route::post('kenmerk', function(){
 	
 	Log::debug('An informational message.' . \App\Request::input());
 
