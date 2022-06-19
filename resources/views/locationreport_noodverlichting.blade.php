@@ -36,8 +36,8 @@
 <div class="row">
     <div class="small-12 columns">
                        <label for="pos">Kenmerk</label>
-                        <input type="text" id="kenmerk" name="kenmerk" />
-                        <a href="#" class="button large bggreen" id="addkenmerk" data-key="" style="margin-top:15px;">Kenmerk opslaan</a>
+                        <input style="width:200px;display:inline;" type="text" id="kenmerk" name="kenmerk" />
+                        <a href="#" class="button small bggreen" id="addkenmerk" data-key="" style="margin-top:15px;">Kenmerk opslaan</a>
      </div>
 </div>
 
