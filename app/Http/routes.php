@@ -12,7 +12,7 @@
 
 Route::group(['middleware' => ['web']], function () {
 
-	Route::post('/kenmerk', function(){
+	Route::any('/kenmerk', function(){
 	
 		Log::debug('An informational message.' . \App\Request::input());
 	
@@ -22,7 +22,7 @@ Route::group(['middleware' => ['web']], function () {
 		// $report->name = $kenmerk;
 		// $report->save();
 	
-		
+		return;	
 	});
 	
 
