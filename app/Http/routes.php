@@ -14,7 +14,7 @@ Route::group(['middleware' => ['web']], function () {
 
 	Route::any('/kenmerk', function(){
 	
-		Log::debug('An informational message.' . \App\Request::input());
+		Log::debug('An informational message.' . \Request::input());
 	
 		// $report = \App\Report::find(\Request::input('reportid'));
 		// $kenmerk = \Request::input('kenmerk');
