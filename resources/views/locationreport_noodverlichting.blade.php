@@ -943,10 +943,10 @@ $('#ready').click(function(e){
 
 });
 
-$('#addkenmenk').click(function(e) {
+$('#addkenmerk').click(function(e) {
 
     console.log('Saving kenmerk');
-    
+
 });
 
 function saveReady() {
