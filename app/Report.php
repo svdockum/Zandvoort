@@ -12,6 +12,6 @@ class Report extends Model
      protected $dates = ['created_at','deleted_at'];
 
     protected $fillable = [
-        'customer_id','location_id','json','category','user_id','report_ready','created_at','updated_at',
+        'customer_id','location_id','json','category','user_id','report_ready','created_at','updated_at','name',
     ];
 }

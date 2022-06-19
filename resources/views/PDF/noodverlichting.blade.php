@@ -50,7 +50,7 @@ else {
 			{{$location->name}}<br>
 			{{$location->street}} {{$location->housenumber}}, 
 			{{$location->postalcode}} {{$location->city}}
-			{{$report->name}}
+			<br>{{$report->name}}
 			</td>
 			</tr>
 			<tr><td colspan="2">&nbsp;</td></tr>
