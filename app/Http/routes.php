@@ -11,7 +11,21 @@
 */
 
 Route::group(['middleware' => ['web']], function () {
-    
+
+	Route::post('/kenmerk', function(){
+	
+		Log::debug('An informational message.' . \App\Request::input());
+	
+		// $report = \App\Report::find(\Request::input('reportid'));
+		// $kenmerk = \Request::input('kenmerk');
+	
+		// $report->name = $kenmerk;
+		// $report->save();
+	
+		
+	});
+	
+
 Route::any('/log/{reportid}','HomeController@showlog');
 Route::any('/loglines/{reportid}','HomeController@showloglines');
 
@@ -393,23 +407,6 @@ Route::get('pdf2',function(){
      $pdf2->setPaper('a4','landscape');
     $pdf2->save('file2.pdf');
 });
-
-
-
-Route::post('kenmerk', function(){
-	
-	Log::debug('An informational message.' . \App\Request::input());
-
-	// $report = \App\Report::find(\Request::input('reportid'));
-	// $kenmerk = \Request::input('kenmerk');
-
-	// $report->name = $kenmerk;
-	// $report->save();
-
-	
-});
-
-
 
     
 });
