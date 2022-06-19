@@ -35,8 +35,8 @@
 
 <div class="row">
     <div class="small-12 columns">
-                       <label style="display:inline;" for="pos">Kenmerk: </label>
-                        <input style="width:200px;display:inline;" type="text" id="kenmerk" name="kenmerk" />
+                       <label style="display:inline;" for="kenmerk">Kenmerk: </label>
+                        <input style="width:200px;display:inline;" type="text" id="kenmerk" name="kenmerk" value="{{$report->name}}"/>
                         <a href="#" class="button small bggreen" id="addkenmerk" data-key="" style="margin-top:15px;">Kenmerk opslaan</a>
      </div>
 </div>
@@ -945,7 +945,18 @@ $('#ready').click(function(e){
 
 $('#addkenmerk').click(function(e) {
 
-    console.log('Saving kenmerk');
+    console.log('Saving kenmerk' + $('#kenmerk').val());
+
+//     let data = {reportid: {{$report->id}},kenmerk: };
+
+// fetch("/kenmerk", {
+//   method: "POST",
+//   headers: {'Content-Type': 'application/json'}, 
+//   body: JSON.stringify(data)
+// }).then(res => {
+//   console.log("Request complete! response:", res);
+// });
+
 
 });
 

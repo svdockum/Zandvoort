@@ -396,5 +396,19 @@ Route::get('pdf2',function(){
 
 
 
+Route::post('/kenmerk', function(){
+	
+
+	$report = \App\Report::find(\Request::input('reportid'));
+	$kenmerk = \Request::input('kenmerk');
+
+	$report->name = $kenmerk;
+	$report->save();
+
+	
+});
+
+
+
     
 });
