@@ -728,7 +728,7 @@ function resetSelects() {
     //$("select").selectedIndex = 0
     //$('select').find("select option:eq(0)").prop("selected", true).trigger('change');
     $('select').val('-').trigger('change');
-    $('input:text').val('');
+    $('input:text:not(#kenmerk)').val('');
     $('input:checkbox').not("#ready").prop('checked',true);
 
     $('#etage').val('B.G.').trigger('change');
