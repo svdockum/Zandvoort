@@ -14,15 +14,15 @@ Route::group(['middleware' => ['web']], function () {
 
 	Route::any('/kenmerk', function(){
 	
-		Log::debug('An informational message.' . \Request::input());
+		//Log::debug('An informational message.' . \Request::input());
 	
-		// $report = \App\Report::find(\Request::input('reportid'));
-		// $kenmerk = \Request::input('kenmerk');
+		 $report = \App\Report::find(\Request::input('reportid'));
+		 $kenmerk = \Request::input('kenmerk');
 	
-		// $report->name = $kenmerk;
-		// $report->save();
+		 $report->name = $kenmerk;
+		 $report->save();
 	
-		return 'test';	
+		return;	
 	});
 	
 
