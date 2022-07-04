@@ -773,7 +773,7 @@ function resetSelects() {
                                 Object.keys(customer_rows[key]).forEach(function(nkey,index) {
                                     keyvals[nkey] = customer_rows[key][nkey];
 
-                                    if (nkey != 'notes') {
+                                    if (nkey != 'notes' && nkey != 'kenmerk') {
                                       
                                     if (nkey == 'pos') {
                                       str += '<td class="td_' + nkey +'">'+ customer_rows[key][nkey] +'';
