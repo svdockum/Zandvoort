@@ -746,7 +746,7 @@ function resetSelects() {
                 pos = 1;
              
 
-                    $("#dynamicrows").html('<thead> <tr> <th style="width:150px" id="sl" data-sort-order="asc" class="sort-default" data-sort-method="number">Pos.</th><th>Locatie</th><th>Picto</th> <th>Duur</th> <th>Armatuur</th><th>Continu</th><th>Nood</th><th>Batterij</th><th>Tests</th><th>Opmerkingen</th> <th class="text-center">Aanpassen</th><th class="text-center">Verwijderen</th> </tr></thead>');
+                    $("#dynamicrows").html('<thead> <tr> <th style="width:150px" id="sl" data-sort-order="asc" class="sort-default" data-sort-method="number">Pos.</th><th>Locatie</th><th>Picto</th> <th>Duur</th> <th>Armatuur</th><th>Batterij</th><th>Tests</th><th>Opmerkingen</th> <th class="text-center">Aanpassen</th><th class="text-center">Verwijderen</th> </tr></thead>');
                     
 
                     for(var i = 0; i < localStorage.length; i++) {
@@ -818,8 +818,6 @@ function resetSelects() {
                                    
                                 <?php
                                 $extraclass = '';
-                                if ($type == 'blusmiddelen') $extraclass = 'bgred'; 
-                                if ($type == 'keerkleppen') $extraclass = 'blue' ;
                                 if ($type == 'noodverlichting') $extraclass = 'bggreen';
                                 ?>
                                 str += '</td><td class="text-center"><a class="editbtn button <?php echo $extraclass; ?> " href="#" data-key="'+key+'"><i class="fa fa-pencil-square-o"></i></a></td><td class="text-center"><a class="deletebtn button <?php echo $extraclass; ?>" href="#" data-key="'+key+'"><i class="fa fa-trash-o"></i></a></td>';
