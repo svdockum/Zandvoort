@@ -787,6 +787,7 @@ function resetSelects() {
                                       || nkey.indexOf('batt_verv') >= 0
                                       || nkey.indexOf('damage') >= 0
                                       || nkey.indexOf('ok') >= 0
+                                      || nkey.indexOf('autonomiteits') >= 0
                                       ) {
 
                                       if (customer_rows[key][nkey] == 0) {
