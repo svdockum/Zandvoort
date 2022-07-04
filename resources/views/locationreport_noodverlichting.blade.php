@@ -781,12 +781,6 @@ function resetSelects() {
                                     else if (nkey == 'location') {
                                       str += '<br>' + customer_rows[key][nkey];
                                     }
-                                    else if (nkey.indexOf('autonomiteits') >= 0) {
-                                        str += '</td><td class="td_' + nkey +'">' +'Ja';
-                                    }
-                                    else if (nkey.indexOf('autonomiteits') <= 0) {
-                                        str += '</td><td class="td_' + nkey +'">' +'Nee';
-                                    }
                                     else if (
                                        nkey.indexOf('lbcont_verv') >= 0
                                       || nkey.indexOf('lbnood_verv') >= 0
