@@ -806,7 +806,14 @@ function resetSelects() {
                                      str += '</td><td class="td_' + nkey +'">Nee';
                                       }
                                       else {
-                                     str += '</td><td class="td_' + nkey +'">'+ customer_rows[key][nkey] +'';
+                                        let temp = customer_rows[key][nkey];
+                                        if (temp == 0) {
+                                            temp = 'Nee';
+                                        } 
+                                        else if (temp ==1) {
+                                            temp = 'Ja'
+                                        }
+                                     str += '</td><td class="td_' + nkey +'">'+ temp +'';
                                       }
                                     }
                                   }
