@@ -343,7 +343,7 @@ else {
             'city' => $request->input('city'),
             'werknummer' => $request->input('werknummer'),
             'isNood' => $isNood,
-            'isBMI' => $isBMI,
+            
         
         ]);
         
