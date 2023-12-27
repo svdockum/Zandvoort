@@ -82,11 +82,11 @@ else {
 	<td>
 	<table style="margin-left:30px;">
 	<tr>
-		<td>Heesterseweg 29</td>
+		<td>Bedrijvenweg 7</td>
 	<td>T: 073 5326018</td>
 	</tr>
 		<tr>
-		<td>5386 KT Geffen</td>
+		<td>5386 KA Geffen</td>
 	<td>F: 073 5323986</td>
 	</tr>
 	<tr>
