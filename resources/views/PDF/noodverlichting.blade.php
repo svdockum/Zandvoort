@@ -15,7 +15,7 @@ else {
 ?>
 
 <div style="text-align: center;">
-<img src="{{asset('images/voorblad-noodverlichting.jpg')}}" style="width: 900px;">
+<img src="{{secure_asset('images/voorblad-noodverlichting.jpg')}}" style="width: 900px;">
 </div>
 
 <table style="margin-left: 50px;">
@@ -23,7 +23,7 @@ else {
 <tr>
 			@if (!empty($customer->logo)) 
 		<td style="width: 250px;height: 90px">
-			<img style="height: 90px;" src="{{ asset('customerlogos/'. $customer->id . '/' . $customer->logo)}}" />
+			<img style="height: 90px;" src="{{ secure_asset('customerlogos/'. $customer->id . '/' . $customer->logo)}}" />
 		</td>
 		<td style="padding-left: 60px;">
 		@else
@@ -41,7 +41,7 @@ else {
 	<td style="vertical-align: top;border-right: 1px solid #cccccc">
 		<table>
 				<tr><td>Uitgevoerd door:</td></tr>
-			<tr><td><img src="{{asset('images/zandvoortlogo.jpg')}}" style="height: 110px;margin-top:5px;" ></td></tr>
+			<tr><td><img src="{{secure_asset('images/zandvoortlogo.jpg')}}" style="height: 110px;margin-top:5px;" ></td></tr>
 		</table>	
 	</td>
 	<td style="vertical-align: top;">
@@ -77,7 +77,7 @@ else {
 
 	<tr>
 	<td style="width:500px;">
-		<img src="{{asset('images/noodcert.jpg')}}" style="width: 490px;">
+		<img src="{{secure_asset('images/noodcert.jpg')}}" style="width: 490px;">
 	</td>
 	<td>
 	<table style="margin-left:30px;">
