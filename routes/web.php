@@ -1,9 +1,22 @@
 <?php
 
+use App\Http\Controllers\ProfileController;
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\HomeController;
+use App\Http\Controllers\ImportController;
 
 
-Route::group(['middleware' => ['web']], function () {
+
+
+Route::get('/dashboard', function () {
+    return view('dashboard');
+})->middleware(['auth', 'verified'])->name('dashboard');
+
+Route::middleware('auth')->group(function () {
+    Route::get('/profile', [ProfileController::class, 'edit'])->name('profile.edit');
+    Route::patch('/profile', [ProfileController::class, 'update'])->name('profile.update');
+    Route::delete('/profile', [ProfileController::class, 'destroy'])->name('profile.destroy');
+});
 
 	Route::any('/kenmerk', function(){
 	
@@ -19,8 +32,8 @@ Route::group(['middleware' => ['web']], function () {
 	});
 	
 
-Route::any('/log/{reportid}','HomeController@showlog');
-Route::any('/loglines/{reportid}','HomeController@showloglines');
+Route::any('/log/{reportid}',[HomeController::class, 'showlog']);
+Route::any('/loglines/{reportid}',[HomeController::class, 'showloglines']);
 
     //
 	Route::any('/import','ImportController@index');
@@ -96,23 +109,21 @@ Route::any('/loglines/{reportid}','HomeController@showloglines');
 
 		return response()->json($convertArray);
 	});
-});
 
-Route::group(['middleware' => 'web'], function () {
-    //Route::auth();
+Route::middleware('auth')->group(function () {
 
-    Route::get('/', 'HomeController@index');
-    Route::get('/home', 'HomeController@index');
+    Route::get('/', [HomeController::class, 'index']);
+    Route::get('/home', [HomeController::class, 'index']);
 
   
-	Route::get('/customer/create', 'HomeController@customerCreate');
-	Route::post('/customer/add', 'HomeController@customerAdd');
+	Route::get('/customer/create', [HomeController::class, 'customerCreate']);
+	Route::post('/customer/add', [HomeController::class, 'customerAdd']);
 
-	Route::post('/customer/delete/{id}', 'HomeController@deleteCustomer');
-	Route::post('/customer/update/{id}', 'HomeController@updateCustomer');
+	Route::post('/customer/delete/{id}', [HomeController::class, 'deleteCustomer']);
+	Route::post('/customer/update/{id}', [HomeController::class, 'updateCustomer']);
 	
-Route::get('/latest', 'HomeController@showLatestReports');
-Route::get('/klant/{locationid?}', 'HomeController@showKlant');
+Route::get('/latest', [HomeController::class, 'showLatestReports']);
+Route::get('/klant/{locationid?}', [HomeController::class, 'showKlant']);
 
 	Route::any('/customer/edit/{id}', function($id) {
 		$customer = App\Customer::find($id);
@@ -125,23 +136,23 @@ Route::get('/klant/{locationid?}', 'HomeController@showKlant');
 	});
 
 	
-	Route::get('/customer/{customerid}/location/create', 'HomeController@locationCreate');
+	Route::get('/customer/{customerid}/location/create', [HomeController::class, 'locationCreate']);
 
-	Route::post('/location/add', 'HomeController@locationAdd');
+	Route::post('/location/add', [HomeController::class, 'locationAdd']);
 
 	
-	Route::get('/customer/{customerid}/location/list', 'HomeController@locationList');
+	Route::get('/customer/{customerid}/location/list', [HomeController::class, 'locationList']);
 	
-	Route::post('/location/delete/{id}', 'HomeController@deleteLocation');
-	Route::post('/location/update/{id}', 'HomeController@updateLocation');
-	
-
-	Route::post('/customer/savereport', 'HomeController@saveReport');
-	Route::post('/customer/saveready', 'HomeController@saveready');
+	Route::post('/location/delete/{id}', [HomeController::class, 'deleteLocation']);
+	Route::post('/location/update/{id}', [HomeController::class, 'updateLocation']);
 	
 
-	Route::get('/report/pdf/{id}', 'HomeController@reportPdf');
-	Route::get('/report/pdf2/{id}', 'HomeController@reportPdf2');
+	Route::post('/customer/savereport', [HomeController::class, 'saveReport']);
+	Route::post('/customer/saveready', [HomeController::class, 'saveready']);
+	
+
+	Route::get('/report/pdf/{id}', [HomeController::class, 'reportPdf']);
+	Route::get('/report/pdf2/{id}', [HomeController::class, 'reportPdf2']);
 
 	Route::any('/report/delete/{id}',function($id){
 
@@ -211,54 +222,38 @@ Route::get('/klant/{locationid?}', 'HomeController@showKlant');
     	return view('reportdateuseredit', ['reportid'=>$reportid]);
     });
 
-    Route::get('/customer/{customerid}/{type}/location/{locationid}/{reportid?}/checkin', 'HomeController@locationreportcheckin');
-    Route::get('/customer/{customerid}/{type}/location/{locationid}/{reportid?}/checkout', 'HomeController@locationreportcheckout');
-    Route::get('/customer/{customerid}/{type}/location/{locationid}/{reportid?}/archive', 'HomeController@locationreportarchive');
+    Route::get('/customer/{customerid}/{type}/location/{locationid}/{reportid?}/checkin', [HomeController::class, 'locationreportcheckin']);
+    Route::get('/customer/{customerid}/{type}/location/{locationid}/{reportid?}/checkout', [HomeController::class, 'locationreportcheckout']);
+    Route::get('/customer/{customerid}/{type}/location/{locationid}/{reportid?}/archive', [HomeController::class, 'locationreportarchive']);
 
-    Route::get('/customer/{customerid}/{type}/location/{locationid}/{reportid?}', 'HomeController@locationreport');
-
-
-Route::get('/customer/archive/{customerid}', 'HomeController@showcustomerarchive');
-
-	Route::get('/customer/{customerid}/{type}', 'HomeController@selectlocation');
-		Route::get('/customer/{customerid}', 'HomeController@showcustomer');
+    Route::get('/customer/{customerid}/{type}/location/{locationid}/{reportid?}', [HomeController::class, 'locationreport']);
 
 
-	Route::get('/user/overview', 'HomeController@userOverview');
+Route::get('/customer/archive/{customerid}', [HomeController::class, 'showcustomerarchive']);
 
-	Route::get('/user/create', 'HomeController@userCreate');
-	Route::post('/user/add', 'Auth\AuthController@createRedirect');
-	Route::post('/user/delete/{id}', 'Auth\AuthController@deleteUser');
-	Route::post('/user/update/{id}', 'Auth\AuthController@updateUser');
+	Route::get('/customer/{customerid}/{type}', [HomeController::class, 'selectlocation']);
+		Route::get('/customer/{customerid}', [HomeController::class, 'showcustomer']);
+
+
+	Route::get('/user/overview', [HomeController::class, 'userOverview']);
+
+	Route::get('/user/create', [HomeController::class, 'userCreate']);
+    //	Route::post('/user/add', 'Auth\AuthController@createRedirect');
+	// Route::post('/user/delete/{id}', 'Auth\AuthController@deleteUser');
+	// Route::post('/user/update/{id}', 'Auth\AuthController@updateUser');
 	Route::any('/user/edit/{id}', function($id) {
 		$user = App\User::find($id);
 		return view('auth.edituser',['user'=>$user]);
 	});
 
+	Route::get('/pdf',[HomeController::class, 'showpdf']);
 
+	Route::get('/lists/blusbrand',[HomeController::class, 'blusbrand']);
+	Route::get('/lists/blusstof/{id?}',[HomeController::class, 'blusstof']);
+	Route::get('/lists/blustype/{brandid?}/{blusstofid?}',[HomeController::class, 'blustype']);
 
-	Route::get('/pdf','HomeController@showpdf');
-
-
-	Route::get('/lists/blusbrand','HomeController@blusbrand');
-	Route::get('/lists/blusstof/{id?}','HomeController@blusstof');
-	Route::get('/lists/blustype/{brandid?}/{blusstofid?}','HomeController@blustype');
-
-
-	Route::get('/lists/nood/{model}/{filter}','HomeController@getlist');
-	Route::any('report/log', 'HomeController@anyLog');
-
-	///nood/brand/armatuur
-/*
-	/nood/brand or type/continu
-	/nood/brand/nood
-	/nood/brand/battery
-
-	/nood/type/picto
-*/
-
-	
-
+	Route::get('/lists/nood/{model}/{filter}',[HomeController::class, 'getlist']);
+	Route::any('report/log', [HomeController::class, 'anyLog']);
 
 	Route::post('/lists/nood/{model}/{filter}', function($model,$filter){
 		
@@ -403,3 +398,8 @@ Route::get('pdf2',function(){
 
     
 });
+
+
+
+
+require __DIR__.'/auth.php';

@@ -15,7 +15,7 @@ else {
 ?>
 
 <div style="text-align: center;">
-<img src="{{secure_asset('images/voorblad-noodverlichting.jpg')}}" style="width: 900px;">
+<img src="{{public_path('images/voorblad-noodverlichting.jpg')}}" style="width: 900px;">
 </div>
 
 <table style="margin-left: 50px;">
@@ -23,7 +23,7 @@ else {
 <tr>
 			@if (!empty($customer->logo)) 
 		<td style="width: 250px;height: 90px">
-			<img style="height: 90px;" src="{{ secure_asset('customerlogos/'. $customer->id . '/' . $customer->logo)}}" />
+			<img style="height: 90px;" src="{{ public_path('customerlogos/'. $customer->id . '/' . $customer->logo)}}" />
 		</td>
 		<td style="padding-left: 60px;">
 		@else
@@ -41,7 +41,7 @@ else {
 	<td style="width: 250px;vertical-align: top;border-right: 1px solid #cccccc">
 		<table>
 				<tr><td>Uitgevoerd door:</td></tr>
-			<tr><td><img src="{{secure_asset('images/bco.png')}}" style="width: 200px;margin-top:10px;" ></td></tr>
+			<tr><td><img src="{{public_path('images/bco.png')}}" style="width: 200px;margin-top:10px;" ></td></tr>
 		</table>	
 	</td>
 	<td style="vertical-align: top;">
@@ -76,7 +76,7 @@ else {
 <tr><td>&nbsp;</td></tr>
 <tr>
 <td style="width:250px;">
-<img src="{{secure_asset('images/bluscert.jpg')}}" style="width: 200px;">
+<img src="{{public_path('images/bluscert.jpg')}}" style="width: 200px;">
 </td>
 <td style="width: 200px;">
 <table>
@@ -177,7 +177,7 @@ $image = 'notchecked.png';
 		} ?>
 
 
-<td style="text-align: center;"><img src="{{ secure_asset('images/' . $image)}}" style="width: 20px;margin: 5px;" /></td>
+<td style="text-align: center;"><img src="{{ public_path('images/' . $image)}}" style="width: 20px;margin: 5px;" /></td>
 <td>{{$row['remarks']}}</td>
 </tr>
 @endforeach
